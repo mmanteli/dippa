@@ -153,7 +153,7 @@ def train_and_eval_ner(dataset, tokenizer, args):
     return trainer.model
     
 
-if __name__ = "__main__":
+if __name__== "__main__":
     args = argparser().parse_args()
     print(args)
 
