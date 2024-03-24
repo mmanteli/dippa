@@ -21,16 +21,13 @@ class PiiFinder:
     def find_pii(self, text, debug = False):
         masked_indices, tokenized_text, decoded_text = self.mask(text)
         if debug: print(masked_indices)
-        #result = np.zeros(len(tokenized_text["input_ids"][0]), dtype=int)
-        result2 = []
+        result = []
         for ind in masked_indices:
             final_score = self.get_scores(ind, tokenized_text, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
             if final_score < self.threshold:
-                #result[ind] += 1
-                result2.append(ind)
-        #return result, result2
-        return result2
+                result.append(ind)
+        return {"decoded_text": decoded_text, "tokenizer_output": tokenized_text, "to_redact": result}
 
     def print_pii(self, text, debug=False):
         masked_indices, tokenized_text, decoded_text = self.mask(text)
