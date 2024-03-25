@@ -217,7 +217,7 @@ class PiiMasker:
         top_tokens = top_tokens[:,:,:self.choose_n]
         top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
         top_guess = find_best_cosine_match(self.tokenizer.decode(true_token), top_guesses, self.choose_k, self.pipeline)
-        print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
+        if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
 
         
         # Do only in debug mode:
@@ -229,7 +229,7 @@ class PiiMasker:
             top_tokens = top_tokens[:,:,:self.choose_n]
     
         
-            print("Guesses:",self.tokenizer.decode(top_tokens[0,i,:]))
+            #print("Guesses:",self.tokenizer.decode(top_tokens[0,i,:]))
             #print("Logits: ",top_logits[0,i,:])
             #print("Probs:  ",top_probs[:self.choose_n])
             print("")
