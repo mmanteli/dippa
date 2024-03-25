@@ -1,3 +1,7 @@
+import numpy as np
+import torch
+#from transformers import pipeline, pipelines, AutoTokenizer, AutoModelForPreTraining
+from sklearn.metrics.pairwise import cosine_similarity
 
 def get_embed_for_a_vector(x, pipeline):
     #p=pipeline(task="feature-extraction",model=MODEL_NAME,return_tensors=True,device=0)
