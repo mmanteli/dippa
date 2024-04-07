@@ -10,21 +10,22 @@ from cosine_similarity import find_best_cosine_match
 
 class PiiMasker:
 
-    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=3, pipe_model=None, tokenizer_type="BPE"):
+    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type="BPE"):
         self.model = model
+        self.model.eval()   # remove some unneeded functionality
         self.tokenizer = tokenizer
-        self.threshold = threshold
+        assert tokenizer_type in ["BPE", "WordPiece"]
+        self.tokenizer_type = tokenizer_type
+        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type] 
+        self.special_tokens = tokenizer.all_special_tokens
+        self.threshold = threshold    # this is to be optimized
         self.use_context = bool(use_context)
         self.choose_n = int(choose_n)
         self.choose_k = int(choose_k)
-        if pipe_model is not None:
-            self.pipeline = transformers.pipeline(task="feature-extraction",model=pipe_model,tokenizer=pipe_model, return_tensors=True)#,device=0)
+        if embedding_model is not None:
+            self.embedding_model = embedding_model
         else:
-            self.pipeline = transformers.pipeline(task="feature-extraction",model=model,tokenizer=tokenizer, return_tensors=True)#,device=0)
-        self.special_tokens = tokenizer.all_special_tokens
-        assert tokenizer_type in ["BPE", "WordPiece"]
-        self.tokenizer_type = tokenizer_type
-        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type]
+            self.embedding_model = self.model
 
     def find_pii(self, text, debug = False):
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
@@ -200,7 +201,8 @@ class PiiMasker:
             return softmax(A)
             
         # do a prediction
-        model_out = self.model(**masked)
+        with torch.no_grad():
+            model_out = self.model(**masked)
         if self.tokenizer_type=="WordPiece":
             logits = model_out["prediction_logits"]
         elif self.tokenizer_type=="BPE":
@@ -216,7 +218,7 @@ class PiiMasker:
         top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
         top_tokens = top_tokens[:,:,:self.choose_n]
         top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
-        top_guess = find_best_cosine_match(self.tokenizer.decode(true_token), top_guesses, self.choose_k, self.pipeline)
+        top_guess = find_best_cosine_match(self.tokenizer.decode(true_token), top_guesses, self.choose_k, self.embedding_model, self.tokenizer)
         if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
 
         
