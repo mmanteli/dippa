@@ -8,9 +8,11 @@ import numpy as np
 import string
 from cosine_similarity import find_best_cosine_match
 
+#top_guess = find_best_cosine_match(self.tokenizer.decode(true_token), top_guesses, self.choose_k, self.embedding_model, self.tokenizer)
+
 class PiiMasker:
 
-    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type="BPE"):
+    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type="BPE", return_tokenizer_output=False):
         self.model = model
         self.model.eval()   # remove some unneeded functionality
         self.tokenizer = tokenizer
@@ -22,6 +24,7 @@ class PiiMasker:
         self.use_context = bool(use_context)
         self.choose_n = int(choose_n)
         self.choose_k = int(choose_k)
+        self.return_tokenizer_output=return_tokenizer_output
         if embedding_model is not None:
             self.embedding_model = embedding_model
         else:
@@ -29,10 +32,13 @@ class PiiMasker:
 
     def find_pii(self, text, debug = False):
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
+        if context == []:
+            context = [[]*len(masked_indices)]
         if debug: print(masked_indices)
         to_be_redacted = []
         to_be_redacted_words = []
         to_redact_with = []
+        to_redact_context = []
         for ind, cont in zip(masked_indices, context):
             final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
@@ -40,8 +46,20 @@ class PiiMasker:
                 to_be_redacted.append(ind)
                 to_redact_with.append(predictions)
                 to_be_redacted_words.append(self.tokenizer.convert_ids_to_tokens(tokenized_text["input_ids"][0][ind]))
-                
-        return {"decoded_text": decoded_text, "tokenizer_output": tokenized_text, "to_redact_indices": to_be_redacted, "to_redact_words": to_be_redacted_words, "predictions": to_redact_with}
+                to_redact_context.append(cont)
+        if self.return_tokenizer_output:
+            return {"decoded_text": decoded_text, 
+                    "tokenizer_output": tokenized_text, 
+                    "to_redact_indices": to_be_redacted, 
+                    "to_redact_words": to_be_redacted_words, 
+                    "predictions": to_redact_with,
+                    "context": to_redact_context}
+        else:
+            return {"decoded_text": decoded_text,
+                    "to_redact_indices": to_be_redacted, 
+                    "to_redact_words": to_be_redacted_words,
+                    "predictions": to_redact_with,
+                    "context": to_redact_context}
 
     def print_pii(self, text, debug=False):
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
@@ -218,8 +236,7 @@ class PiiMasker:
         top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
         top_tokens = top_tokens[:,:,:self.choose_n]
         top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
-        top_guess = find_best_cosine_match(self.tokenizer.decode(true_token), top_guesses, self.choose_k, self.embedding_model, self.tokenizer)
-        if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
+        #if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
 
         
         # Do only in debug mode:

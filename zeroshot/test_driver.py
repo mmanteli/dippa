@@ -13,6 +13,6 @@ pf = PiiMasker(model, tokenizer, 1e-4, use_context=use_context, tokenizer_type="
 
 text = "Moi, olen Amanda, mulle voit laittaa viestiä osoitteeseen amanda@outlook.com"
 
-print(pf.print_pii(text))#, debug=True))
+print(pf.find_pii(text))#, debug=True))
 #output = print(pf.find_pii(text))
 
