@@ -12,8 +12,8 @@ model = transformers.AutoModelForPreTraining.from_pretrained(MODEL_NAME)
 
 pf = PiiMasker(model, tokenizer, 1e-4, use_context=use_context, tokenizer_type="WordPiece")
 
-text = "Moi, olen Amanda, mulle voit laittaa viestiä osoitteeseen amanda@outlook.com"
+text = "Tässä on Amanda. Amandalle voit laittaa viestiä osoitteeseen amanda@outlook.com"
 
-print(json.dumps(pf.find_pii(text)))#, debug=True))
+print(json.dumps(pf.find_pii(text, debug=True)))
 #output = print(pf.find_pii(text))
 
