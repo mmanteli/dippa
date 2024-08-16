@@ -4,19 +4,24 @@ import sys
 import json
 import spacy
 
+
 context = sys.argv[1]
 use_context = {"False":False, "True":True}[context]
-#MODEL_NAME = "xlm-roberta-base"
-MODEL_NAME="TurkuNLP/bert-base-finnish-cased-v1"
+MODEL_NAME = "xlm-roberta-base"
+#MODEL_NAME="TurkuNLP/bert-base-finnish-cased-v1"
+#MODEL_NAME="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR"
 tokenizer = transformers.AutoTokenizer.from_pretrained(MODEL_NAME)
 model = transformers.AutoModelForPreTraining.from_pretrained(MODEL_NAME)
 lemmatizer = spacy.load("fi_core_news_lg")
 
-pd = PiiDetector(model, tokenizer, lemmatizer, 1e-3, use_context=use_context)#, tokenizer_type="BPE")
+f = open("example_small.txt", "r")
+text = f.read()
+#text = "Tässä on Amanda Myntti. Amandalle voit laittaa viestiä osoitteeseen amanda.myntti@gmail.com"
 
-text = "Tässä on Amanda Myntti. Amandalle voit laittaa viestiä osoitteeseen amanda.myntti@gmail.com"
+#print(text)
+pd = PiiDetector(model, tokenizer, lemmatizer, 5e-5, use_context=use_context)#, tokenizer_type="BPE")
 
-print(json.dumps(pd.print_pii(text, debug=True)))
-output = print(pd.find_pii(text))
-print(json.dumps(output))
+print(json.dumps(pd.redact_pii(text)))#, debug=True)))
+#output = print(pd.find_pii(text))
+#print(json.dumps(output))
 

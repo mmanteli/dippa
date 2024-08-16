@@ -12,7 +12,8 @@ import string
 class PiiDetector:
 
     def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False):
-        self.model = model
+        self.device="cuda:0" if torch.cuda.is_available() else "cpu"
+        self.model = model.to(self.device)
         self.model.eval()   # remove some unneeded functionality
         self.tokenizer = tokenizer
         self.lemmatizer = lemmatizer
@@ -53,14 +54,16 @@ class PiiDetector:
                 to_be_redacted_words.append(self.tokenizer.convert_ids_to_tokens(tokenized_text["input_ids"][0][ind]))
                 to_redact_context.append(cont)
         if self.return_tokenizer_output:
-            return {"decoded_text": decoded_text, 
+            return {"original_text": text,
+                    "decoded_text": decoded_text, 
                     "tokenizer_output": tokenized_text, 
                     "to_redact_indices": to_be_redacted, 
                     "to_redact_words": to_be_redacted_words, 
                     #"predictions": to_redact_with,
                     "context": to_redact_context}
         else:
-            return {"decoded_text": decoded_text,
+            return {"original_text": text,
+                    "decoded_text": decoded_text,
                     "to_redact_indices": to_be_redacted, 
                     "to_redact_words": to_be_redacted_words,
                     #"predictions": to_redact_with,
@@ -80,6 +83,21 @@ class PiiDetector:
                 prints.append(f'{word} \t >> {final_score}')
         for p in prints:
             print(p)
+
+    def redact_pii(self, text, debug=False):
+        masked_indices, tokenized_text, decoded_text, context = self.mask(text)
+        if context == []:
+            context = [[]*len(masked_indices)]
+        prints = []
+        for ind, cont in zip(masked_indices, context):
+            final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
+            word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
+            if final_score < self.threshold:
+                prints.append(f'█████')#, preds: {predictions[:4]}')
+            else:
+                prints.append(f'{word}')
+        for p in prints:
+            print(p, end=" ")
 
 
     
@@ -115,7 +133,7 @@ class PiiDetector:
     def mask(self, text):
         if self.use_context:
             return self.context_aware_mask(text)
-        t = self.tokenizer(text, return_tensors='pt') # prepare normal tokenized input
+        t = self.tokenizer(text, return_tensors='pt').to(self.device) # prepare normal tokenized input
         if self.tokenizer_type == "BPE":
             indices = self.get_indices_BPE(t)
         elif self.tokenizer_type == "WordPiece":
@@ -146,7 +164,7 @@ class PiiDetector:
         indices_context=[]
         lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
         assert len(words)==len(indices), "Issues with masking the sentence."
-        assert len(lem_words)==len(indices), "Issues with lemmatizing the sentence."
+        assert len(lem_words)==len(indices), f'Issues with lemmatizing the sentence.\n{lem_words}\n{words}'
     
         # then, map same words to same context: eg. "Ville" in indices [2,3] and [13,14]
         # => context for first is [13,14] and [2,3] for second.
@@ -172,7 +190,9 @@ class PiiDetector:
         reminder = False   # for BPE, to separate punct, we need to know if the last token was punct
         for i in range(0, len(t["input_ids"][0])):
             # for BPE, continuation marker is actually a "starting marker"
-            if reminder or (converted[i][0] == self.continuation_marker and converted[i] not in self.special_tokens) or converted[i] in string.punctuation:
+            if converted[i] not in string.punctuation and converted[i][-1]==".":
+                converted[i] = converted[i][0:-1]
+            if (reminder and converted[i] not in self.special_tokens) or (converted[i][0] == self.continuation_marker and converted[i] not in self.special_tokens) or converted[i] in string.punctuation:
                 reminder=False
                 if converted[i] in string.punctuation:
                     reminder = True
@@ -190,7 +210,7 @@ class PiiDetector:
         indices_context=[]
         lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
         assert len(words)==len(indices), "Issues with masking the sentence."
-        assert len(lem_words)==len(indices), "Issues with lemmatizing the sentence."
+        assert len(lem_words)==len(indices), f'Issues with lemmatizing the sentence.\n{lem_words}\n{words}'
     
         # then, map same words to same context: eg. "Ville" in indices [2,3] and [13,14]
         # => context for first is [13,14] and [2,3] for second.
@@ -211,7 +231,7 @@ class PiiDetector:
     
     def context_aware_mask(self, text):
         
-        t = self.tokenizer(text, return_tensors='pt') # prepare normal tokenized input
+        t = self.tokenizer(text, return_tensors='pt').to(self.device) # prepare normal tokenized input
         if self.tokenizer_type == "BPE":
             indices, context = self.get_context_indices_BPE(t)
         elif self.tokenizer_type == "WordPiece":
