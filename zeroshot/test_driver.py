@@ -10,7 +10,8 @@ use_context = {"False":False, "True":True}[context]
 MODEL_NAME = "xlm-roberta-base"
 #MODEL_NAME="TurkuNLP/bert-base-finnish-cased-v1"
 #MODEL_NAME="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR"
-tokenizer = transformers.AutoTokenizer.from_pretrained(MODEL_NAME)
+TOKENIZER_NAME = MODEL_NAME if MODEL_NAME!="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" else "xlm-roberta-large"
+tokenizer = transformers.AutoTokenizer.from_pretrained(TOKENIZER_NAME)
 model = transformers.AutoModelForPreTraining.from_pretrained(MODEL_NAME)
 lemmatizer = spacy.load("fi_core_news_lg")
 
