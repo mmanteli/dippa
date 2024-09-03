@@ -1,0 +1,18 @@
+Potilaan tiedot.
+Etunimi: Rocio.
+Sukunimi: Duque Herrera.
+NHC: 5647049.
+NASS: 85 67945679 30.
+Osoite: C/ Altos de Nava, 34, 9, A.
+Kaupunki/ maakunta: Cartagena, Murcia.
+POSTINUMERO: 30202.
+Hoitotiedot.
+Syntymäaika: 10/11/1987.
+Syntymämaa: Espanja.
+Ikä: 25 vuotta Sukupuoli: mies.
+Vastaanottopäivä: 20/01/2013.
+Osasto: Nefrologia.
+Jakso: 8567589.
+Lääkäri: Gracia Álvarez Fernández Col Nº: 30 30 57256.
+Kliininen raportti potilaasta: 25-vuotias nainen, jolla ei ole aiempaa kiinnostavaa historiaa ja jota tutkitaan, koska hänellä on ollut vatsakipua pääasiassa oikeassa hypokondriossa. Fyysinen tutkimus ja laboratoriokokeet, mukaan lukien maksaprofiili, olivat normaalit. Vatsan ultraäänitutkimus tehtiin, ja siinä paljastui 8 senttimetrin mittainen, monikeskuksinen, hypoekaikuinen, kystinen maksavaurio, jossa oli hyperechoja alueita ja kalsiumia, joka sijaitsi maksan segmenteissä 4-5 ja jossa oli papillaarisia ulokkeita kohti maksan hilumia. Koska pahanlaatuisuutta ei voitu sulkea pois, suositeltiin kirurgista hoitoa. Potilaalle tehtiin leikkaus, ja maksan hilumissa, segmenteissä 4 ja 5, porttilaskimon haarautumiskohdassa ja keskimmäisessä maksalaskimossa todettiin halkaisijaltaan noin 10 senttimetrin kokoinen kystinen leesio. Kystoperikystektomia, jossa verisuonet kontrolloitiin, tehtiin ilman poissulkemista. Leikkauksen jälkeinen kulku oli suotuisa, ja potilas kotiutettiin viikon kuluttua. Lopullinen histologinen diagnoosi osoitti, että kyseessä oli säikeinen maksakysta.
+Kliininen johtaja: Dr. Gracia Álvarez Fernández Nefrologian osasto Hospital General Universitario Santa Lucía Mezquita, Paraje Los Arcos 30202, Cartagena, Murcia E-mail: alvarez.gracia@gmail.com.

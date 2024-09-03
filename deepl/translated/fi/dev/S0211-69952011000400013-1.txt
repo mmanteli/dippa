@@ -1,0 +1,26 @@
+Potilaan tiedot.
+Etunimi: Francisca.
+Sukunimi: Guerra Diepa.
+NHC: 7834564.
+NASS: 23 74567045 16.
+Osoite: C/ Cantabria, 86, 2 G.
+Paikkakunta/ maakunta: Madrid.
+POSTINUMERO: 28040.
+Hoitotiedot.
+Syntymäaika: 17/12/1953.
+Syntymämaa: Espanja.
+Ikä: 58 vuotta Sukupuoli: mies.
+Vastaanottopäivä: 05/06/2012.
+Lääkäri: Pablo Justo Ávila NºCol: 28 28 47321.
+Potilaan sairauskertomus: 58-vuotias nainen, jolla on ollut masennusoireyhtymä ja lannerangan kanavan ahtauma. Diagnosoitu B27-positiivinen selkärankareuma vuonna 2005 ja hoidettu adalimumabilla vuodesta 2008. Ennen hoidon aloittamista positiivinen tuberkuliinin ihokoe edellytti isoniatsidiprofylaksiaa yhdeksän kuukauden ajan. Hänen säännölliseen lääkitykseensä kuului ei-steroidisia tulehduskipulääkkeitä, tramadolia, masennuslääkkeitä ja protonipumpun estäjiä.
+Rutiinitarkastuksessa reumatologin vastaanotolla todettiin hänen munuaistoimintansa heikentyneen merkittävästi, ja häntä pyydettiin nefrologiseen arviointiin. Potilas oli oireeton. Alkuvaiheen fyysisessä tutkimuksessa ei ollut turvotusta, laterokervikaalista tai retroaurikulaarista lymfadenopatiaa ei ollut tunnusteltavissa, ja kardiopulmonaalinen auskultaatio oli normaali.
+Analyysilöydösten perusteella tehtiin munuaisten ultraäänitutkimus, jossa todettiin 10 ja 12 senttimetrin kokoiset munuaiset, joiden kortikomedullaarinen erilaistuminen oli hyvä. Munuaiskivettymästä tai pyelokalisesta laajentumasta ei ollut merkkejä. Pernan hypodenssivauriot viittasivat mahdolliseen lymfomatoosiin, jolloin potilas otettiin lisätutkimuksiin.
+Rintakehän, vatsan ja lantion tietokonetomografiassa (TT) todettiin useita keuhkokyhmyjä (pääasiassa ylälohkoissa ja peribronkovaskulaarinen kuvio) ja välikarsinan adenopatioita. Pernan muutoksia ei havaittu.
+Kohdunkaulan adenopatiasta otettiin koepala, jossa todettiin granulomatoottinen epitelioidinen tulehdus, johon liittyi laaja kaseoottinen nekroosi. Ziehl-Nielsen-värjäyksessä todettiin vain vähän bakteereita.
+Näiden löydösten perusteella päätettiin tehdä fibrobronkoskopia, jossa hengitysteissä ei havaittu makroskooppisia vaurioita. Bronkoalveolaarisessa huuhtelussa todettiin kohtalainen määrä lymfosyyttejä, keuhkoputkien huuhtelu oli negatiivinen, ja mediastinaalisen adenopatian transbronkiaalisessa ohutneulahuuhtelussa todettiin granuloomia. Ziehlin värjäys todettiin aluksi negatiiviseksi, ja toisella tutkimuskerralla havaittiin yksi happofastibasilli. Fibrobronkoskopian jälkeen tehtiin tuberkuloosin interferonigammapäästömääritys (quantiFERON), joka oli positiivinen. Näiden testien perusteella päätettiin aloittaa tuberkuloosilääkitys.
+Osana nefrologista tutkimusta antinukleaariset vasta-aineet (ANA), neutrofiiliset sytoplasmavasta-aineet (ANCA), DNA-vasta-aineet ja glomerulaarisen tyvikalvon vasta-aineet olivat negatiivisia. Virusserologia oli negatiivinen ihmisen immuunikatoviruksen sekä B- ja C-hepatiittivirusten osalta. Komplementti oli normaali. Virtsa-analyysi osoitti aluksi mikroalbuminuria/reatininuria-indeksiä 261,9 mg/g ja proteinuria/reatininuria-indeksiä 1,1 ilman nefroottista oireyhtymää. Ainoa merkittävä löydös proteiinikuvassa oli monoklonaalinen IgM-piikki, jonka seerumipitoisuus oli 305 mg/dl ja virtsan kevytketjupitoisuus negatiivinen.
+Osastolla ollessaan potilaalla oli jatkuva valtimoverenpainetauti, eikä hänellä ollut merkkejä veden ylikuormituksesta tai muista merkittävistä oireista.
+Kliinisten löydösten (vakava munuaisten vajaatoiminta), radiologisten löydösten (munuaiset olivat kooltaan ja kaikurakenteeltaan normaalit) ja analyysilöydösten (anemia, proteinuria ja mikrohematuria) perusteella tehtiin munuaisbiopsia, jossa todettiin interstitiaalinen tulehdus, jossa oli lymfosyyttejä ja histiosyyttejä, jotka muodostivat granuloomia useissa kohdissa. Yhdessä niistä oli monitumaisia Langhansin tyyppisiä jättiläissoluja. Glomerulukset olivat normaalit. Tubuluksissa luumenissa oli granulaarista materiaalia ja epiteelin litistymistä. PAS- ja Ziehl-Nielsen-värjäyksessä ei havaittu mikro-organismeja.
+Munuaisbiopsian ottamisen jälkeen potilas kotiutettiin hoitoon prednisonilla annoksella 40 mg/vrk, erytropoietiinillä ja täydellisellä tuberkuloosilääkityksellä (rifampisiini, isoniatsidi, etambutoli ja pyratsiiniamidi).
+Potilaan munuaistoiminta parani hitaasti mutta asteittain. Hänellä oli edelleen anemia ja suuri erytropoietiinin tarve, valtimoverenpainetauti, jota hoidettiin kahdella lääkkeellä, ja hyperurikemia korjaantui allopurinolilla.
+Kliininen johtaja: Dr. Pablo Justo Ávila, Servicio de Nefrología, IIS-Fundación Jiménez Díaz, Avda. Reyes Católicos, 2, 28040, Madrid E-mail: pjusto83@gmail.com.

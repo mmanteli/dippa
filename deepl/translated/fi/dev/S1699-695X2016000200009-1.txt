@@ -1,0 +1,21 @@
+Potilaan tiedot.
+Etunimi: Martin.
+Sukunimi: Castillo Puebla.
+NHC: 3089257.
+Osoite: Calle Antonio González Echarte, 1, 3A.
+Kaupunki/ maakunta: Madrid.
+POSTINUMERO: 28029.
+Hoitotiedot.
+Syntymäaika: 05/04/2008.
+Maa: Espanja.
+Ikä: 10 vuotta Sukupuoli: Mies.
+Sisäänottopäivä: 31/05/2018.
+Lääkäri: Ruth Bravo Lizcano NºCol: 28 31 23689.
+Anamneesi: 10-vuotias poika, jolla ei ole aiempaa sairaushistoriaa ja jolla on molemminpuolinen gonalgia, selkäkipu ja alaselkäkipu polkupyörästä putoamisen jälkeen 4 päivää sitten. Tutkimuksessa hänen aktiivinen ja passiivinen liikkuvuutensa säilyi ja hänellä oli kipua molemmissa alaraajoissa (MMII). Murtumiin tai neurologisiin muutoksiin viittaavia merkkejä ei ollut. Hänelle määrättiin lepoa, paikallista kylmähoitoa ja tulehduskipulääkitystä. 48 tunnin kuluttua potilas palasi takaisin, koska hänellä oli jatkuvaa kipua, voiman heikkenemistä, alaraajojen parestesiaa, vaikeuksia nousta ylös ja kävellä sekä virtsankarkailua.
+Fyysinen tutkimus: Fyysisessä tutkimuksessa havaittiin voiman vähenemistä ja tuntoaistimusten muuttumista molemmissa alaraajoissa. Epäily poikittaisesta myeliitistä johti lähetteeseen sairaalan päivystyspoliklinikalle.
+Yhteenveto täydentävistä testeistä: Vastaanotettaessa verikokeet olivat normaalit, aivo-selkäydinnestetutkimuksessa todettiin kohtalainen pleosytoosi ilman oligoklonaalisia IgG-taiminauhoja; sähköenkefalogrammissa ei todettu muutoksia, ja herätetyissä potentiaaleissa todettiin MMII:n halvaus ja spastisuus, hyporefleksiat ja molemminpuolinen Babinskyn refleksio, vatsa- ja kremasterirefleksien puuttuminen, vartalon ja MMII:n hyperalgesia ja dysaestesia. Sähkömykogrammi osoitti, että somatosensorinen tuntoaisti on heikentynyt takimmaisten aivosäikeiden kautta, eikä johtuminen kulje oikean aivosäikeen kautta ja että vasemman aivosäikeen johtuminen on osittain heikentynyt. Aivojen magneettikuvaus oli normaali, mutta selkärangan magneettikuvaus osoitti selkäytimen tasolla D1-D6 laajenevan vaurion, joka sopi poikittaiseen myeliittiin.
+Kehitys ja kommentit: 24 tuntia sairaalaan tulon jälkeen potilaalla oli voimakasta kipua oikeassa silmässä, johon liittyi äkillinen näöntarkkuuden menetys. Hänet arvioitiin silmälääkärin vastaanotolla, ja hänellä todettiin oikea näköhermotulehdus.
+Koska kyseessä oli poikittainen myeliitti ja optikusneuriitti, aivojen magneettikuvaus ei täyttänyt multippeliskleroosin kriteerejä ja selkärangan magneettikuvaus osoitti kolmen tai useamman selkärangan segmentin (D1-D6) vaurion, tehtiin akuoporin-4-vasta-ainetutkimus, joka oli negatiivinen. Kliinisten oireiden ja kehityksen perusteella ja negatiivisesta vasta-ainemäärityksestä huolimatta potilaalla diagnosoitiin neuromyelitis optica tai Devicin tauti (ks. diagnostiset kriteerit, taulukko 1).
+Potilasta hoidettiin aluksi laskimonsisäisellä metyyliprednisolonilla annoksella 1 g/vrk ilman parannusta, joten hänelle tehtiin plasmafereesi, jonka kliininen kehitys oli hyvä.
+Potilasta seurattiin neurologian, silmälääketieteen ja urologian toimesta, ja potilaan vointi parani ja kortikoidihoito väheni asteittain. Neljätoista kuukautta myöhemmin potilaan alaraajojen voima ja tuntoherkkyys olivat täysin palautuneet, kävely oli normaalia, refleksit olivat normaalit, spastisuutta, ataksiaa tai dysmetriaa ei esiintynyt; ajoittain hänellä esiintyi kipua aiheuttavaa lannerangan yliherkkyyttä, joka oli luonteeltaan itsestään rajoittuvaa. Oikean silmän lähinäkö säilyi hämärtyneenä ja värinäkö heikkeni, vaikka hän sai 70 prosentin näöntarkkuuden palautettua. Yöllinen enureesi jatkuu edelleen virtsarakon spastisuuden vuoksi, ja sitä hoidetaan edelleen desmopressiinilla.
+Lähettäjä: Ruth Bravo Lizcano. Hospital Universitario La Paz. Paseo de la Castellana, 261, 28046 Madrid. Sähköposti: ruth.b.l.87@gmail.com

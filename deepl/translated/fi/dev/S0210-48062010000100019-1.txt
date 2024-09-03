@@ -1,0 +1,16 @@
+Potilaan tiedot.
+Etunimi: Sebastian.
+Sukunimi: Perez Garcia.
+NHC: 8264597.
+NASS: 27 67805270 54.
+Osoite: Calle Rivera, 23, 1 C.
+Kaupunki/ maakunta: Madrid.
+POSTINUMERO: 28004.
+Hoitotiedot.
+Syntymäaika: 06/12/1957.
+Syntymämaa: Espanja.
+Ikä: 53 vuotta Sukupuoli: mies.
+Vastaanottopäivä: 15/07/2011.
+Lääkäri: Angel García Escudero NºCol: 28 28 61394.
+Kliininen raportti potilaasta: Potilas on 53-vuotias miespotilas, jolla on diagnosoitu ankylopoieettinen spondyliitti (HLA B27), sekundaarinen amyloidoosi ja loppuvaiheen krooninen munuaisten vajaatoiminta, jota hoidetaan korvaushoidolla hemodialyysillä. Hänellä todettiin kivuton hematuria, ja kystoskopiassa todettiin virtsarakkomassa, joka erittyi mutta ei ollut papillaarinen ja joka vuoti. Transuretraalinen resektio (TUR) tehtiin, ja histologinen diagnoosi oli virtsarakon amyloidoosi. Potilas kehittyi tyydyttävästi, ja 11 kuukauden kuluttua hänet otettiin uudelleen hoitoon voimakkaan, epigastrisen ja kiinteän vatsakivun vuoksi, johon lisättiin kaksi tuntia myöhemmin äkillinen, runsas ja verinen oksentelu, johon liittyi sydän- ja hengityslamaa, joka johti exitusiin (11/04/1995). Post mortem -anatomopatologinen diagnoosi osoitti ruoansulatuskanavan iskeemisen nekroosin alueella, jota ylempi suoliliepeenvaltimo kastelee, ja amyloidisaostumat submucosaalisissa verisuonissa. Elinten ja elimistön vaurioituminen oli laajaa, mukaan lukien molemminpuolinen munuaisten surkastuminen amyloidoosin vuoksi. Virtsarakon amyloidoosi (AA), erityisesti perivaskulaarinen ja amyloidoosi eturauhasen verisuonissa.
+Kliininen johtaja: Dr. Angel García Escudero Sähköposti: agareslo@telefonica.net.

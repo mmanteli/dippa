@@ -1,0 +1,30 @@
+Potilaan tiedot.
+Etunimi: Fernando.
+Sukunimi: Fernandez de Miguel.
+NHC: 3748563.
+NASS: 91 47382493 21.
+Osoite: C/ Carnicer, 14, 1, 17.
+Kaupunki/ maakunta: Salamanca.
+POSTINUMERO: 37007.
+Hoitotiedot.
+Syntymäaika: 25/07/1931.
+Syntymämaa: Espanja.
+Ikä: 73 vuotta Sukupuoli: mies.
+Vastaanottopäivä: 10/08/2004.
+Osasto: Onkologia.
+Lääkäri: José Ignacio Rodríguez Melcón NºCol: 37 37 51201.
+Kliininen raportti potilaasta: Hänellä on ollut diabetes mellitus, sepelvaltimotauti, tupakointi vuoteen 1993 asti, eikä hänellä ole tiedossa olevia lääkeallergioita. Heinäkuussa 2001, useiden kuukausien peräsuolen epämukavuuden jälkeen, rutiinilaboratoriokokeissa todettiin PSA-taso 16,68 ng/ml. Hänet ohjattiin perusterveydenhuollosta urologiaan, ja biopsiassa todettiin eturauhasen adenokarsinooma oikeassa lohkossa, Gleason 3+3 (T1cNxMx, vaihe II).
+Kun täydellinen androgeeniblokadointi (CAB) oli aloitettu bikalutamidilla ja leuproreliinilla, hänet ohjattiin osastollemme, jossa pyydettiin rintakehän ja vatsan tietokonetomografiaa vaiheistuksen täydentämiseksi. Tutkimuksen tuloksia odotettaessa, koska sen suorittaminen oli viivästynyt, ja ottaen huomioon potilaan ikä ja taudin vaihe, aloitettiin RT-hoito. Eturauhaseen ja siemenrakkuloihin ohjelmoitiin 70 Gy:n annos, jossa käytettiin 18 MV:n fotoneja, 4-kenttäistä laatikkotekniikkaa ja fraktiointia 2 Gy/vrk, 5 päivänä viikossa.
+Ennen hoidon päättymistä saatiin tietokonetomografia (11.10.01), jossa todettiin 3 cm:n kiinteä välikarsinan massa, vasemmalla paraesofageaalisesti, aortan kaaren yläpuolella, eikä voitu erottaa, oliko kyseessä adenopaattinen massa vai primitiivinen kasvain. Lisäksi oikealla puolella todettiin halkaisijaltaan noin 7 cm:n kokoinen kiinteä munuaismassa, jossa oli keskellä nekroosia ja joka viittasi hypernefroomaan. Verisuonimuutoksia, retroperitoneaalisia adenopatioita tai merkittäviä muutoksia lantiossa ei havaittu.
+TT-kuvauksen tulosten perusteella eturauhasen sädehoitoa päätettiin jatkaa, ja hoito saatiin päätökseen 26.11.2001. Koska munuaismassa ei aiheuttanut diagnostisia epäilyjä, päätettiin tällä välin lähestyä rintakehän leesiota.
+15.11.01 tehtiin mediastinoskooppi ja otettiin koepaloja, ja histologinen tulos oli kirkassoluinen karsinooma, joka sopi munuaissyövän etäpesäkkeeksi.
+Yhteisymmärryksessä lääketieteellisen onkologian ja urologian kanssa tehtiin 21.12.01 nefrektomia (NF), jonka lopulliseksi histologiseksi tulokseksi saatiin II-III asteen munuaissolusyöpä, joka oli tunkeutunut perirenaaliseen rasvakudokseen (T3aNxM1, vaihe IV).
+Koska välikarsinan metastaasi oli mahdollista leikata, tehtiin uusi tietokonetomografiakuvaus (30/01/02), jossa vahvistettiin keuhkomassan esiintyminen, joka oli kooltaan noin 5 x 3 x 4 cm ja tunkeutui välikarsinan takaosaan, eikä siinä ollut mitään leikkaustasoa aortan yläpuolisiin verisuonirakenteisiin tai aortan kaareen nähden, ja se sijaitsi hyvin lähellä ruokatorven ylempää kolmannesta. Vatsaontelon tasolla oikeanpuoleinen NF oli näkyvissä, eikä siinä ollut merkkejä uusiutumisesta tai kasvaimen jäänteistä.
+27.2.2002 tehtiin tähystävä thorakotomia, jossa todettiin 5 cm:n pituinen välikarsinan kasvain, joka tunkeutui keuhkoparenkyymiin ja aortan kaaren yläosaan arterioskleroosiplaketin tasolle, mikä esti lateraalisen puristuksen, ja sitä pidettiin sen vuoksi leikkaamattomana. Biopsia otettiin, ja diagnoosi varmistui.
+Keskiruumiin leesion sädehoito, jota voisi seurata immunoterapia, otettiin esille, mutta potilas ei hyväksynyt tätä mahdollisuutta, ja hänen hyvän yleiskuntonsa vuoksi omaksuttiin odottava asenne.
+Potilas jatkaa CABG-hoitoa ja oireenmukaista hoitoa. Kesäkuussa 2002 hän sai Megestroliasetaattihoitoa CABG:n aiheuttamien "kuumien aaltojen" vuoksi, ja hoito keskeytettiin kuukautta myöhemmin, kun CABG lopetettiin. Syyskuussa 2002 tehtiin luustokuvaus, jossa ei havaittu merkkiaineen patologisia kertymiä, sekä PSA-määritys (0,10 ng/ml) ja uusi tietokonetomografiakuvaus. Tässä TT-kuvauksessa (12.9.2002) todettiin 6 x 4 x 4 cm:n kokoinen massa keskiruumiin takaosassa, aortan kaaren yläpuolella, joka tunkeutui vasempaan solisvaltimoon, aorttaan ja vasempaan keuhkoon, sekä kyhmynmuotoisia kuvia selkärangan viereisessä kielilohkossa ja oikeassa alaleukalohkossa, mikä viittasi keuhkometastaasiin. Vatsaontelossa oli useita kyhmyisiä kuvia oikeassa munuaiskuopassa, jotka viittasivat uusiutumiseen, ja ipsilateraalinen psoas-lihas oli todennäköisesti infiltroitunut.
+Näin ollen ja viimeisen CT-kuvauksen jälkeen (9 kuukautta NF:n jälkeen) potilaan tauti oli selvästi edennyt, ja siinä oli uusia etäpesäkkeitä ja paikallisia uusiutumia.
+Lokakuussa 2002 hänet otettiin sairaalaan keuhkotromboembolian kliinisen epäilyn vuoksi ilman gammografista vahvistusta. Kotiutumisen jälkeen häntä käytiin useaan otteeseen avohoidossa, ja hänen yleistilansa parani vähitellen.
+Syyskuussa 2003, 21 kuukautta NF:n jälkeen ja potilaan ollessa oireeton, tehtiin rintakehän ja vatsan TT-kuvaus (16.9.2003), jossa todettiin vain useita alle 1 cm:n pituisia kainalon imusolmukkeiden lymfadenopatioita ja oikeanpuoleinen NF, eikä mitään viitteitä muista leesioista - täydellinen radiologinen vaste.
+Tällä hetkellä (36 kuukautta NF:n jälkeen) kaksi myöhempää CT-kuvausta osoittavat, että vaste on pysynyt, ja potilas on edelleen oireeton. Eturauhaskasvain reagoi edelleen täydellisesti, PSA-nadiriluku on 0,10 ng/ml eikä luustosintigrafiassa ole muutoksia.
+Kliininen johtaja: Dr. José Ignacio Rodríguez Melcón Servicio de Oncología Radioterápica Hospital Universitario de Salamanca Paseo San Vicente, 58-182 E-37007 Salamanca nachorodriguezmelcon@hotmail.com

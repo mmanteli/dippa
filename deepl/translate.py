@@ -4,6 +4,8 @@ import deepl
 translation_list="/scratch/project_2009498/dippa/deepl/to_be_translated.txt"
 save_directory="/scratch/project_2009498/dippa/deepl/translated"
 lang="fi"
+key = os.getenv("DEEPL_AUTH_KEY")
+assert key is not None
 translator = deepl.Translator(os.getenv("DEEPL_AUTH_KEY"))
 
 lang_map ={"en":"EN-GB", "fi": "FI"}

@@ -1,0 +1,25 @@
+Potilaan tiedot.
+Etunimi: Pedro.
+Sukunimi: De Miguel Rivera.
+NHC: 2569870.
+Osoite: Calle Carmen Romero, 23, 1D.
+Kaupunki/ maakunta: Madrid.
+POSTINUMERO: 28035.
+Hoitotiedot.
+Syntymäaika: 10/10/1963.
+Maa: Espanja.
+Ikä: 53 vuotta Sukupuoli: Mies.
+Vastaanottopäivä: 17/06/2016.
+Lääkäri: Estefanía Romero Selas NºCol: 28 28 20943.
+Kliininen raportti potilaasta: 53-vuotias mies, jolla ei ole aiempaa sairaushistoriaa ja joka otettiin päivystysosastolta keuhkotromboembolian vuoksi.
+Koska epäiltiin piilevää kasvainta ja aiemmin havaitsematonta hematuriaa, tehtiin vatsan ultraäänitutkimus, jossa todettiin oikean puolen munuaismassa, ja tutkimusta täydennettiin CT- ja MRI-tutkimuksella.
+Molemmat tutkimukset vahvistivat, että kyseessä oli heterogeeninen kasvain, joka tunkeutui oikean munuaisen kahteen alempaan kolmannekseen ja oli kooltaan noin 10x10 cm, ja siihen oli osallistunut myös munuaisten sivuontelot ja hilum, minkä lisäksi oikean munuaislaskimon ja infranepaattisen cavan tromboosia oli havaittavissa. Adenopatioita tai etäpesäkkeitä ei havaittu.
+Hänelle tehtiin radikaali anteriorinen nefrektomia, johon liittyi kavotomia trombin poistamiseksi ja laaja aorto-caval-lymphadenektomia oikealta puolelta.
+Anatomia-patologinen tulos oli Fuhrmanin asteen 2 selkeä 9 cm:n munuaissolusyöpä, joka oli levinnyt munuaishilumiin, perinefriiniseen rasvaan ja munuaislaskimoon, ilman että imusolmukkeet tai tämän rasvan tai hilumin reunat sekä vapaa virtsajohdin olivat saaneet etäispesäkkeitä (vaihe III, T3N0M0). Potilas kotiutettiin sairaalasta kuudentena päivänä.
+Kolme kuukautta leikkauksen jälkeen potilas ilmoitti lievästä kivusta ja kovettumasta peniksessä, joka oli alkanut hiljattain. Palpaatio paljasti kovettuneen massan.
+Lantion magneettikuvaus tehtiin, ja siinä paljastui vasenta corpus cavernosumia valtaava ja laajentava massa, joka sopi aikaisemman munuaiskarsinooman etäpesäkkeeksi.
+Vauriosta otettiin koepala, jonka tulos vahvisti epäilymme, sillä histologisissa leikkeissä näkyi yksittäisiä kasvainsolujen pesäkkeitä, jotka sopivat kirkassoluisen karsinooman etäpesäkkeisiin.
+Tämän diagnoosin perusteella harkitsimme potilaan parasta hoitokeinoa ottaen huomioon paikallisen kivun asteittaisen lisääntymisen, potilaan iän ja hänen hyvän yleiskuntonsa. Sen vuoksi päätimme tehdä täydellisen penektomian, kunnes taudista vapaa leikkausraja voitiin vahvistaa intraoperatiivisesti.
+Viikko kotiutuksen jälkeen potilas otettiin onkologiselle osastolle, ja hänellä oli obnubilaatio sekä motorisia ja sensorisia muutoksia, ja kallon tietokonetomografiassa todettiin metastaasiin sopivia vaurioita pikkuaivoissa ja oikeassa aivopuoliskossa. Rintakehän TT-kuvaus tehtiin, ja siinä havaittiin myös useita keuhkokyhmyjä ja molemminpuolisia paratrakeaalisia mikroadenopatioita, jotka liittyivät etäpesäkkeisiin.
+Potilas kuoli yhdeksän kuukautta munuaissyövän ensimmäisen leikkauksen jälkeen eli kuusi kuukautta peniksen etäpesäkkeiden toteamisen jälkeen.
+Lähettäjä: M: Estefanía Romero Selas. Sähköposti: eromeroselas@yahoo.es

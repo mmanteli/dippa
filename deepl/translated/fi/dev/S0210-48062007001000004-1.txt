@@ -1,0 +1,32 @@
+Potilaan tiedot.
+Etunimi: David.
+Sukunimi: Simón García.
+NHC: 7840352.
+NASS: 87 565306 30.
+Osoite: Avenida Arroyo de Trofas, 8, 5 D.
+Kaupunki/Provinssi: Valencia.
+POSTINUMERO: 46017.
+Hoitotiedot.
+Syntymäaika: 19/03/1986.
+Syntymämaa: Espanja.
+Ikä: 25 vuotta Sukupuoli: mies.
+Vastaanottopäivä: 18/06/2011.
+Osasto: Sisätaudit.
+Jakso: 7845673.
+Lääkäri: Jorge Planelles Gómez Col Nº: 46 46 87901.
+Anamneesi: 25-vuotias potilas, joka otettiin sisätautiosastolle (IM) iltapäiväkuumeen vuoksi, joka oli kestänyt 3 päivää, ja jonka oikeassa kiveksessä todettiin satunnaisesti kasvain ultraäänitutkimuksessa.
+Anamneesi: Henkilökohtaisena anamneesina hän ilmoitti, ettei hänellä ole lääkeallergioita. Kahdenvälinen nivustyrä.
+Hän kertoi kivuttomasta kasvaimesta, joka oli ollut olemassa vuoden ajan ja joka oli lisääntynyt asteittain.
+Fyysinen tutkimus: Fyysisessä tutkimuksessa todettiin oikean kiveksen suurentuminen ja kivuton kasvain ylänapassa.
+Täydentävät testit: Koska epäiltiin kiveskasvainta, tehtiin erilaisia täydentäviä testejä. Kivesten ultraäänitutkimuksessa todettiin oikeassa kiveksessä heterogeeninen, kiinteä kasvain, jonka mitat olivat 78 mm x 57 mm x 61 mm ja joka sopi primaariseen kiveskasvaimeen. Vasen kives oli normaali. Aksiaalinen tietokonetomografia (CAT): oikean kiveksen kasvain sekä retrokavaalinen ja para-aortan adenopatia > 2 ja < 5 cm. Laktaattidehydrogenaasi (LDH): 1890 IU/I; alfa-fetoproteiini (AFP): 51 ng/ml; beeta-kuoriongonadotropiini (Beta-HCG): 23 mIU/ml.
+Hänelle tehtiin oikean nivusalueen orkiektomia, jonka anatomisen patologian mukaan 7 cm:n embryonaalinen karsinooma korvasi parenkyymin ja lisäkiveksen, implantteja oli istutettu napanuoraan ja ne ulottuivat albugineaan. Hänellä todettiin oikean kiveksen T3N2M0-alkion karsinooma, vaihe II, jonka riski on keskivaikea kohonneen LDH:n vuoksi, ja hän suoritti 4 syklin kemoterapiahoidon BEP-ohjelman (bleom<icin, etoposidi ja sisplatiini) mukaisesti.
+Kehitys: 4-vuotiaana, kun hän ei ollut sairastunut valvontatutkimuksissa, hän tuli päivystyspoliklinikalle vasemmassa kiveksessä olevan kivuliaan kasvaimen vuoksi.
+Fyysisessä tutkimuksessa paljastui vasemmanpuoleinen monorchidinen, induratoiva kasvain vasemman lisäkiveksen alapään tasolla.
+Täydentävät tutkimukset sisälsivät: Laktaattidehydrogenaasi (LDH): 347 IU/I; alfa-fetoproteiini (AFP): 2,4 ng/ml; beeta-kuoriongonadotropiini (Beta-HCG): 0,1 mIU/ml. Rintakehän röntgenkuvaus: Ei patologisia löydöksiä. Kiveksen ultraäänitutkimus: 51x19x22 mm:n kokoinen kiveskasvain, jolla on heterogeeninen kaikurakenne ja väridoppler-virtaus ja joka vaikuttaa myös lisäkiveksen runkoon ja häntään. Kalkkiutumista kiveksen anteroinferiorisessa osassa. Aksiaalinen tietokonetomografia thorax-abdominaali-lantion alue: Maksa, perna ja haima normaalit. Munuaiset morfologialtaan ja tiheydeltään normaalit. Ei adenopatiaa tai imusolmukeketjuja.
+Koska epäiltiin toista sukusolukasvainta, tehtiin radikaali orkiektomia vasemmalta nivusreitiltä, ja patologinen anatomia paljasti klassisen seminooman, jonka läpimitta oli 3,2 cm ja joka tunkeutui kivesten parenkyymiin ja ulottui lisäkivekselle ja siemenjohtimelle.
+Leikkauksen jälkeinen aika oli rauhallinen.
+Hänet ohjattiin onkologian osastolle adjuvanttihoidon arviointia ja seurantaa varten. Koska kasvaimen suurin läpimitta oli 3,2 cm ja koska se ei vaikuttanut rete-kiveen, valittiin konservatiivinen kontrollihoito.
+Kolme kuukautta myöhemmin kontrollikäynnin tietokonetomografiakuvauksessa paljastui suurentunut vasemmanpuoleinen retroperitoneaalinen adenopatia (3,5 cm), joka oli huonosti erkaantunut psoasista ja joka vangitsi virtsanjohtimen keskimmäisen kolmanneksen aiheuttaen asteen I hydronefroosia. Kontrolliverikokeissa: hemogrammi, biokemia ja hemostaasi olivat normaaleissa parametreissa lukuun ottamatta kreatiniinia, joka oli 1,2 mg/dl; laktaattidehydrogenaasi = 552 IU/I, alfa-fetoproteiini ja korionibeta-gonadotropiini olivat normaaleissa parametreissa.
+Hänellä todettiin retroperitoneaalinen uusiutuma, ja hänelle annettiin kemoterapiahoito (etoposidia ja sisplatiinia 4 syklin ajan).
+Tällä hetkellä potilas on ollut taudista vapaa 3 vuoden ajan urologian ja onkologian osastoilla tehtyjen määräaikaistarkastusten perusteella.
+Kliininen johtaja: Dr. Jorge Planelles Gómez Urologian osasto Hospital Universitario Doctor Peset Avda. Gaspar Aguilar, 90 - 46017 Valencia Puh. 963 862 500 E-mail author: jorge_planelles@yahoo.es.
