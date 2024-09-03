@@ -1,0 +1,15 @@
+Potilaan tiedot.
+Etunimi: Sergio.
+Sukunimi: Aznar Rivas.
+NHC: 5379864.
+Osoite: Calle Mandala, 14.
+Kaupunki/ maakunta: Madrid.
+POSTINUMERO: 29034.
+Hoitotiedot.
+Syntymäaika: 12/03/1998.
+Maa: Espanja.
+Ikä: 19 vuotta Sukupuoli: Mies.
+Vastaanottopäivä: 30/07/2017.
+Lääkäri: Antonio Javier Márquez Moreno NºCol: 29 29 83404.
+Potilaan kliininen raportti: Potilas on 19-vuotias, eikä hänellä ole aiempaa sairaushistoriaa, ja hän kääntyy oikeassa kiveksessä olevan, noin 8 kuukautta kestäneen lievästi kivuliaan kasvaimen vuoksi, ja kliinisessä tutkimuksessa todetaan kivesten laajentuminen, jossa on kyhmyisiä alueita. Vasemmassa kiveksessä ei havaittu muutoksia. Alfa-fetoproteiini: 38,2 ja beeta-HGC 1,48. Ultraäänitutkimuksessa havaittiin kolme itsenäistä ja hyvin määriteltyä kasvainkyhmyä: kaksi niistä oli heterogeenisiä, kiinteitä, halkaisijaltaan 20 ja 33 millimetriä, ja niissä oli kystisiä alueita ja kalkkeutumia. Kolmas kyhmy oli kiinteä, hypoekaikuinen ja homogeeninen, halkaisijaltaan 26 mm. Kaikissa kyhmyissä todettiin lisääntynyttä verisuonitusta ja matalan vastuksen valtimovirtauksia. Laajennustutkimus oli negatiivinen. Orkiektomia tehtiin. Histologisesti kaksi ensimmäistä kyhmyä vastasivat teratokarsinoomia (kypsä teratooma ja vallitseva embryonaalinen karsinooma), sillä makroskooppisesti ne olivat ruskeanvalkoisia massoja, joissa oli kellertävän seerumipitoisia onteloita, kalkkeutumia ja nekroosipesäkkeitä. Kolmas diagnosoitiin klassiseksi seminoomaksi, joka oli makroskooppisesti homogeenisempi.
+Lähettäjä: Antonio Javier Márquez Moreno Teseo, 5 3-N. 29010. Málaga (Espanja). nuriaantonio@terra.es

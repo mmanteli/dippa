@@ -46,4 +46,4 @@ MANIFEST
 env/
 venv/
 
-translated
+to_be_translated*

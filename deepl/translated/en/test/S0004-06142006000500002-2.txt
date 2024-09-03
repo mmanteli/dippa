@@ -1,0 +1,21 @@
+Patient data.
+First name: Ignacio.
+Surname: Rico Pedroza.
+NHC: 5467980.
+Address: Av. Beniarda, 13.
+City/ Province: Valencia.
+POSTAL CODE: 46271.
+Assistance data.
+Date of birth: 11/02/1970.
+Country: Spain.
+Age: 46 years old Sex: M.
+Date of admission: 28/05/2016.
+Physician: Ignacio Rubio Tortosa Service No.: 46 28 52938.
+Patient's clinical report: 46-year-old patient who consulted for pain at hypogastric level, painful ejaculation, hemospermia and sensation of weight at testicular level attributed until then to right varicocele already known for a year. His personal history included an episode of acute prostatitis one year before the consultation.
+On physical examination the patient presented good general condition, right varicocele and no masses were palpable at the level of both testicles. Rectal examination showed an irregular prostate, slightly enlarged with indurated areas and somewhat painful on examination.
+A comprehensive urological ultrasound was requested, which showed a hypoechoic nodular image in the right testicle with surrounding hypervascularization and a simple cyst in the left testicle.
+The abdominal-pelvic CT scan showed several images in the liver that could correspond to metastasis or hemangiomas. Subsequent MRI confirmed that they were hemangiomas. Chest X-ray showed no alterations.
+Tumor markers and PSA were within normal values. Alpha-feto-protein: 6 ng/ml, beta-HCG: 0.1 ng/ml, PSA: 1.5 ng/ml.
+Given all these findings, it was decided to perform a right inguinal radical orchiectomy. Macroscopically, the specimen showed a nodular formation of identical coloration to that of the testicular pulp measuring 2.5 x 1.8 x 1.5 cm in the upper pole of the testicle. The histopathological report was of a diffuse Leydig cell tumor infiltrating perineural spaces, adjacent capsular vascular channels and smooth muscle; moderate atypia and few mitoses.
+After 10 years of evolutionary controls, the patient is asymptomatic, no metastases have been objectified and tumor markers have remained negative.
+Referred by: Dr.Ignacio Rubio Tortosa Servicio de Urología Hospital Dr. Peset Avda. Gaspar Aguilar, 90 46017 Valencia, Spain e-mail: nachorutor@hotmail.com

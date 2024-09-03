@@ -1,0 +1,17 @@
+Potilaan tiedot.
+Etunimi: Ana.
+Sukunimi: Pacual Jaime .
+NHC: 8173456.
+NASS: 43 75615775 06.
+Osoite: Paseo Santa Engracia, 14.
+Kaupunki/ maakunta: Barcelona.
+POSTINUMERO: 08162.
+Hoitotiedot.
+Syntymäaika: 06/09/1937.
+Syntymämaa: Espanja.
+Ikä: 75 vuotta Sukupuoli: Mies.
+Vastaanottopäivä: 15/09/2012.
+Lääkäri: Ivan Domenech Juan NºCol: 08 08 57989.
+Potilaan kliininen kuvaus: 75-vuotias nainen, jolla on ollut tyypin II DM, jota hoidetaan insuliinilla ja jolla on kroonisia komplikaatioita, kuten polyneuropatia, AHT hoidossa ja joka on ylipainoinen ja jolle on suunniteltu PTR-leikkaus (polven totaaliproteesi). Puudutustekniikka oli yhdistetty epiduraali-/intraduraalinen toimenpide L3-L4-tasolla, 3 ml 0,5 % bupivakaiinia ilman vasokonstriktoria annettiin intraduraalisen neulan kautta ja epiduraalikatetri jätettiin paikalleen postoperatiivista analgesiaa varten. Postoperatiivinen jakso oli rauhallinen, ja hän meni yläkertaan PCAE:lla (epiduraalinen PCA), joka oli ladattu bupivakaiinilla 0,125 ja fentanyylillä 4 mikrogrammaa millilitrassa, aikataululla 3 ml.h-1, 3 ml boluksia 30 minuutin välein. Noin kello 4 aamulla PCA:ta muutettiin, mikä aiheutti virheen ja PCA:n antaminen epiduraalisesti lääkityksellä ja ohjelmointi i.v. (100 ml:ssa 50 mg morfiinia ja 10 g metamitsolia).
+Päivittäisen PACU:n käynnin yhteydessä PACU:n hoitaja havaitsee virheen. Potilas on tajuissaan ja orientoitunut erinomaisen analgesian vallitessa, eikä hänellä ole merkkejä hengityslamasta, neurologisista muutoksista tai muista haittavaikutuksista. Annettu lääkemäärä oli 4 mg morfiinia ja 160 mg metamitsolia. PCA ja katetri poistettiin, ja potilas otettiin elvytysyksikköön valvontaa ja seurantaa varten, jossa hänellä ei ollut mitään haittavaikutuksia ja hänen tilansa pysyi koko ajan vakaana. 24 tuntia myöhemmin hänet kotiutettiin osastolle, ja 2 viikkoa myöhemmin hänet kotiutettiin kotiin anestesiologin tarkastuksen jälkeen. Säännöllinen seuranta jatkui 18 kuukauteen asti ilman mitään vaaratilanteita.
+Kliininen johtaja: Dr. Ivan Domenech Juan. c/ Ibería nº 11 3-2ª 08014 Barcelona.

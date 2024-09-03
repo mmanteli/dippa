@@ -1,0 +1,18 @@
+Potilastiedot.
+Etunimi: Dania.
+Sukunimi: Martinez Pedroza.
+NHC: 0735630.
+NASS: 37 28903458 19.
+Osoite: Calle La Riviera, 19, 2, 3.
+Kaupunki/ maakunta: Zaragoza.
+POSTINUMERO: 50009.
+Hoitotiedot.
+Syntymäaika: 15/05/1958.
+Maa: Espanja.
+Ikä: 58 vuotta Sukupuoli: Mies.
+Vastaanottopäivä: 24/07/2016.
+Osasto: reumatologia.
+Lääkäri: Pilar del Río Martínez NºCol:50 50 23982.
+Kliininen raportti potilaasta: 58-vuotias potilas. Tausta: kohdunpoisto 42-vuotiaana fibroideista johtuvan metrorrhagian vuoksi. Kaksi vuotta aiemmin gynekologissa oli todettu lannerangan densiteometrinen osteoporoosi (T-pisteet L1-L4:ssä -3, reisiluun kaulan arvot olivat normaalit), jota hoidettiin denosumabilla ja D-vitamiinilisällä. Hän ei ilmoittanut myrkytystottumuksia, ei murtumia eikä murtumia suvussa, ja hänen BMI:nsä oli normaali. Hän hakeutui lääkärin vastaanotolle vasemman jalan mekaanisen kivun vuoksi, joka oli alkanut akuutisti ilman tulehdusta tai laukaisevaa syytä ja jonka voimakkuus oli lisääntynyt, kunnes se ei enää kestänyt tulehduskipulääkkeitä. Tutkimuksessa ei ollut silmiinpistäviä löydöksiä lukuun ottamatta kipua vasemman etujalan mobilisoinnissa. Jalkaterän staattisissa ominaisuuksissa ei havaittu muutoksia. Potilas toimitti jalkaterän röntgenkuvan, jossa ei todettu patologisia löydöksiä. Pyydettiin vasemman jalkaterän magneettikuvausta, jossa todettiin rasitusmurtuma 2. MTT:ssä, jossa oli luukalvokallus ja pehmytkudosödeema. Analyysitutkimus tehtiin, ja siinä todettiin PTH:n ja D-vitamiinin kohonneet pitoisuudet (103,7 pg/ml ja 272 ng/ml), jotka johtuivat liiallisesta D-vitamiinilisästä. Munuaisten toiminta sekä seerumin ja virtsan kalsium olivat normaalit. Hoito D-vitamiinilisällä ja denosumabilla lopetettiin. Potilas arvioitiin traumatologian osastolla, ja hänelle annettiin konservatiivista hoitoa, johon kuului kuormituksen purkaminen, suhteellinen lepo, tulehduskipulääkkeet ja magneettihoito, ja hoito parani asteittain. Potilaan iän, 58 vuotta, ja lannerangan osteoporoosin vallitsevuuden vuoksi häntä pidettiin sopivana ehdokkaana SERMS-hoitoon (batsedoksifeeni), johon liittyy kalsiumlisää ja D-vitamiinia. Vuotta myöhemmin, samana kuukautena, jolloin kipu oli alkanut edellisessä jaksossa, hän ilmoitti jälleen samoista oireista vasemmassa jalassa ilman laukaisevaa syytä. Pyydettiin röntgenkuvaus, jossa todettiin aiemmasta rasitusmurtumasta johtuva vanha murtumakallus 2. MTT:ssä, mutta ei muita löydöksiä. Tutkimusta täydennettiin vasemman jalan magneettikuvauksella, jossa todettiin 1. ja 3. MTT:n, keilaluun, lapaluiden ja taluksen turvotusta sekä tibialiksen takaosan tenosynoviitti. Pyydettiin uutta luuntiheysmittausta, joka osoitti lannerangan T-pisteeksi -3,5. Potilas ei ollut käyttänyt jatkuvasti batsedoksifeenia ja D-vitamiinia, joten niiden jatkamista korostettiin, koska luun mineraalitiheysluvut olivat huonontuneet. Murtumia hoidettiin kuntoutuksella ja kuormituksen purkamisella, ja ne paranivat vähitellen.
+Arvioidessamme tapausta kokonaisuutena pidimme osteoporoosia altistavana tekijänä, koska potilas ei ollut lihava, eikä hän ollut kärsinyt traumasta tai muista riskitekijöistä. Se, että kaksi kipukohtausta alkoi samana kuukautena (samaan aikaan vuodenaikojen vaihtuessa), vuoden välein, oli silmiinpistävää. Potilas ei ilmoittanut, että hänen tottumuksensa tai fyysinen aktiivisuutensa (istumatyö) olisi muuttunut tuona aikana, joten katsomme, että jalkinetyypin muutos on saattanut johtaa vasemman jalan ylikuormittumiseen, mikä on suosinut uusien rasitusmurtumien syntymistä.
+Lähettäjä: Dra. Pilar del Río Martínez Servicio de Reumatología Hospital Clínico Universitario "Lozano Blesa" Avda. San Juan Bosco, 15 50009 Zaragoza (Espanja) E-mail: psdelrio@yahoo.es.
