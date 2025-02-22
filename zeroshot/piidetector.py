@@ -12,6 +12,7 @@ class PiiDetector:
 
     def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False):
         self.device="cuda:0" if torch.cuda.is_available() else "cpu"
+        print(f'Using {self.device}')
         self.model = model.to(self.device)
         self.model.eval()   # remove some unneeded functionality
         self.tokenizer = tokenizer
