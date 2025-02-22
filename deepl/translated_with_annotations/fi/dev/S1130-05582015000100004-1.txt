@@ -1,0 +1,17 @@
+Potilaan tiedot.
+Etunimi: [#1 Patricia] .
+Sukunimi: [#1 Castellar Ramos].
+NHC: [#17 5468973].
+NASS: [#19 43 87963875 60].
+Osoite: [#11 C/ Monforte de lemos, 129] .
+Paikkakunta/ maakunta: [#12 Madrid].
+CP: [#12 28029].
+Hoitotiedot.
+Syntymäaika: [#6 21/02/1958].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 60 vuotta] Sukupuoli: [#3 mies].
+Vastaanottopäivä: [#6 13/06/2018].
+Lääkäri: [#5 Maria Vicente Sallais] Col Nº: [#20 28 28 36982].
+Potilaan kliininen raportti: [#3 nainen], ikä [#2 60 vuotta], tupakoimaton ja alkoholia käyttämätön, ei ole kliinisesti kiinnostavaa anamneesia, ei ole tehty mitään merkityksellisiä lääketieteellisiä tai kirurgisia toimenpiteitä, joka tulee osastollemme vasemman ensimmäisen alemman premolaarin eksodontian vuoksi. Suun sisäisessä kliinisessä tutkimuksessa vasemmanpuoleisella suun limakalvolla havaittiin oireeton, halkaisijaltaan 15 mm:n suuruinen kasvainleesio. Se on väriltään vaalean vaaleanpunainen, samankaltainen kuin limakalvo, ja sen pinta on sileä. Oikealla suun limakalvolla havaittiin halkaisijaltaan 10 mm:n suuruinen kasvainvaurio. Tämä vaurio on hypokrominen verrattuna suun limakalvoon, ja sen pinta on sileä. Molempien vaurioiden alustava diagnoosi on traumaattinen fibrooma, joka liittyy huonosti sopeutuneeseen proteesiin. Anamneesia otettaessa potilas ei ilmoittanut, että hänelle olisi tehty kasvojen infiltraatiohoitoa biopolymeereillä. Diagnoosimenetelmänä on poimintabiopsia ja hoitona kirurginen poisto. Leikkaus tehdään nukuttamalla alue. Viilto tehtiin skalpellin terällä numero 15 ja ommeltiin 3-0 mustalla silkillä. Oikeanpuoleisen leesion sulkeminen tehtiin Vicryl- ja sitten 3-0 mustalla silkillä. Vasemman vaurion leikkaushetkellä makroskooppinen ulkonäkö on lipooma sen sisäisen värin ja kapseloituneisuuden vuoksi.
+Vasemman vaurion mikroskooppinen tutkimus osoittaa, että kyseessä on reaktiivinen vaurio, jota vuoraa tasainen, kerroksellinen ja paksuudeltaan vaihteleva epiteeli. Epiteelin alla on vaurio, joka koostuu runsaista satunnaisesti järjestäytyneistä kollageenisista kuiduista, joihin on sekoittunut fibroblasteja ja joitakin verisuonia, jotka on rajattu normaalilta näyttävällä endoteelillä. Tämä vahvistaa, että kyseessä on traumaattinen fibrooma. Oikeanpuoleisen limakalvovaurion histopatologinen tutkimus paljastaa runsaasti tyhjiä pyöreitä tiloja, joita ympäröivät lukuisat vaahtomaisen näköiset histiosyytit, mikä viittaa siihen, että ne fagosytoivat lipidejä ja ovat tämän näköisiä. Mikroskooppisten tutkimuskuvien saamisen jälkeen potilas ilmoitti, että 10 vuotta aiemmin hänelle oli tehty otsan ja suun kulmien kasvojen infiltraatioiden hoito biopolymeereillä. Potilas ei ilmoittanut mitään haittavaikutuksiin liittyviä oireita.
+Vastaava lääkäri: Tohtori [#5 Maria Vicente Sallais] Sähköpostit: [#16 marvisallais@gmail.com], [#16 m.allais@me.com].

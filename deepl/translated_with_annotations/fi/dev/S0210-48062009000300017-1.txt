@@ -1,0 +1,27 @@
+Etunimi: [#1 Carlos].
+Sukunimi: [#1 Miguel Chamoy].
+CIPA: nhc-[#17 78912364].
+NASS: [#19 12 36715468 65].
+Osoite: [#11 Av. Cantabria, 11, 1G] .
+Paikkakunta/ maakunta: [#12 Burgos].
+CP: [#12 09006].
+NHC: [#17 78912364].
+Hoitotiedot.
+Syntymäaika: [#6 27/03/1960].
+Maa: [#13 Espanja].
+Ikä: [#2 57 vuotta] Sukupuoli: [#3 F].
+Vastaanottopäivä: [#6 08/05/2017].
+Erikoisala: UROLOGIA.
+Lääkäri: [#5 Miguel Ángel López Aramburu] Col Nº: [#20 09 09 64234].
+Vastaanoton syy:.
+Taustaa: Henkilökohtainen tausta: Laskimoiden vajaatoiminta, johon liittyy alaraajojen trofisia muutoksia. Hän on tupakoinut 40 savuketta päivässä useiden vuosien ajan, ja kolme kuukautta sitten hänellä todettiin urologian osastolla eturauhasen hyvänlaatuinen liikakasvu, joka vaatii lääkehoitoa.
+Nykyinen anamneesi: Yleislääkäri lähetti potilaan [nro 2, 57-vuotias] sairaalamme päivystysosastolle, koska hänellä oli viikon ajan ollut kipua peniksen kitalakeen, jonka distaaliseen osaan oli asteittain ilmaantunut punoittava, fibriinin peittämä, nekroottisen näköinen ja laajasti erittyvä vaurio, joka viittasi tromboottiseen prosessiin.
+BPH:n diagnostisen arvioinnin aikana potilaalle tehtiin muun muassa tietokonetomografia, PSA:n määritys ja ultraäänitutkimukset, mutta näissä tutkimuksissa ei havaittu mitään mainitsemisen arvoista poikkeavuutta.
+Fyysinen tutkimus: Nykyisessä tutkimuksessa todettiin, että kaksi kolmasosaa peniksen etuosasta oli turvonnut, kovettunut, nekroottisen näköinen ja runsaasti eritteitä ja fibriiniä peittämässä aluetta.
+Yhteenveto täydentävistä testeistä: Koska urologiset tutkimukset olivat normaalit ja koska sairausprosessista ei ollut mitään tietoa, leesiosta otettiin minimaalinen biopsia. Saimme tietoa nekroosi-ilmiöistä, tiheästä akuutista ja kroonisesta tulehdusinfiltraatista ja dermiksen tromboosista. Tässä tilanteessa, jossa sairauden kulusta ei tiedetty mitään, mutta koska nekroottinen prosessi ei parantunut vakiintuneilla oireenmukaisilla hoidoilla, peniksen osittainen amputaatio oli aiheellinen. Peniksen terska poistettiin ja pieni osa peniksen kavernosasta. Patologian anatomiapalvelu ilmoitti meille, että corpora cavernosassa oli kasvaintromboosi, joka sopi yhteen epidermoidikarsinooman etäpesäkkeen kanssa.
+Tämän epätavallisen tilanteen vuoksi ryhdyimme paikallistamaan primitiivistä kasvainta ja tutkimaan sen laajenemista.
+Vatsan tietokonetomografiassa havaittiin retroperitoneumissa pieniä subsentimetrisiä para-aortan, interaorto-cavalin ja mesenteriaalijuuren subsentimetrisiä adenopatioita. Muilta osin ne olivat normaaleissa rajoissa.
+Täydentäviä tutkimuksia jatkettiin primitiivisen kasvaimen löytämiseksi.
+Kehitys ja kommentit: Traumatologian osasto pyysi arviointia olkapäässä äkillisesti alkaneen voimakkaan kivun vuoksi. Kipu selittyy patologisella murtumalla oikean olkaluun ylemmän kolmanneksen tasolla, joka johtui luustometastaasille tyypillisestä radiologisesta vauriosta. Luun tähystys vahvisti diagnoosin, jonka mukaan kyseessä on luun etäpesäke olkaluun proksimaalisen kolmanneksen tasolla, eikä muita kaukana sijaitsevia patologisia esiintymiä ole. Lisätutkimuksia tehdään, ja korva- ja nielutautien osaston arvio on täysin normaali. Ruoansulatuskanavan yksikkö tuli mukaan ja suoritti endoskooppisen tutkimuksen ja havaitsi kardian tasolla halkaisijaltaan 3 senttimetrin suuruisen mamelonisen ja haavaantuneen massan, joka vastasi ruokatorven kohtalaisesti erilaistuneen levyepiteelisolusyövän aiheuttamaa mahalaukun infiltraatiota.
+Polykemoterapiahoito aloitettiin, mutta potilaan tila heikkeni asteittain, ja hän kuoli muutamaa kuukautta myöhemmin.
+Lähettäjä: Tohtori [#5 Miguel Ángel López Aramburu] Urologian osasto. [#8 Hospital Santiago Apóstol] [#11 Ctra. de Orón, s/n] - [#12 09200] [#12 Miranda de Ebro]. [#12 Burgos] Puh: [#14 947 349 000] Sähköposti: [#12 Burgos] Puh: [#14 947 349 000] Sähköposti: [#16 malaramburu@yahoo.es]

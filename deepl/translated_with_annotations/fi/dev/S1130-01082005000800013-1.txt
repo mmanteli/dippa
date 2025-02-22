@@ -1,0 +1,18 @@
+Potilaan tiedot.
+Etunimi: [#1 Rocio].
+Sukunimi: [#1 Duque Herrera].
+NHC: [#17 5647049].
+NASS: [#19 85 67945679 30].
+Osoite: [#11 C/ Altos de Nava, 34, 9, A].
+Kaupunki/ maakunta: [#12 Cartagena], [#12 Murcia].
+CP: [#12 30202].
+Hoitotiedot.
+Syntymäaika: [#6 10/11/1987].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 25 vuotta] Sukupuoli: [#3 mies].
+Vastaanottopäivä: [#6 20/01/2013].
+Osasto: Nefrologia.
+Jakso: [#18 8567589].
+Lääkäri: [#5 Gracia Álvarez Fernández] Col Nº: [#20 30 30 57256].
+Kliininen raportti potilaasta: [#3 Nainen], iältään [#2 25 vuotta], jolla ei ollut aiempaa sairaushistoriaa ja jota tutkittiin vatsakivun vuoksi, joka esiintyi pääasiassa oikeassa hypokondriossa. Fyysinen tutkimus ja laboratoriokokeet, mukaan lukien maksaprofiili, olivat normaalit. Vatsan ultraäänitutkimus tehtiin, jossa paljastui 8 senttimetrin mittainen, monikeskuksinen, hypoekaikuinen kystinen maksalasio, jossa oli hyperechoja ja kalsiumia, joka sijaitsi maksan segmenteissä 4-5 ja jolla oli papillaarisia ulokkeita kohti maksan hilumia. Koska pahanlaatuisuutta ei voitu sulkea pois, suositeltiin kirurgista hoitoa. Potilas leikattiin, ja maksan hilumissa, segmentissä 4 ja 5, porttilaskimon haarautumiskohdassa ja keskimmäisessä maksalaskimossa todettiin halkaisijaltaan noin 10 senttimetrin kokoinen kystinen leesio. Kystoperikystektomia, jossa verisuonet kontrolloitiin, tehtiin ilman poissulkemista. Leikkauksen jälkeinen kulku oli suotuisa, ja potilas kotiutettiin viikon kuluttua. Lopullinen histologinen diagnoosi osoitti, että kyseessä oli säikeinen maksakysta.
+Kliinisesti vastuussa: Tohtori [#5 Gracia Álvarez Fernández] Nefrologian osasto [#8 Hospital General Universitario Santa Lucía] [#11 Mezquita, Paraje Los Arcos] [#12 30202], [#12 Cartagena], [#12 Murcia] Sähköposti: [#16 alvarez.gracia@gmail.com]

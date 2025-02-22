@@ -1,0 +1,19 @@
+Etunimi: [#1 Ana Lyn].
+Sukunimi: [#1 Khan].
+Osoite: [#11 Montieth Road, 30, Egmore Tamil Nadu].
+Kaupunki/Provinssi: [#12 Chennai].
+CP: [#12 600008].
+Terveydenhuollon tiedot.
+Syntymäaika: [#6 27/03/1994].
+Maa: [#13 Intia].
+Ikä: [#2 24 vuotta] Sukupuoli: [#3 M].
+Vastaanottopäivä: [#6 13/05/2018].
+Lääkäri: [#5 Naveenjayakumar].
+Anamneesi: Terve [#3 nainen], joka on iältään [#2 24 vuotta], esitti ientulehdusta oikean yläkulman postero-posterior-hampaiden oikeassa yläkulmassa viimeisten 6 kuukauden ajan. Potilas ilmoitti myös lievästä kivusta ja hampaiden asteittaisesta poikkeamasta. Kuumetta tai märkää ei ollut havaittavissa.
+Fyysinen tutkimus: Potilaan yleisessä systeemisessä tutkimuksessa ei havaittu poikkeavuuksia. Paikallisessa tutkimuksessa havaittiin 1 x 3 cm:n kokoinen diffuusi turvotus oikean ylemmän poskihampaan alveolissa. Turvotus oli selvempi vestibulaarisella puolella. Pinta näytti karhealta ja punoittavalta. Vauriossa ei ollut näkyviä pulsaatioita. Edellä mainitut hampaat olivat poikittain kitalakea kohti. Palpaatiossa turvotus oli kovaa. Kyseiset kolme hammasta eivät reagoineet lämpöön, kylmään tai pulpan sähköiseen stimulaatioon.
+Yhteenveto lisäkokeista: Ortopantomografia ei tuottanut tulosta. Kontrastia sisältävässä tietokonetomografiassa (TT) todettiin oikeassa yläetuhampaan alveolissa pehmytkudosmassa, jossa ei ollut luun eroosiota. Radiologisissa tutkimuksissa ja tavanomaisissa hematologisissa tutkimuksissa, mukaan lukien hyytymistestit, ei havaittu poikkeavuuksia.
+Kehitys ja kommentit: Kliinisten, radiologisten ja CT-löydösten perusteella tehtiin alustava diagnoosi jättiläissoluleesiosta, ja vestibulaarisen ientaskun viiltävä biopsia tehtiin. Intraoperatiivinen verenvuoto oli hieman lisääntynyt, mutta sen katsottiin johtuvan tulehduksesta.
+Näytteen patologisessa raportissa paljastui fibrovaskulaarista sidekudosta, jossa oli lukuisia laajentuneita endoteelisiä kapillaareja ja laskimoita, jotka viittasivat AVM:ään. Toimenpideradiologin kanssa käytyjen neuvottelujen jälkeen leesio päätettiin resektioida ja se tehtiin yleisanestesiassa. Yksittäinen näyte sisälsi vestibulaarisen ja palatinaalisen ientaskun, alveolien ja asianomaiset hampaat. Hemostaasi saatiin aikaan, ja vaurio suljettiin ensimmäisenä tarkoituksena suulakihalkion ja suun limakalvon etenemisen avulla. Perioperatiivinen jakso ja toipuminen sujuivat potilaan kannalta rauhallisesti ja mukavasti.
+Näytteen patologinen analyysi oli hyvin samankaltainen kuin viiltobiopsian analyysi, ja siinä paljastui lukuisia arterioleja ja laskimoita, jotka olivat sijoittuneet luisten trabekuloiden väliin ja ulottuivat gingivaan, mikä viittasi arterio-venoottiseen epämuodostumaan.
+Potilasta seurattiin yhden vuoden ajan, eikä hänellä havaittu uusiutumista.
+Lähettäjä: Tohtori [#5 Naveenjayakumar], MDS-lukija, leukakirurgian ja kallonpohjakirurgian osasto, [#9 Meenakshi Ammal Dental College], [#12 Maduravoyal], [#12 Chennai] [#12 600095], [#13 Intia]. Sähköposti: [#16 naveenkumarj@hotmail.com]

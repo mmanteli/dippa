@@ -1,0 +1,25 @@
+                                                Etunimi: [#1 Victor].
+                                                Sukunimi: [#1 Herrero Casado].
+                                                NHC: [#17 9521025].
+                                                NASS: [#19 84 526908 56].
+                                                Osoite: [#11 Av. Marcelo Celayeta, 35 10C].
+                                                Kaupunki/ maakunta: [#12 Pamplona].
+                                                CP: [#12 31014].
+Hoitotiedot.
+Syntymäaika: [#6 27/01/1976].
+Maa: [#13 Espanja].
+Ikä: [#2 33 vuotta] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 26/05/2009].
+Yksikkö/osasto: ruoansulatusyksikkö.
+Jakso: [#18 635467].
+Lääkäri: [#5 David Remedios Clavijo] Col Nº: [#20 31 31 85978].
+Nykyhistoria: [#2 33-vuotias], ei aiempaa kiinnostavaa historiaa, diagnosoitu ileaalinen Crohnin tauti [#6 2005] alussa. Häntä oli hoidettu klaversaalilla 500 mg/8 h ja atsatiopriinilla annoksella 150 mg/vrk vuodesta [#6 joulukuu 2005] lähtien kortikodependenssin vuoksi. Häntä hoidettiin myös neljännesvuosittain suun kautta otettavalla raudalla, kuukausittain lihaksensisäisellä B12-vitamiinilla ja foolihapolla kahtena päivänä viikossa. Sen jälkeen potilas oli oireeton. Tammikuussa 2007 [#6] havaittiin kolestaasientsyymien lisääntymistä ajan myötä, ja tutkimusta päätettiin jatkaa avohoitona ja lopettaa atsatiopriini.
+Fyysinen tutkimus: Verenpaine: 100/60 mm/sek; Pulssi: 70 lyöntiä/min; Lämpötila: 36oC; Paino: 80 kg; Pituus: 180 cm; Hyvä yleiskunto. Tajuissaan ja orientoitunut. Sydämen ja keuhkojen auskultaatio normaali. Vatsa pehmeä, painuva, ei kivulias, ei massoja tai megaliitteja. Alaraajoissa ei muutoksia.
+Yhteenveto täydentävistä testeistä: Koska kolestaasi jatkui, tehtiin seuraavat testit:
+VERENKUVA. Verenkuva ja hyytyminen normaalit. Verihiutaleet: 108 000/ml. Maksaprofiili: Transaminaasit normaalit. FA: 248U/L. GGT: 390U/L. Ferriprofiili ja autoimmuniteetti negatiivinen. Hepatiitti B- ja C-viruksen serologia negatiivinen.
+Vatsan ultraäänitutkimus. Maksa diffuusisti suurentunut, sileä ääriviiva ja diffuusisti karkea, heterogeeninen ja hyperechogeeninen parenchyma, ilman ammatillisia vaurioita. Lievä splenomegalia. Portaaliportin kaliiperi ja läpäisevyys normaalit. Muut rakenteet ilman muutoksia.
+Vatsan magneettikuvaus. Maksa diffuusisti suurentunut, sileä kapselin ääriviivat ja homogeeninen parenkyymi keskitason T1-sekvensseissä, T2-sekvensseissä hypointensiivinen, diffuusit laikukkaat alueet, lievästi hyperintensiivinen, ei ammatillisia vaurioita. Lievää pernan paisuvaisuutta. Muut rakenteet ilman muutoksia.
+Gastroskopia. Ruokatorven alemmassa kolmanneksessa havaittiin 3 pientä suonensisäistä suonikohtaa, jotka hävisivät insuffloitaessa.
+Kehitys ja kommentit: Koska dissosioitunut kolestaasi jatkui atsatiopriinin lopettamisesta huolimatta, päätettiin tehdä maksabiopsia, jossa havaittiin säilynyt yleinen rakenne. Jotkin portaalitilat ovat laajentuneet, ja porto-portaalien silloitus on epätäydellinen. Yksittäisiä sentrolobulillaarisia suonia. Ei kolestaasia tai hemosideroosia. Ei makrofageja. PAS-diastaasi positiivinen. Joissakin portaalitiloissa on lievää pyöreiden solujen infiltraattia, joka ei ylitä rajalevyä. Epäsäännöllisissä hepatosyyttitrakuloissa on joillakin alueilla regeneratiivista ja päällystemäistä kuviointia. Usein on kaksinukleoottisia soluja, verisuonirakenteita ja laajentuneita sinusoidaalisia alueita, joilla on pelioottinen kuvio. Verkkokalvon runko on epäsäännöllinen, ja siinä on romahdusalueita. Edellä kuvattu histologia sopii nodulaariseen regeneratiiviseen hyperplasiaan.
+Myöhemmin tapahtunut kehitys, sekä analyyttiset että portaalihypertensiotiedot, oli hyvä, analyyttinen normaalius ja ruokatorven suonikohjujen häviäminen.
+Kliininen johtaja: [#5 David Remedios Clavijo]. Ruoansulatuskanavan B-osasto [#8 Complejo Hospitalario de Navarra] [#11 Irunlarrea, 4] [#12 31008] [#12 Pamplona] Sähköposti: [#16 davidruizcla@gmail.com]

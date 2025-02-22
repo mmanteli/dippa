@@ -1,0 +1,17 @@
+Potilaan tiedot.
+Etunimi: [#1 Ana].
+Sukunimi: [#1 Pacual Jaime] .
+NHC: [#17 8173456].
+NASS: [#19 43 75615775 06].
+Osoite: [#11 Paseo Santa Engracia, 14].
+Kaupunki/ maakunta: [#12 Barcelona].
+CP: [#12 08162].
+Hoitotiedot.
+Syntymäaika: [#6 06/09/1937].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 75 vuotta] Sukupuoli: [#3 mies].
+Vastaanottopäivä: [#6 15/09/2012].
+Lääkäri: [#5 Ivan Domenech Juan] Col Nº: 08 08 57989.
+Potilaan kliininen raportti: [#3 nainen], ikä [#2 75 vuotta], jolla on ollut tyypin II DM, jota hoidetaan insuliinilla ja johon liittyy kroonisia komplikaatioita, kuten polyneuropatia, AHT hoidossa ja lihavuus, ja jolle on suunniteltu PTR-leikkaus (polven totaaliproteesi). Puudutustekniikkana oli yhdistetty epiduraali-/intraduraalipuudutus L3-L4-tasolla. Intraduraalisen neulan kautta annettiin 3 ml 0,5-prosenttista bupivakaiinia ilman vasokonstriktoria, ja epiduraalikatetri jätettiin paikalleen postoperatiivista analgesiaa varten. Postoperatiivinen jakso oli tapahtumarikas, ja hän meni yläkertaan PCAE:lla (epiduraalinen PCA), joka oli ladattu bupivakaiinilla 0,125 ja fentanyylillä 4 mikrogrammaa millilitrassa, aikataululla 3 ml.h-1, 3 ml boluksia 30 minuutin välein. Noin kello 4 aamulla PCA:ta muutettiin, mikä aiheutti virheen ja PCA:n antaminen epiduraalisesti lääkityksellä ja ohjelmointi i.v. (100 ml:ssa 50 mg morfiinia ja 10 g metamitsolia).
+Päivittäisen PACU:n käynnin yhteydessä PACU:n hoitaja havaitsee virheen. Potilas on tajuissaan ja orientoitunut erinomaisen analgesian vallitessa, eikä hänellä ole merkkejä hengityslamasta, neurologisista muutoksista tai muista haittavaikutuksista. Annettu lääkemäärä oli 4 mg morfiinia ja 160 mg metamitsolia. PCA ja katetri poistettiin, ja potilas otettiin elvytysyksikköön valvontaa ja seurantaa varten, jossa hänellä ei ollut mitään haittavaikutuksia ja hänen tilansa pysyi koko ajan vakaana. 24 tuntia myöhemmin hänet kotiutettiin osastolle ja 2 viikkoa myöhemmin hän pääsi kotiin anestesiologin tarkastuksen jälkeen. Säännöllinen seuranta jatkui 18 kuukauteen asti ilman mitään vaaratilanteita.
+Kliininen johtaja: tohtori [#5 Ivan Domenech Juan]. [#11 c/ Ibería nº 11 3-2ª] [#12 08014] [#12 Barcelona].

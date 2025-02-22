@@ -1,0 +1,24 @@
+Etunimi: [#1 Diego].
+Sukunimi: [#1 Gutierrez Lozano] .
+NHC: [#17 2958791].
+NASS: [#19 83 23783246 78].
+Osoite: [#11 Av. San Ignacio, 11].
+Paikkakunta/ maakunta: [#12 Pamplona].
+CP: [#12 31002].
+Hoitotiedot.
+Syntymäaika: [#6 03/01/1957].
+Maa: [#13 Espanja].
+Ikä: [#2 54 vuotta] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 23/04/2011].
+Osasto: Urologia.
+Lääkäri: [#5 Andrea Tienza Fernández] Col Nº: [#20 31 31 93072].
+Nykyhistoria: Potilas [#2 54-vuotias], joka tuli klinikalle kohonneiden PSA-tasojen vuoksi, hänelle suositeltiin antibioottihoitoa ja sen jälkeen uudelleenanalyysiä. Kun tulos oli 8 ng/ml, suositeltiin eturauhasen biopsiaa. Anatomopatologinen tulos oli eturauhasen adenokarsinooma Gleason 3+3= 6, joka vahvisti paikallisen taudin ydinmagneettitutkimuksella. Potilaan anamneesissa oli aiemmin tehty umpilisäkkeen poisto ja nivustyräleikkaus.
+Leikkaushoitona ehdotettiin radikaalia eturauhasen poistoa, johon pääsee Walshin tekniikalla retropubisen ja ekstraperitoneaalisen reitin kautta, ja leikkaus suoritettiin ilman vaaratilanteita.
+Ensimmäisten päivien aikana hänellä oli kuumeen huippuarvoja 38,1oC:een asti, leikkauksen jälkeisen paralyyttisen ileuksen oireita, joihin liittyi runsasta oksentelua toisena päivänä, jolloin ensimmäisenä päivänä aloitettu suun kautta otettavan lääkkeen siedätyshoito keskeytyi.
+Neljäntenä päivänä tehtiin vatsan röntgenkuvaus, jossa todettiin kaasua koliikkirungossa ja hydroaeriaalisia tasoja oikeassa paksusuolessa. Kotiuttaminen suunniteltiin kahdeksanneksi päiväksi tyydyttävän kehityksen vuoksi.
+Seitsemäntenä päivänä hänellä oli kipua oikeassa kyljessä ja alueen punoitusta, ja kuume nousi 39oC:een. Vatsan tietokonetomografia osoitti retroperitoneumissa, toisen ja kolmannen pohjukaissuolen osan takana, nestekertymän, jossa oli runsaasti kaasua ja johon liittyi minimaalinen pneumoperitoneum, sekä divertikuloosia laskevan paksusuolen ja sigman tasolla.
+Yhteenveto täydentävistä testeistä: Näiden löydösten perusteella epäillään pohjukaissuolen perforaatiota retroperitoneaalisessa osassa ja infektiotilaa, ja valitaan konservatiivinen hoito. Drainage asetettiin keräykseen ultraäänellä, jolloin nesteestä saatiin viljelmät, joissa kasvoi Staphylococcus haemolyticus ja Candida albicans muutaman päivän kuluttua.
+Hän oli koko vastaanoton ajan empiirisessä antibioottihoidossa viljelyjen perusteella. Hänelle asetettiin nenä-mahaletku, ja suun kautta annettava ravinto korvattiin parenteraalisella ravinnolla.
+Keräyksen seuranta tehtiin ultraäänitutkimuksella, jossa vahvistettiin suolen sulkeutuminen kontrastin avulla gastroduodenaalisessa läpikulussa 30 päivän kuluttua dreenin asettamisesta, minkä jälkeen aloitettiin suun kautta siedätyshoito. Hyvän siedätyksen ja apyretiittisen tilan jälkeen dreeniletku poistettiin ja potilas kotiutettiin 45 päivän kuluttua toimenpiteestä.
+Hän on edelleen oireeton 26 kuukauden kuluttua, ja PSA-arvo on osoittamaton.
+Kliinisesti vastuussa: tohtori [#5 Andrea Tienza Fernández]. [#8 Clínica Universidad de Navarra] Urologian osasto [#11 Avda. Pío XII, 36] [#12 31008] [#12 Pamplona]. [#12 Navarra].

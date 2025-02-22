@@ -1,0 +1,16 @@
+Potilaan tiedot.
+Etunimi: [#1 Sebastian].
+Sukunimi: [#1 Perez Garcia].
+NHC: [#17 8264597].
+NASS: [#19 27 67805270 54].
+Osoite: [#11 Calle Rivera, 23, 1 C].
+Paikkakunta/ maakunta: [#12 Madrid].
+CP: [#12 28004].
+Hoitotiedot.
+Syntymäaika: [#6 06/12/1957].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 53 vuotta] Sukupuoli: [#3 F].
+Vastaanottopäivä: [#6 15/07/2011].
+Lääkäri: [#5 Angel García Escudero] Col Nº: [#20 28 28 61394].
+Potilaan kliininen raportti: Potilas [#3 mies], ikä [#2 53 vuotta], diagnoosina ankylopoieettinen spondyliitti (HLA B27), sekundaarinen amyloidoosi ja loppuvaiheen krooninen munuaisten vajaatoiminta, joka on korvaushoidossa hemodialyysillä. Hänellä todettiin kivuton hematuria, ja kystoskopiassa havaittiin virtsarakkomassa, joka erittyi mutta ei ollut papillaarinen ja joka vuoti. Transuretraalinen resektio (TUR) tehtiin, ja histologinen diagnoosi oli virtsarakon amyloidoosi. Potilas kehittyi tyydyttävästi, ja 11 kuukauden kuluttua hänet otettiin uudelleen hoitoon voimakkaan, epigastrisen ja kiinteän vatsakivun vuoksi, johon lisättiin kaksi tuntia myöhemmin äkillinen, runsas ja verenpurkauksellinen oksentelu, jota vaikeutti sydän- ja hengityslama, joka johti exitusiin ([#6 11/04/1995]). Post mortem -anatomopatologinen diagnoosi paljasti ruoansulatuskanavan iskeemisen nekroosin alueella, jota ylempi suoliliepeenvaltimo kastelee, ja amyloidisaostumat submucosaalisissa verisuonissa. Elinten ja järjestelmien osallistuminen oli laajaa, mukaan lukien amyloidoosista johtuva molemminpuolinen munuaisten surkastuminen. Virtsarakon amyloidoosi (AA), pääasiassa perivaskulaarinen ja amyloidoosi eturauhasen verisuonissa.
+Kliininen johtaja: Dr. [#5 Angel García Escudero] Sähköposti: [#16 agareslo@telefonica.net].

@@ -1,0 +1,22 @@
+Potilaan tiedot.
+Etunimi: [#1 Gabriel].
+Sukunimi: [#1 Fernandez Alonso].
+NHC: [#17 7356284].
+Osoite: [#11 C/ Raymundo Fdz Villaverde, 4, 1 D].
+Paikkakunta/ maakunta: [#12 Ferrol] .
+CP: [#12 15405].
+Hoitotiedot.
+Syntymäaika: [#6 21/09/2008].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 9 vuotta] Sukupuoli: [#3 F].
+Vastaanottopäivä: [#6 03/11/2017].
+Lääkäri: [#5 Enrique Freiré Vila] Col Nº: [#20 15 15 23910].
+Kliininen raportti potilaasta: [#3 Mies] iältään [#2 9 vuotta], jolla ei ole aiempaa sairaushistoriaa ja joka raportoi kahden päivän ajan kehittyneistä myodesopsioista OI:ssa.
+Päivystyspoliklinikalla tehdyssä silmätutkimuksessa todettiin: Näöntarkkuus (VA) vasemmassa silmässä (LA) 1. Biomikroskooppi osoitti lievää anteriorista uveiittia ja silmänpohjakuvassa aktiivisen chorioretiniitin fokus papillan läpimitan kohdalla. Ottaen huomioon fokuksen ominaisuudet ja sen sijainnin diagnoosi oli toksoplasminen korioretiniitti, ja hoitoon määrättiin suun kautta otettavaa sulfadiatsiinia, pyrimetamiinia ja foliinihappoa annoksina, jotka on sovitettu kehon painokiloa kohti.
+Yhdeksän hoitopäivän jälkeen potilas palasi päivystyspoliklinikalle, ja hänellä oli 39 ºC:n kuume, papulo-erytematoottinen ihottuma rinnassa, selässä ja kasvoissa, rakkuloita suun limakalvoilla, keuhkotulehdus ja tasapainotulehdus. Silmätutkimuksessa todettiin molemminpuolinen ylempi hyposfagma, kalvomainen sidekalvotulehdus, jossa oli eksudatiivinen komponentti, ja pinnallinen keratopatia molemmissa silmissä.
+Veriviljelyä, hepato- ja munuaisprofiilia, suun limakalvosta otettua näytettä virusten, herpeksen ja mykoplasman serologiaa varten pyydettiin. Kaikki tulokset olivat negatiivisia, ja toksoplasman serologinen tulos oli IgG>500, IgM negatiivinen.
+Sulfadiatsiinin aiheuttamaa JSS:ää epäiltäessä kaikki silmätoksoplasmoosilääkitys peruutettiin välittömästi, ja potilaalle tehtiin säännöllisiä silmänpohjatutkimuksia, jotka paranivat spontaanisti ilman komplikaatioita.
+Potilas tarvitsi sairaalaan tulopäivästä lähtien perusteellista ihon ja suun limakalvojen hoitoa, parenteraalista ravitsemusta ja kipulääkitystä laskimonsisäisellä morfiinikloridilla (i.v.). Myöhemmin lisättiin metyyliprednisolonia 1 mg/kg/vrk i.v., ja hoitoa vähennettiin kotiuttamiseen asti.
+Silmälääketieteellisesti hänelle määrättiin säilöntäaineettomia keinokyyneleitä, kuten natriumhyaluronaattia _ tunnin välein, liukuvoidetta öisin, rifamysiinisilmätippoja ja deksametasonia 4 tunnin välein limakalvomuutosten vähentämiseksi. Symblepharon-lyysi suoritetaan 12 tunnin välein aluksi hyvin eksudatiivisista, runsaista ja helposti irrotettavista kalvoista ja myöhemmin tarttuvammista, kuitumaisemmista kalvoista, joiden poistaminen vaatii skarifiointia.
+Kolmen viikon hoidon jälkeen havaittiin jäljellä oleva hyposfagma, sisemmän kantaluun semilunaarisen poimun paksuuntuminen, keratinisaatio ja vapaan reunan paksuuntuminen sekä alemman fornixin lievä lyheneminen.
+Kliinisesti vastuussa: tohtori [#5 Enrique Freiré Vila] anestesiologian, elvytyksen ja kivunhoidon osaston sihteeri [#8 Hospital Arquitecto Marcide] / [#8 Prof. Novoa Santos]. Novoa Santos] Área Sanitaria de [#12 Ferrol] [#11 C/ Estrada San Pedro de Leixa-Catabois, s/n] [#12 15.405] [#12 Ferrol] - ([#12 Coruña, La]), [#13 Espanja] Tel.: [#14 981.33.40.00] (Ext): [#14 138-137] Fax: [#15 981.33.40.15] [#16 enriquefreire2000@yahoo.es] [#16 enriquefreire2000@yahoo.es]

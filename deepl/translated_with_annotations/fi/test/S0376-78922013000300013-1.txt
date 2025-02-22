@@ -1,0 +1,25 @@
+Etunimi: [#1 Teresa].
+Sukunimi: [#1 Román Montalvo].
+NHC: [#17 70436].
+NASS: [#19 82 35613758 41].
+Osoite: [#11 Av. del Rocío, 2].
+Kaupunki/ maakunta: [#12 Murcia].
+CP: [#12 30007].
+Hoitotiedot.
+Syntymäaika: [#6 03/10/1960].
+Maa: [#13 Espanja].
+Ikä: [#2 60 vuotta] Sukupuoli: [#2 60 vuotta].
+Vastaanottopäivä: [#6 21/08/2017].
+Lääkäri: [#5 Joana Díaz Ontiveros] Col Nº: [#20 30 30 47985].
+Anamneesi: [#3 Nainen], iältään [#2 56 vuotta], verenpainetauti, diagnosoitu selkärangan patologia D11-D12 ja L3-L4, hänelle tehtiin L1-L5:n pósterolateraalinen artrodeesi sekä lamina-siirto ja luunkorvike, jonka kehittyminen oli huono, leikkaushaava infektoitui ja paravertebral-lihaksisto nekroosi, joka vaati 3 uutta toimenpidettä elinkelvottoman kudoksen poistamiseksi. Kolmannen leikkauksen jälkeen hänelle asennettiin tyhjiöhoitojärjestelmä ja hänet ohjattiin osastollemme, joka on korjausleikkausten vertailukeskus. Ensimmäisen selkäleikkauksen ja osastollemme lähettämisen välinen aika oli noin 18 päivää.
+Potilas siirrettiin paareilla, koska hän ei kyennyt liikkumaan ja koska hänellä oli huomattava surkastuminen molemmissa alaraajoissa sekä halkaisijaltaan noin 20 x 5 cm:n suuruinen vika selkä- ja lannerangan alueella, jossa selkäranka ja osteosynteesimateriaali olivat paljastuneet. Merkkejä infektiosta ei ollut.
+Taustaa: poliomyeliitti vuoden ikäisenä ja vasemman alaraajan jälkivaikutukset, jotka edellyttivät useita toimenpiteitä kunnollisen kävelyn mahdollistamiseksi, sekä lannerangan leikkaus [#2 42 vuoden iässä].
+Kirurginen toimenpide: Tutkimme vian laajuuden tietokoneaksiaalitomografialla (CT), jossa todettiin instrumentoitu artrodeesi L1-S1:stä, johon liittyi posterioristen elementtien resektio ja posteriorinen pehmytkudoslisäys leikkausalueella, jossa oli jälkiä ilmasta ja pehmytkudosmassasta, jotka viittaavat leikkauksenjälkeisiin muutoksiin, mutta jossa ei ollut viitteitä paiseista. Teimme myös dorsaalisen lannerangan CT-angiografian määrittääksemme paravertebral-lihaksen ja ihon perforaattoreiden elinkelpoisuuden.
+Säilytimme tyhjiöhoitojärjestelmää leikkaushaavassa 20 päivän ajan, kun kuvantaminen ja anestesiaa edeltävät tutkimukset saatiin päätökseen, auttaaksemme vaurion puhdistamisessa.
+Kirurgisen toimenpiteen suunnitteluun kuului arpikudoksen poisto, syvien luisten rakenteiden peittäminen hyvin verisuonitetuilla kudoksilla ja ihovian sulkeminen ilman jännitystä.
+Yleisanestesiassa potilaan ollessa vasemmassa kylkiasennossa suoritimme lannerangan alueen käänteisten ihoreunojen ja kuitumaisen arpikudoksen poiston. Suunnittelimme ja nostimme käänteisen latissimus dorsi -lihasläpän sekundaaristen pedikkelien perusteella, siirsimme sen lannerangan defektiin tunneloimalla ja kiinnitimme sen terveeseen perilesiaaliseen lihaskudokseen. Asetimme neljä kierukkaviemäriä, kaksi luovuttaja-alueelle ja kaksi vastaanottaja-alueelle, jättäen yhden lihaksensisäiseen tasoon ja toisen ihonalaiseen tasoon.
+Luovutuskohta suljettiin suoraan, tasoissa, ilman jännitystä. Vastaanottaja-alueen iho suljettiin Friedrichin reunojen jälkeen jännittämättä ja puristamatta lihasläppää.
+Kehitys ja kommentit: 5 päivää leikkauksen jälkeen havaittiin oikean paravertebral-tilavuuden lisääntyminen potilaan äkillisen vuoteeseen siirtämisen jälkeen. Ultraäänitutkimus osoitti, että oikeassa paravertebralassa oli 15 x 2 cm:n kokoinen lihaksensisäinen verenpurkauma. Yleisanestesiassa poistimme koaguloidun hematooman, tarkistimme lihasläpän elinkelpoisuuden ja suljimme haavan uudelleen.
+18 päivän kuluttua potilas alkoi kävellä kävelytuolin avulla ja palautti alaraajojen toimintakyvyn, ja hänet kotiutettiin leikkauksen jälkeisenä 22. päivänä.
+Leikkauksen jälkeisen kahden vuoden seurannan aikana potilas käveli normaalisti ja läpän paikallinen kehitys oli erinomainen.
+Lähettäjä: Dr. [#5 Joana Díaz Ontiveros] [#11 C/ Pintor José Maria Soberano no 1 Urb]. [#12 La Quinta Molina de Segura] [#12 30509].  [#16 joannaidiazo@gmail.com]

@@ -1,0 +1,35 @@
+Potilastiedot.
+Etunimi: [#1 Paula].
+Sukunimi: [#1 Morales Cuadrado].
+NHC: [#17 4396589].
+NASS: [#19 73 65764907 85].
+Osoite: [#11 C/ Fernando Vinuesa, 6, 3 A].
+Kaupunki/ maakunta: [#12 Madrid].
+CP: [#12 28013].
+Hoitotiedot.
+Syntymäaika: [#6 21/06/1999].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 18 vuotta] Sukupuoli: [#3 mies].
+Vastaanottopäivä: [#6 06/01/2018].
+Lääkäri: [#5 Cynthia Binelli] ColNumber: [#20 28 28 25011].
+Potilaan kliininen raportti: [#2 18-vuotias] potilas, jolla on diagnosoitu (DSM-IV-TR) sosiaalinen fobia ja riippuvainen persoonallisuushäiriö, lähetetty lasten ja nuorten mielenterveyspalvelusta (CSMIJ) aikuisten palveluun seurantaa varten, mukana [#4 äiti].
+Hän on [#17 vanhempi kahdesta siskosta]. Vanhemmat] ovat [#4] asumuserossa. Asuu [#4 äidin] ja [#4 siskon] kanssa. Lapsuudessaan hänellä on ollut tarkkaavaisuushäiriöitä ja huono koulumenestys, eikä hän ole toistanut arvosanaa. Hän opiskelee tällä hetkellä ylempää moduulia ja työskentelee perheyrityksessä. Kiinnostavana sairaushistoriaan kuuluu yksittäinen kasvun hidastuminen, joka vaati hoitoa kasvuhormonilla (GH) [#2 12] - [#2 17-vuotiaana]. Fruktoosi-intoleranssi, johon liittyy ruoansulatuskanavan verenvuotoa ja laktoosi-intoleranssia. Lapsuudessa suoritettiin geneettinen tutkimus, eikä geneettistä muutosta, ei numeerista eikä rakenteellista, havaittu. Hän kiistää myrkyllisten aineiden käytön. Perheen psykiatrisista ennakkotapauksista [#4 äiti] viittaa pitkäaikaisiin ahdistuneisuusoireisiin. He kuvaavat [#4 isää] yksinäiseksi, sisäänpäinkääntyneeksi ja "tunteeton" henkilöksi, ominaisuuksia, joita esiintyy useilla sukulaisilla [#4 isälinjan] kautta. Psykiatrisesta näkökulmasta katsottuna potilas otti yhteyttä CSMIJ:hen [#2 14-vuotiaana], ja hänen diagnoosinsa oli sosiaalinen fobia. [#2 17-vuotiaana] hänet otettiin päiväsairaalaan kahdeksi kuukaudeksi, koska hänellä oli vaikeuksia suhteissa muihin ihmisiin, hän oli poissa koulusta ja erittäin riippuvainen perheympäristöstä. Diagnoosina oli sosiaalinen fobia ja riippuvainen persoonallisuushäiriö (kehityksen mukaan), joka kotiutumisen jälkeen kehittyi kohti osittaista paranemista. Sairautta edeltävistä persoonallisuuspiirteistä hänellä on korkea introverttiusaste. Hänen [#4 äiti] kuvailee häntä eristäytyneeksi [#3 lapsi], "erilaiseksi", jolla on vähän sosiaalista kiinnostusta.
+Ensitutkimus paljasti etäisen kontaktin, epäspontaanin kielen, jossa ei ollut muodollisia muutoksia. Kohtalainen psykofyysinen ahdistuneisuus, pakkomielteiset luulotautiset ajatukset, onykofagia ja yöllinen bruksismi. Affektiivisen tai psykoottisen alueen oireita ei havaittu. Ei muutoksia ajatusten kulussa tai sisällössä. Ei muutoksia aistihavainnoissa. Osittainen tajunnan häiriö.
+Kuva luokitellaan C-klusterin C persoonallisuushäiriöksi (fobiset, pakkomielteiset ja riippuvaiset piirteet). Farmakologista hoitoa jatketaan CSMIJ:n määräämällä tavalla (sertraliini, 100 mg), ja hänet ohjataan psykologin vastaanotolle sosiaalisten vaikeuksien käsittelemiseksi. Hän teki muutamia käyntejä, joissa hän noudatti huonosti ehdotettuja strategioita (kognitiivis-behavioraalinen malli), ja irrottautui tutkimusten yhteensopimattomuuden vuoksi.
+Toinen yhteydenotto kahden vuoden kuluttua
+Potilas ottaa uudelleen yhteyttä lähes kahden vuoden ([#2 20 vuotta]) seurannan lopettamisen jälkeen. Sosiaaliset vaikeudet jatkuvat. Psykiatria ja psykologia tekevät tutkimuskäyntejä, mukaan lukien vierailu [#4 äidin] luona. He ilmaisevat päätöksen luopua SSRI-lääkityksestä. He eivät hyväksy farmakologista hoitoa, mutta hyväksyvät psykologisen hoidon. Arvioinnin aikana potilas tekee vaikutuksen "omituiseen" kontaktiin tavanomaisen fobisen-ahdistuneen kontaktin sijaan. Katsekontaktissa tapahtuu outo - vaikkakin hienovarainen - muutos. Kieli pysyy epäspontaanina. Sosiaalisten vaikeuksien ja vähäisen kiinnostuksen ympäristöstä lisäksi esiin nousevat pakkomielteiset luulotautiset ajatukset sekä fyysisen ja seksuaalisen kontaktin ehdoton hylkääminen. Potilaan vaikeuksien/taitojen arvioimiseksi ihmissuhteiden tasolla ehdotetaan yksinkertaisia sosiaalisia altistumisharjoituksia neuvolahuoneen ulkopuolella. Potilas ei toteuta mitään ehdotetuista harjoituksista/strategioista. Hän ei myöskään osoita minkäänlaista kiinnostusta näiden vaikeuksien ratkaisemiseen. Päinvastoin, hän näyttää suhtautuvan niihin jokseenkin välinpitämättömästi. Tämän vuoksi alkaa herätä epäilyksiä sosiaalisesta välttelystä (epämukavuus vs. ahdistuneisuus?) ja sosiaalisesta halusta (opittu sosiaalinen diskurssi?). Näiden epäilyjen vuoksi herää epäilys, että nämä oireet voitaisiin selittää muilla diagnooseilla: skitsoidisilla piirteillä? autistisen spektrin piirteillä? ja siksi ehdotetaan potilaan uutta arviointia.
+Arviointiprotokolla ja tulokset:
+- DSM-IV:n akselin II häiriöiden strukturoitu kliininen haastattelu (SCID II):
+- Kriteerit skitsoidinen persoonallisuushäiriö: 4/5. Lähellä raja-arvoa.
+- Kriteerit välttelevä persoonallisuushäiriö: 5/5. Täyttää raja-arvon.
+- Mielen teoriatestit (TOM):
+- "Happé Stories Test": osoittaa riittävää kykyä päätellä toisten mielentiloja, ymmärtää metaforia ja kaksoismerkityksiä.
+- "Mind's Eye Reading Test": Pystyy liittämään suurimpaan osaan (23/36) valokuvassa esitettyä tunnetta tai emootiota.
+- Mokailutesti: Tunnistaa oikein "mokailutarinat", mutta osoittaa vaikeuksia osoittaa tunnetiloja ja tarkoituksellisuutta hahmoille.
+- Wechslerin aikuisten älykkyysasteikko (WAIS-III): IQ Verbal= 99 IQ Manipulative= 94 IQ Total= 97 Vaihteluväli: Keskitaso.
+- Autism Diagnostic Interview-Revised (ADI-R): Havaitaan häiriöitä vastavuoroisessa sosiaalisessa vuorovaikutuksessa. Kasvojen ilmeiden valikoima on rajallinen sosiaalisen vuorovaikutuksen viestinnässä ja säätelyssä. Kyvyttömyys kehittää suhteita ikätovereihin. Sosioemotionaalisen vastavuoroisuuden puute, riittämättömät sosiaaliset reaktiot ja puute pyrkimyksessä jakaa mielihyvää muiden kanssa. Jälkikäteen havaitaan laadullisia muutoksia viestinnässä, kuten spontaanin ja monipuolisen symbolisen leikin puute.
+Myös joitakin rajoitettuja käyttäytymismalleja on havaittu.
+- Magneettikuvaus (MRI): Kallon tutkimus normaalin rajoissa.
+Kokonaisarviointi:
+Potilas on koko tutkimuksen ajan yhteistyöhaluinen, vaikkakaan ei kovin motivoitunut. Saadut tiedot osoittavat merkkejä autistisesta oireyhtymästä (ASD), johon liittyy vähäistä sosiaalista kiinnostusta, sopimattomia ilmaisuja ja käyttäytymistä, vaikeuksia luoda sosiaalisia suhteita ikätovereihin, rajoittuneita kasvojen ilmaisuja ja affektiivisuutta sekä rajoitettuja kiinnostuksen kohteita/toimintoja. Kognitiivinen profiili ja suoriutuminen "TOM"-alueilla (ei-merkitsevien virheiden määrä, vaikkakin vaikeus kohdistaa tunnetiloja ja tarkoituksellisuutta hahmoihin "Meteduras de Pata"-testissä) vastaavat profiilia, joka on havaittu hyvin toimivilla ASD-potilailla (1).
+Kliininen johtaja: Tohtori [#5 Cynthia Binelli]. Sähköposti: [#16 cynthiabinelli@gmail.com]

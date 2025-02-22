@@ -1,0 +1,20 @@
+Etunimi: [#1 saksa].
+Sukunimi: [#1 Romero Martin].
+NHC: [#17 45764].
+NASS: [#19 45 78960504 77].
+Osoite: [#11 Calle de la Mata, 23].
+Paikkakunta/ maakunta: [#12 Cdad. Real].
+CP: [#12 13004].
+Hoitotiedot.
+Syntymäaika: [#6 08/09/1980].
+Maa: [#13 Espanja].
+Ikä: [#2 37 vuotta] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 26/11/2017].
+Osasto: Silmätauti.
+Lääkäri: [#5 Carmen Ispa Callén] Col Nº: [#20 13 13 94179].
+Potilaskertomus: [#3 Mies] iältään [#2 37 vuotta] hypermetrooppinen, jonka rutiinitutkimuksessa todettiin, että silmänpaine (IOP) oli 34 mmHg oikeassa silmässä (OD) ja 32 mmHg vasemmassa silmässä (OI). Gonioskopiassa havaittiin merkkejä kulmien sulkeutumisesta molemmissa silmissä, mikä johti molemminpuolisiin Nd:YAG-laser-iridotomioihin. Kahden viikon kuluttua kulmien sulkeutumisen merkit jatkuivat, vaikka iridotomia oli tehty, ja silmänpaine oli 33 mmHg (OD) ja 36 mmHg (OI). Ultrasonic biomicroscopy (UBB) suoritettiin, ja siinä havaittiin iirisplateau-konfiguraatio, jossa oli kulmasulkeuma, joka oli seurausta useista iridociliary-kystista. Kystien seinämät olivat ohuet, hyperheijastavat ja nestepitoisuus oli hyporeflektiivinen, mikä viittaa primaaristen neuroepiteelikystien diagnoosiin.
+RO päätettiin hoitaa argonlaser-iridoplastialla (iskukoko 500 µm, 0,5 sekunnin valotus ja 500 mW teho). Samaa lähestymistapaa tarjottiin myös OD:lle, mutta potilas piti parempana konservatiivista hoitoa verenpainetta alentavalla lääkityksellä (timololi 0,5 % 12 tunnin välein), kunnes vaste laserhoitoon oli nähtävissä.
+Iridoplastian jälkeen BMU toistettiin, mikä osoitti iiriksen juuren muodonmuutoksen kuperasta koveraksi ja kystien häviämisen. Ilman hoitoa silmänpaine laski 17 mmHg:iin.
+Kuukauden kuluttua silmänpaine pysyi 18 mmHg:ssa OI:ssa ilman lääkitystä ja 14 mmHg:ssa OD:ssa Timololin kanssa. BMU:ssa kystat ilmaantuivat uudelleen laserkäsitellyssä silmässä ilman, että ne aiheuttivat sekundaarista kulmahalvausta. Tilanne säilyi 6 kuukautta, minkä jälkeen OI:n iiristasanteen konfiguraatio palasi ja silmänpaine nousi 28 mmHg:iin. Tässä vaiheessa päätettiin hoitaa tätä silmää verenpainetta alentavalla lääkityksellä kuten oikeaa silmää, koska sen silmänpaine pysyi riittävänä (14 mmHg). Potilas kieltäytyi muusta ei-lääkkeellisestä hoidosta, koska hän sieti lääkityksen erittäin hyvin ja riittävä verenpaineen hallinta oli saavutettu.
+Tällä hetkellä, 12 kuukauden seurannan jälkeen, potilaan silmänpaine on 14 mmHg molemmissa silmissä Timolol 0,5 %:lla 12 tunnin välein. BMU:ssa näkyy edelleen useita neuroepiteelikystia molemmissa silmissä, joiden koko tai lukumäärä ei ole kasvanut, eikä potilaalla ole kliinisiä merkkejä kulmien sulkeutumisesta.
+Lähettäjä: M: Tohtori [#5 Carmen Ispa Callén]. [#8 Complejo Hospitalario La Mancha-Centro] [#11 Avenida de la Constitución] [#12 13600] [#12 Alcázar de San Juan] ([#12 Ciudad Real]) [#13 Espanja] Sähköposti: [#16 flarmed@hotmail.com]

@@ -1,0 +1,15 @@
+Potilastiedot.
+Etunimi: [#1 Sergio].
+Sukunimi: [#1 Aznar Rivas].
+NHC: [#17 5379864].
+Osoite: [#11 Calle Mandala, 14].
+Kaupunki/ maakunta: [#12 Madrid].
+CP: [#12 29034].
+Hoitotiedot.
+Syntymäaika: [#6 12/03/1998].
+Maa: [#13 Espanja].
+Ikä: [#2 19 vuotta] Sukupuoli: [#3 F].
+Vastaanottopäivä: [#6 30/07/2017].
+Lääkäri: [#5 Antonio Javier Márquez Moreno] Col Nº: [#20 29 29 83404].
+Potilaan kliininen raportti: Potilas on iältään [#2 19 vuotta], eikä hänellä ole aiempaa sairaushistoriaa, ja hän kääntyy oikeassa kiveksessä olevan, noin 8 kuukautta kestäneen lievästi kivuliaan kasvaimen vuoksi, ja kliinisessä tutkimuksessa todetaan kivesten laajentuma, jossa on kyhmyisiä alueita. Vasemmassa kiveksessä ei havaittu muutoksia. Alfa-fetoproteiini: 38,2 ja beeta-HGC 1,48. Ultraäänitutkimuksessa havaittiin kolme itsenäistä ja hyvin määriteltyä kasvainkyhmyä: kaksi niistä oli heterogeenisiä, kiinteitä, halkaisijaltaan 20 ja 33 mm:n kokoisia, kystisiä alueita ja kalkkeutumia. Kolmas kyhmy oli kiinteä, hypoekaikuinen ja homogeeninen, halkaisijaltaan 26 mm. Kaikissa kyhmyissä todettiin lisääntynyttä verisuonitusta ja matalan vastuksen valtimovirtauksia. Laajennustutkimus oli negatiivinen. Orkiektomia tehtiin. Histologisesti kaksi ensimmäistä kyhmyä vastasivat teratokarsinoomia (kypsä teratooma ja vallitseva embryonaalinen karsinooma), sillä makroskooppisesti ne olivat ruskehtavan valkoisia massoja, joissa oli kellertävän seerumipitoisia onteloita, kalkkeutumia ja nekroosipesäkkeitä. Kolmas diagnosoitiin klassiseksi seminoomaksi, joka oli makroskooppisesti homogeenisempi.
+Lähettäjä: Tohtori [#5 Antonio Javier Márquez Moreno] [#11 Teseo, 5 3-N]. [#12 29010]. [#12 Málaga] ([#13 Espanja]) [#16 nuriaantonio@terra.es].

@@ -1,0 +1,23 @@
+Potilaan tiedot.
+Etunimi: [#1 Elvira].
+Sukunimi: [#1 Lopez Ramos].
+NHC: [#17 2547916].
+Osoite: [#11 Calle Pedro Gonu, 28, Bajo A].
+Kaupunki/ maakunta: [#12 Madrid].
+CP: [#12 28009].
+Hoitotiedot.
+Syntymäaika: [#6 06/01/2016].
+Maa: [#13 Espanja].
+Ikä: [#2 5 kuukautta] Sukupuoli: [#3 Nainen].
+Vastaanottopäivä: [#6 10/06/2016].
+Lääkäri: [#5 Alberto Palacios Hernández] Col Nº: [#20 28 28 09867].
+Potilaan kliininen raportti: [#17 Imeväisikäinen], kaukasialaista rotua, iältään [#2 5 kk], [#4 ensimmäinen lapsi] [#4 nuorille vanhemmille] ([#4 äiti], iältään [#4 28 vuotta] ja [#4 isä], iältään [#4 30 vuotta]), terve, ei sukua, ei perinnöllisiä perinnöllisiä patologioita, ei munuaistautia eikä tunnettua hypertensiota. Raskaus seurattu asianmukaisesti ja ilman muutoksia. Synnytys 37. raskausviikolla ilman komplikaatioita, Apgarin testi 9/10. Antropometria syntyessään: paino 2 760 grammaa, kefalo-kaudaalinen halkaisija 48,5 cm ja pään ympärysmitta 34,7 cm. VDRL, AntHBs, HIV negatiivinen, ei-immuuni toksoplasmoosi ja immuuni vihurirokko. Kahdenväliset korvalehden umpisolmukkeet, matala implantoitunut pinna, ihon granuloomia, mikrognatismi, johon liittyy mandibulaarinen hypoplasia, vasemmassa silmässä sijaitseva kolobooma ja kiinteä kivespussin kasvain, joka ei ilmeisesti ole kivulias tunnusteltaessa. Rokotusohjelma ajan tasalla.
+Lapsi [#17] siirretään toisesta sairaalasta [#2 19 päivän] iässä, ja hänellä on diagnosoitu urosepsis. Vastasyntyneiden tehohoitoyksikköön otettiin aluksi vakauttamaan tila käyttäen tukitoimia ja antibioottihoitoa ampisilliinilla, gentamisiinilla ja kefotaksiimilla.
+Reno-lantion ja kivespussin ultraäänitutkimuksessa todettiin molemminpuolinen virtsanjohdinhydronefroosi ja paksuseinäinen virtsarakko, oikean kivespussin turvotus, ilmeinen hypo- ja hyperechogeeninen kuva, jossa oli septa ja ilmeinen kivestuho.
+Kun parametrit olivat vakiintuneet ja urokulttuuri oli negatiivinen, teimme sarjatutkimuksen virtsan tyhjennyksestä, jossa näkyi takimmaisen virtsaputken laajentuma, trabekulaarinen virtsarakko eikä vesiko-ureteraalista refluksitautia, ja epäilimme takimmaisia virtsaputkiläppiä.
+Koko kehon luun röntgenkuvissa ei havaittu luumuutoksia tai nikamamuutoksia.
+Suoritimme virtsaputken takaosan läppien fulguraation ja oikean nivustaipeen orkideektomian. Leikkauksen jälkeinen aika sujui ilman komplikaatioita. Katetri poistettiin seitsemäntenä postoperatiivisena päivänä. Hänet kotiutettiin normaalin munuaistoiminnan, negatiivisen virtsankarkailun ja oikean diureesin vallitessa.
+[2. neljännen elinkuukauden] aikana hän joutui sairaalaan, jossa diagnosoitiin hengitystieinfektio bronkioliitin yhteydessä, ja urokulttuuri oli positiivinen polymikrobiflooran suhteen. Hänelle annettiin antibioottihoito ja hänet kotiutettiin antibioottiprofylaksian avulla trimetopriimi-sufametoksatsolia käyttäen.
+Viidennessä kuukaudessa aseptisen virtsan kanssa suoritimme laskimonsisäisen urografian ja munuaisten sintilogrammin MAG-3:lla ja furosemiditestin, jossa näkyi molemminpuolinen virtsanjohdinlaajentuma, oikean munuaisen kaksisuuntaisuus, normaali virtsarakon kapasiteetti ja virtsarakon täydellinen tyhjeneminen, virtsaputki ilmeisesti ilman muutoksia, molemminpuolinen munuaistoiminta säilyy ja reagoi furosemiditestiin. Diagnoosina oli molemminpuolinen ei-obstruktiivinen virtsanjohdinlaajentuma, johon liittyi pienten munuaisten haarautuneisuus. Päätimme tehdä tarkastuksia 6 kuukauden välein.
+Viimeisimmässä tarkastuksessa [2 15 kuukauden ikäisen] lapsen munuaistoiminta oli normaali, diureesi oli hyvä ja virtsan laskeuma oli muuttumaton.
+Lähettäjä: [#5 Alberto Palacios Hernández] [#21 5. vuosikurssi], urologia. [#8 Hospital Universitario La Paz].

@@ -1,0 +1,19 @@
+Etunimi: [#1 Juan José].
+Sukunimi: [#1 Ulloa Origel].
+Osoite: [#11 Av Montes Pirineos 770, Lomas de Chapultepec V Secc].....
+Kaupunki/Provinssi: [#12 Mexico City].
+CP: [#12 11010].
+NHC: [#17 5221413].
+Hoitotiedot.
+Syntymäaika: [#6 15/06/1962].
+Maa: [#13 Meksiko].
+Ikä: [#2 54] Sukupuoli: [#3 F].
+Sisäänottopäivä: 16.
+Lääkäri: [#5 Antonio García Morúa].
+Sisäänoton syy: Potilas [#3 mies], iältään [#2 54 vuotta], tuli osastollemme oireiden vuoksi, jotka olivat edenneet yhden kuukauden ajan ja joille oli ominaista, että peniksen päissä oli oireettomia rakkulamaisia vaurioita, jotka etenivät haavaumiksi viikkoa myöhemmin; tämän jälkeen hän raportoi voimakkaasta kivusta peniksen päissä ja hypokromiasta, jonka vuoksi hän otti yhteyttä.
+Anamneesi: tyypin 2 diabetes mellitus [nro 2 30 vuoden] iästä lähtien, krooninen munuaisten vajaatoiminta 2 vuoden ajan, jota hoidettiin hemodialyysillä. Hänelle oli 4 vuotta aiemmin tehty oikean lantion raajan suprakondylaarinen amputaatio.
+Fyysinen tutkimus: Fyysisessä tutkimuksessa havaittiin hypokrominen, hypoterminen glans penis, jossa oli noin 1,5 cm:n nekroottinen vaurio ventraalisella puolella, sekä transuretraalinen märkivä vuoto ja kovettumia peniksen varren distaalisessa kolmanneksessa.
+Yhteenveto täydentävistä kokeista: Veren biometria: hemoglobiini 10,1 g/dl, leukosyytit 4 890, verihiutaleet 283 000; verikemia: glukoosi 55 mg/dl, kreatiniini 7,88 mg/dl, BUN 65,5 mg/dl; seerumin elektrolyytit: natrium 145,3 mmol/l, kalium 4,81 mmol/l, kloori 99 mmol/l, kalsium 8,3, mmol/l ja fosfori 9,21 mmol/l. Maksan toimintakokeet: TGO 18, TGP 14 ja alkalinen fosfataasi 64.
+Caverjectin kanssa tehtiin peniksen doppler-ultraäänitutkimus, joka osoitti, että virtaus puuttui kokonaan 100 prosentissa penistä.
+Potilaalle ehdotettiin kirurgista hoitoa, ja hän päätti mennä toiseen laitokseen.
+Lähettäjä: M: Tohtori [#5 Antonio García Morúa]. Sähköposti: [#16 dr.morua@hotmail.com]

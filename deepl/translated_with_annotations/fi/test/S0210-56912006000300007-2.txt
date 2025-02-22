@@ -1,0 +1,16 @@
+Etunimi: [#1 Adrian].
+Sukunimi: [#1 Esposito Lopilato].
+NHC: [#17 15-85622454].
+Osoite: [#11 Avenida Olivos 4109, Panamericana-reitti km 35,5].
+Kaupunki/ maakunta: [#12 Buenos Aires].
+CP: [#12 B1827].
+Terveydenhuollon tiedot.
+Syntymäaika: [#6 15/06/1968].
+Maa: [#13 Argentiina].
+Ikä: [#2 49 vuotta] Sukupuoli: [#3 Mies].
+Maahantulopäivä: [#6 13/11/2017].
+Jakso: [#18 1583097461454].
+Lääkäri: [#5 Raymond Karatanasopuloz Pintos].
+Nykyhistoria: potilas [#2 49 vuotta vanha], sukupuoli [#3 mies]; 4 kuukautta ennen sairaalahoitoon tuloa hänelle tehtiin verisuonileikkaus, jossa hänelle korvattiin aorto-biliac aortan korvaus infrarenaalisen vatsa-aortan aneurysman vuoksi.
+Viikkoa ennen tehohoitoyksikköön ottamista hänellä oli proktorragiajaksoja, joiden määrä kasvoi. Hematodynaamisen dekompensaation jälkeen teho-osastolle ottaminen oli aiheellista. Hän raportoi myös vakavasta periumbilikaalisesta ja hypogastrisesta koliikkikivusta, 13 %:n hematokriitistä ja inkoercibilisestä verenvuodosta, joten vatsaontelon hätäleikkaus oli aiheellinen AFE-epäilyn vuoksi, koska tunteja aiemmin tehdyssä vatsaontelon ultraäänitutkimuksessa todettiin napa-arven yläpuolella lineaarinen kuva, joka sopi yhteen verisuoniproteesin kanssa, ja sen ympärillä oli hypoechogeeninen alue, jonka mitat olivat 87 x 67 x 71 mm. Tutkimuksellinen laparotomia tehtiin, ja siinä paljastui retroperitoneaalinen hematooma aiemman proteesin ympärillä ja FAE, jossa jejunum oli 60 cm:n päässä kiinteästä silmukasta ja sigmasuolessa. Hän sai sydän- ja hengityslaman ja kuoli leikkaussalissa.
+Lähettäjä: M: Tohtori [#5 Raymond Karatanasopuloz Pintos]. Teho-osasto. [#8 José Ramón Vidalin sairaala]. [#11 C/ Necochea, 1050]. [#12 3400] [#12 Corrientes], [#13 Argentiina]. Sähköposti: [#16 rkarata@yahoo.com.ar].

@@ -1,0 +1,21 @@
+Etunimi: [#1 Gabriel].
+Sukunimi: [#1 Navarro Cabrera].
+CIPA: nhc-[#17 272226].
+NASS: [#19 14-63504522-08].
+Osoite: [#11 C/ Sauceda 3. 1A Esquina San Eloy] .
+Kaupunki/ maakunta: [#12 Sevilla].
+CP: [#12 41001].
+NHC: [#17 272226].
+Hoitotiedot.
+Syntymäaika: [#6 28/05/1991].
+Maa: [#13 Espanja].
+Ikä: [#2 26] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 31/10/2017].
+Erikoisala: Urologia.
+Lääkäri: [#5 Rosa María Jiménez Rodríguez] Col Nº: [#20 41 41 98745].
+Vastaanoton syy: Preputiaaliset ihomuutokset.
+Anamneesi: Henkilökohtaiseen anamneesiin kuuluu kuusi vuotta aiemmin diagnosoitu Crohnin tauti, joka on vuosien mittaan kärsinyt vakavista pahenemisvaiheista, jotka ovat vaatineet hoitoa kortikosteroideilla ja immunosuppressanteilla. Yhden näistä pahenemisvaiheista vuoksi tarvittiin leikkaus, jossa tehtiin täydellinen kolektomia ja ileostomia Brooke-tekniikan mukaisesti. Välitön postoperatiivinen kulku oli tyydyttävä. Leikkausta seuraavien kuukausien aikana hänelle kehittyi vaikea granulomatoottinen peräsuolentulehdus, jota hoidettiin deflazacortilla ja mesalatsiinin peräsuolen peräruiskeilla. Potilas on myös hematologian yksikön tutkittavana jatkuvasti pitkittyneen aktivoidun osittaisen tromboplastiiniajan (aPTT) vuoksi.
+Nykyinen anamneesi: Potilas [#2 26-vuotias], joka lähetettiin gastroenterologian poliklinikalta arvioimaan joitakin vaurioita, joita oli ilmaantunut preputiaaliselle iholle puolitoista vuotta aiemmin erytematoottisen, haavaumaisen plakin muodossa. Häntä oli hoidettu paikallisesti kortikosteroideilla, ja diagnoosina oli epäilty pyoderma gangrenosum, mutta hoito ei ollut edennyt tyydyttävästi. Lisäksi potilas ilmoitti kutinasta ja jonkinasteisesta märkimisestä, joten näytteestä otettiin viljelynäyte, jossa todettiin virtsaputken kolonisoivan kasvuston kasvua ilman patologista merkitystä.
+Tutkimus ja täydentävät testit: Päätettiin tehdä ympärileikkaus ja lähettää preputiaalin iho patologian anatomian yksikköön, jossa saatiin seuraava tulos: ei-kaseoiva granulooma, jossa oli haavaumia, tyypillistä metastaattista Crohnin tautia.
+Kehitys: Vaurion poiston jälkeen ei ole havaittu uusiutumista vuoden seurannassa.
+Lähettäjä: Tohtori [#5 Rosa María Jiménez Rodríguez]. Urologian osasto. 5. kerros. [#8 Hospital Universitario Virgen del Rocío]. [#11 Avda. Manuel Siurot S/N]. [#12 E-41013]. [#12 Sevilla] ([#13 Espanja]) Sähköposti: [#16 ros_j_r@hotmail.com]

@@ -1,0 +1,16 @@
+Etunimi: [#1 Rafael].
+Sukunimi: [#1 Perez Muñoz].
+NHC: [#17 4576787].
+NASS: [#19 78 25678945 63].
+Osoite: [#11 Calle Ribadavia 66, 3D].
+Kaupunki/ maakunta: [#12 Madrid].
+CP: [#12 28026].
+Hoitotiedot.
+Syntymäaika: [#6 15/11/1974].
+Maa: [#13 Espanja].
+Ikä: [#2 34 vuotta] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 12.12.2008].
+Osasto: Silmätauti.
+Lääkäri: [#5 Maria José Muniesa Royo] Col Nº: [#20 28 28 28 64972].
+Potilaskertomus: [#3 Mies], iältään [#2 34 vuotta], diagnosoitu Klinefelterin oireyhtymä, joka tuli päivystysosastolle vasemman silmän näöntarkkuuden heikkenemisen vuoksi (OI), joka on jatkunut 2 päivää. Näöntarkkuus oikeassa silmässä (OD) oli 1 ja OI:ssa 0,2. Etupuolisko oli muuttumaton, ja kulma oli avoin IV-luokan 360o, ja siinä oli vain vähän pigmenttiä. Silmänsisäinen paine (IOP) oli ulkoisessa silmässä 34 mmHg ja silmän sisäisessä silmässä 30 mmHg. Sarveiskalvon keskipaksuus oli OD:ssa 516 mikronia ja OI:ssa 520 mikronia. Silmänpohjatutkimuksessa todettiin papillaarisen ekskavoitumisen huomattava lisääntyminen molemmissa silmissä, ja ekskavoitumisen ja vertikaalisen kiekon suhde oli 0,8. OI:n silmässä näkyi soikea painauma, joka vastaa synnynnäistä näköhermon kuoppaa temporaalisektorilla, ja peripapillaarinen atrofia-alue, johon liittyy seroosinen makulan irtauma. Verkkokalvon hermosidekerroksen tutkiminen optisella koherenssitomografialla (OCT) (Stratus OCT [#9 Carl Zeiss Ophthalmic Systems, Inc]) osoitti molemmissa silmissä merkittävää ohenemista, joka oli selvempää ulkoisessa silmässä, joskin on huomattava, että vasemmanpuoleisen näköhermosidekerroksen todellinen paksuus voi olla lisääntynyt makulan irtauman vuoksi. Tietokonekampimetria (Humphrey 24-2) osoitti ylemmän kaarimaisen vian silmän ulkosilmässä ja keskimmäisen vian silmän sisäsilmässä, mikä johtuu makulopatiasta. Fluoresceiiniangiografiassa havaittiin tyypillisesti fovean aluksi hypofluoresenssi. Makulan kattava OCT paljasti verkkokalvon sisempien kerrosten irtoamisen fovean yhteydessä ja makulan neurosensorisen irtauman, jolla ei ollut yhteyttä foveaan. Näemme myös makulan lamellinmuotoisen reiän verkkokalvon ulommissa kerroksissa.
+Lähettäjä: M: Tohtori [#5 Maria José Muniesa Royo] Kirjeenvaihtoosoite: [#16 xusmuniesa@telefonica.net].

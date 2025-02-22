@@ -1,0 +1,21 @@
+Potilastiedot.
+Etunimi: [#1 Ignacio].
+Sukunimi: [#1 Rico Pedroza].
+NHC: [#17 5467980].
+Osoite: [#11 Av. Beniarda, 13].
+Kaupunki/ maakunta: [#12 Valencia].
+CP: [#12 46271].
+Hoitotiedot.
+Syntymäaika: [#6 11/02/1970].
+Maa: [#13 Espanja].
+Ikä: [#2 46 vuotta] Sukupuoli: [#3 mies].
+Sisäänottopäivä: [#6 28/05/2016].
+Lääkäri: [#5 Ignacio Rubio Tortosa] Palvelunumero: [#20 46 28 52938].
+Kliininen raportti potilaasta: Potilas [#2 46-vuotias], joka otti yhteyttä hypogastriumin kivun, kivuliaan siemensyöksyn, hemospermian ja kivesten tasolla olevan painon tunteen vuoksi, joka siihen asti johtui jo vuoden ajan tunnetusta oikeanpuoleisesta varikokeesta. Hänen anamneesiinsa kuului akuutti eturauhastulehdus vuotta ennen konsultaatiota.
+Fyysisessä tutkimuksessa potilaan yleiskunto oli hyvä, hänellä oli oikea varikokeeli, eikä molemmissa kiveksissä ollut tunnusteltavissa massoja. Peräsuolen tutkimuksessa havaittiin epäsäännöllinen eturauhanen, joka oli hieman suurentunut, ja siinä oli kovettumia, ja se oli tutkimuksessa hieman kivulias.
+Pyysimme kattavaa urologista ultraäänitutkimusta, jossa oikeassa kiveksessä todettiin hypoekoottinen kyhmyinen kuva, jota ympäröi hypervaskularisaatio, ja vasemmassa kiveksessä oli yksinkertainen kysta.
+Vatsan ja lantion tietokonetomografiassa maksassa näkyi useita kuvia, jotka saattoivat vastata etäpesäkkeitä tai hemangioomia. Myöhemmin tehty magneettikuvaus vahvisti, että ne olivat hemangioomia. Rintakehän röntgenkuvassa ei havaittu muutoksia.
+Kasvainmerkkiaineet ja PSA-arvot olivat normaalit. Alfa-fetoproteiini: 6 ng/ml, beeta-HCG: 0,1 ng/ml, PSA: 1,5 ng/ml.
+Kaikkien näiden löydösten perusteella päätettiin tehdä radikaali oikeanpuoleinen inguinaalinen orkiektomia. Makroskooppisesti näytteessä näkyi kivespussin värin kanssa identtinen kyhmyinen muodostuma, jonka mitat olivat 2,5 x 1,8 x 1,5 cm kiveksen yläpään alueella. Histopatologinen tutkimus osoitti, että kyseessä oli diffuusi Leydigin solukasvain, joka tunkeutui perineuraalisiin tiloihin, viereisiin kapselin verisuonikanaviin ja sileään lihakseen; kohtalainen atypia ja vähän mitooseja.
+Kymmenen vuoden evoluutiokontrollin jälkeen potilas on oireeton, etäpesäkkeitä ei ole havaittu ja kasvainmerkkiaineet ovat pysyneet negatiivisina.
+Lähettäjä: J: Tohtori [#5 Ignacio Rubio Tortosa] Urologian osasto [#8 Hospital Dr. Peset] [#11 Avda. Gaspar Aguilar, 90] [#12 46017] [#12 Valencia] ([#13 Espanja]) sähköposti: [#16 nachorutor@hotmail.com]

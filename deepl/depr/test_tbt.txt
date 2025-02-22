@@ -1,0 +1,2 @@
+/scratch/project_2009498/SPACCC_MEDDOCAN/corpus/test/brat/S0004-06142006000500002-2.txt
+/scratch/project_2009498/SPACCC_MEDDOCAN/corpus/test/brat/S0210-56912006000300007-2.txt

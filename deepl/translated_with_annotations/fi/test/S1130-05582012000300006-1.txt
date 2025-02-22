@@ -1,0 +1,26 @@
+Potilaan tiedot.
+Etunimi: [#1 David].
+Sukunimi: [#1 Otero Lopez].
+NHC: [#17 4573798].
+NASS: [#19 27 36427905 33].
+Osoite: [#11 Calle Tetuan, 87, 6 D].
+Paikkakunta/ maakunta: [#12 Madrid].
+CP: [#12 28032].
+Hoitotiedot.
+Syntymäaika: [#6 14/07/1988].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 22 vuotta] Sukupuoli: [#3 F].
+Maahantulopäivä: [#6 21/10/2010].
+Lääkäri: [#5 Loreto Canto Contreras] Col Nº: [#20 28 28].
+Potilaan kliininen raportti: Potilaan sukupuoli [#3 mies] iältään [#2 22 vuotta] tuli [#8 Hospital San José -sairaalan] leukakirurgian osastolle hammaslääkärinsä lähetteellä, koska hänen tilavuutensa suhteessa vartaloon ja vasempaan alaleuan ramusiin oli lisääntynyt kivuttomasti ja sen kehitys oli määrittelemätön. Potilaalla ei ollut aiempaa sairaushistoriaa tai kirurgista historiaa.
+Suun ulkopuolella tehdyssä tutkimuksessa todettiin vartaloon ja vasempaan alaleuan ramukseen liittyvä tilavuuden lisääntyminen, jota potilas ei ollut aiemmin havainnut. Iho ei ollut vaurioitunut eikä adenopatiaa esiintynyt. Myöskään aistit eivät olleet heikentyneet, ja alaleuan toiminnallinen tutkimus oli normaali.
+Intraoraalisessa tutkimuksessa potilas oli osittain hampaaton, koska vasemman alahampaan ja poskihampaat puuttuivat, ja tilavuus oli kasvanut, ja samalla puolella oli lommoinen pinta, joka koski vartaloa ja ramusta. Limakalvolla oli valkoisia alueita, se oli kivuton tunnusteltaessa ja kova koostumukseltaan.
+Pyydettiin panoraamaröntgenkuva, jossa näkyi hyvin määritelty, bilokulaarinen, radio-opakki, sekamuotoinen leesio, joka ulottui oikean lateraalisen etuhampaan alaosan juuresta vasemman mandibulaarisen ramuksen keskelle ja jonka halkaisija oli suurimmillaan 12 senttimetriä ja pienimmillään 4 senttimetriä. Leesioon sisältyi vasemman alemman alahampaan, ensimmäisen ja toisen poskihampaan hammasluut. Ramuksen etureuna, alveoliharja ja basilaarireuna olivat laajentuneet.
+Pyydettiin tietokonetomografiaa, jossa todettiin luukorteksin oheneminen, pääasiassa vestibulaarisen kortikaalisen luun oheneminen. Tämän perusteella pyydettiin stereolitografinen malli lopullisen leikkauksen suunnittelua varten.
+Vauriosta otettiin viiltävä biopsia. Hematoksyliini-eosiinilla värjätty histopatologinen tutkimus osoitti, että leesio koostui pääasiassa fibroblastisesta stroomasta, jonka solukkuus vaihteli ja joka sisälsi useita erikokoisia ja epäsäännöllisesti jakautuneita kalkkeutuneita rakenteita. Histopatologinen diagnoosi oli FO.
+Tämän diagnoosin perusteella suunniteltiin lopullista leikkausta. Stereolitografiseen malliin mallinnettiin 2,4 rekonstruktiolevy, joka ulotettiin basilaarisen rajan tasolle oikean ensimmäisen alahampaan alareunasta vasemman alaleuan ramuksen yläosaan.
+Alaleuka paljastettiin kohdunkaulan kautta, ja kyseinen alaleuan osa resekoitiin en bloc ottaen kasvaimen rajat rajoina huomioon. Tämän jälkeen tehtiin alaleuan rekonstruktio mikrovaskularisoidulla fibulan siirteellä, joka sovitettiin rekonstruktiolevyyn ja joka leikattiin kolmeen osaan, jotta sen sovittaminen levyyn olisi helpompaa.
+Potilaan postoperatiiviseen hoitoon kuului antibioottihoito ja tavanomainen kipulääkitys sekä revulsiiviset lääkkeet ja pehmeä ruokavalio. Jälkimmäistä jatkettiin kuukauden ajan.
+Yhden vuoden kuluttua leikkauksen jälkeen potilaalle tehtiin suun kuntoutus, jossa asetettiin luutuneet implantit, joihin tehtiin hybridiproteesi.
+Potilas käy edelleen säännöllisissä kliinisissä ja röntgentutkimuksissa. Tällä hetkellä, viiden vuoden kuluttua, hänen tilansa on erittäin hyvä.
+Kliininen johtaja: tohtori [#5 Loreto Canto Contreras] Sähköposti: [#16 loretocanto@gmail.com].

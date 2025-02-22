@@ -1,0 +1,20 @@
+Etunimi: [#1 Manuel].
+Sukunimi: [#1 Garcia Espinosa].
+NHC: [#17 257567].
+NASS: [#19 07 81545702 87].
+Osoite: [#11 Calle Cronista Juan de la Torre].
+Paikkakunta/ maakunta: [#12 Úbeda], [#12 Jaén].
+CP: [#12 23400].
+Hoitotiedot.
+Syntymäaika: [#6 13/05/1969].
+Maa: [#13 Espanja].
+Ikä: [#2 32 vuotta] Sukupuoli: [#3 F].
+Sisäänottopäivä: [#6 25/05/2001].
+Osasto: Päivystysosasto.
+Lääkäri: [#5 Mariano Urdiales Viedma] Col Nº: 23 28 64841.
+Sisäänoton syy: [#3 Mies], ikä [#2 32 vuotta], tuli sairaalan päivystysosastolle [#6 helmikuu 2000], koska hänellä oli kipua vasemmassa olkapäässä ja lannerangassa.
+Fyysinen tutkimus: Rutiininomainen fyysinen tutkimus ja laboratoriokokeet olivat merkityksettömiä.
+Yhteenveto täydentävistä tutkimuksista: Radiologinen tutkimus osoitti yleisiä luutuneita luumuutoksia. Vatsan ja rintakehän tietokonetomografiassa ei havaittu viskeraalisen tason kasvaimiin viittaavia kuvia. Mahalaukun tähystys, bariumperäruiske, vatsan, kivesten ja eturauhasen ultraäänitutkimus olivat normaalit. Diagnoosin määrittämiseksi otettiin luuydinbiopsia suoliluun harjanteesta. Mikroskooppisesti luuytimessä näkyi, että sen tavanomainen solukko oli osittain korvautunut kasvaimella, joka koostui epiteelipesäkkeistä, jotka sijaitsivat joillakin alueilla kuitumaisessa stroomassa, kun taas toisilla alueilla näitä pesäkkeitä ympäröi tavanomainen luuytimen solukko, ja ne koostuivat monikulmaisista soluista, joilla oli pyöreät tai soikeat tumat ja jotka olivat pehmeän näköisiä ilman näkyviä nukleoleja ja joissa oli hyvin vähän mitooseja. Immunohistokemiallinen tutkimus osoitti negatiivisuutta estrogeenireseptoreille, S-100-proteiinille, HMB45:lle, p53:lle, bc1-2:lle ja synaptofysiinille. Positiivisuus 25 prosentissa ytimistä MIB-1:n suhteen ja 90 prosentissa ytimistä p27:n suhteen sekä diffuusi ja voimakas positiivisuus progesteronireseptoreille, kromograniini A:lle, neuronaaliselle spesifiselle enolaasille, karsinoembryoniselle antigeenille ja alle 50 prosentissa soluista kalsitoniinille, amyloidia ei havaittu Congo Red -värjäyksessä. Näiden tekijöiden perusteella tehtiin diagnoosi, joka sopi medullaarisen kilpirauhaskarsinooman luustometastaasiin. Seerumin kalsitoniinipitoisuus oli 3 500 pg/ml (normaali 15-100) ja CEA 231 ng/ml (normaali 0,01-5), seerumin Ca 125-, Ca 19,9- ja PSA-pitoisuudet olivat normaalit.
+Kehitys ja kommentit: Koska potilaan fyysinen kunto oli huono, hänet lähetettiin [#12 Jaénissa] sijaitsevan viitesairaalamme onkologiselle osastolle, jossa vasemmassa lohkossa todettiin ultraäänellä pieni kiinteä kilpirauhasen kyhmy, jossa oli kalsiumia, jota ei poistettu. Perheen [#4] tutkimisen jälkeen ei löydetty mitään kilpirauhaspatologista sairautta.
+Ensimmäisen linjan kemoterapiaa (CDDP-ADR-VP16) annettiin 6 kuukauden ajan, eikä vastetta saatu. Palliatiivista sädehoitoa annettiin myös selän lannerangan selkärankaan. [6. helmikuuta 2001] alussa aloitettiin toisen linjan kemoterapia (CTX-DTIC), joka keskeytettiin muutamaa päivää myöhemmin potilaan huonon tilan, luustometastaasien etenemisen ja keuhkometastaasien ilmaantumisen vuoksi. Potilas kuoli [#6 21. helmikuuta 2002]. Perhe [#4] ei anna lupaa ruumiinavaukseen.
+Lähettäjä: Tohtori [#5 Mariano Urdiales Viedma]. Unidad de Anatomía Patológica [#8 Hospital San Juan de la Cruz] [#12 E-23400] [#12 Ubeda] ([#12 Jaén]) Sähköposti: [#16 mariano.urdiales.sspa@juntadeandulucia.es]

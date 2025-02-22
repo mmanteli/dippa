@@ -1,0 +1,17 @@
+Potilaan tiedot.
+Etunimi: [#1 Laia].
+Sukunimi: [#1 Martinez Rico].
+NHC: [#17 7086454].
+Osoite: [#11 Calle Sangenjo, 27, 3D].
+Kaupunki/ maakunta: [#12 Madrid].
+CP: [#12 28029].
+Hoitotiedot.
+Syntymäaika: [#6 13/05/2010].
+Maa: [#13 Espanja].
+Ikä: [#2 7 vuotta] Sukupuoli: [#3 M].
+Vastaanottopäivä: [#6 21/11/2017].
+Lääkäri: [#5 Luz Belén Zambrano Centeno] Col Nº: [#20 28 28 65802].
+Anamneesi: [#3 Tyttö], iältään [#2 7 vuotta], jolla ei ole aiempaa sairaushistoriaa ja joka lähetettiin perusterveydenhuollosta, koska hänellä oli oikeassa poskessa jonkin verran kutiava ja kivulias vauriokohtaus, joka ei ollut kohentunut kahden edellisen viikon aikana lähes alusta alkaen määrätyn amoksisilliini-klavulaanihappoa sisältävän suun kautta annettavan hoidon jälkeen.
+Fyysinen tutkimus: Oikealla poskella oli eryteemaattinen ja violetti kyhmy, joka oli kylmä ja pehmeän tuntuinen, hyvin rajattu ja halkaisijaltaan 1,5 cm. Alueellista adenomegaliaa ei ollut havaittavissa, vaikka posken iholla oli lievää keratosis pilarista.
+Kehitys: Koska kliinisesti epäiltiin FAPF:ää ja koska [#4 vanhemmille] oli kerrottu prosessin hyvänlaatuisuudesta, heidän kanssaan sovittiin, että ihobiopsiasta luovutaan ja että suunnitellaan säännöllinen seuranta sekä metronidatsoli-geelihoito öisin. Kaksi viikkoa myöhemmin leesion keskeltä valui spontaanisti veristä ja märkivää ainetta, minkä jälkeen kyhmy vähitellen hävisi noin kuuden viikon kuluessa. Bakteeri-, sieni- ja mykobakteeriviljelyt valuvasta eritteestä olivat negatiivisia. Kyhmymäisen leesion häviämisen jälkeen kyseisellä alueella oli kuitenkin jäljellä telangiektasioita, jotka ovat hitaasti lieventyneet 10 kuukauden seurannan aikana. Kehotamme potilasta käymään kontrollikäynneillä, kunnes prosessi on täysin hävinnyt, ja varoitamme, että lääkärin on otettava yhteyttä, jos silmän ruusufinniin viittaavia oireita tai kliinisiä merkkejä ilmenee (silmän kuivuus tai punoitus, blefariitti, kitalasio, valonarkuus, näöntarkkuuden heikkeneminen).
+Lähettäjä: J: Dra. [#5 Luz Belén Zambrano Centeno]. Sähköposti: [#16 bezamce@yahoo.es].

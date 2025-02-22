@@ -1,0 +1,17 @@
+Potilastiedot.
+Etunimi: [#1 Carlos].
+Sukunimi: [#1 Tarrega Olivas].
+NHC: [#17 3784635].
+NASS: [#19 08 94375685 61].
+Osoite: [#11 Av. Hospitalet, 5, Bajo A].
+Kaupunki/ maakunta: [#12 Barcelona].
+CP: [#12 08001].
+Hoitotiedot.
+Syntymäaika: [#6 13/11/1948].
+Syntymämaa: [#13 Espanja].
+Ikä: [#2 66 vuotta] Sukupuoli: [#3 nainen].
+Vastaanottopäivä: [#6 04/07/2015].
+Lääkäri: [#5 Raul Ferrer Roca] Col Nº: [#20 08 08 08 54882].
+Kliininen raportti potilaasta: [#3 mies], iältään [#2 66 vuotta], jolla oli aiemmin ollut keuhkojen kasvain (ei-pienisoluinen karsinooma vaiheessa iiiB), jota oli hoidettu kemo- ja sädehoidolla, ja joka oli pysynyt taudista vapaana, minkä jälkeen ilmaantui aivojen etäpesäke, joka leikattiin kokonaan ennen holokraniaalisen sädehoidon aloittamista. Hän tuli päivystyspoliklinikalle, koska hänellä oli ollut 10 päivän ajan hengenahdistusta vähäisessä rasituksessa ja jopa 39 °C:n kuumetta. Hän kiisti yskän ja yskän yskän. Epidemiologinen anamneesi ei ollut kiinnostava. Hän aloitti antibioottihoidon avohoidossa ilman paranemista. Saapumisen yhteydessä hänellä oli vaikea hengitysvajaus, joka vaati korkeaa FiO2-arvoa, ja hänet otettiin keskuksemme tehohoitoyksikköön. Hengitysvajaus eteni nopeasti, ja 24 tunnin kuluttua hän tarvitsi orotrakeaalisen intubaation ja mekaanisen ventilaation. Ensimmäisessä rintakehän röntgenkuvassa näkyi alveolaarinen infiltraatti vasemmassa pohjukassa, ja myöhemmissä tarkastuksissa ilmeni molemminpuolisia keuhkoinfiltraatteja. Keuhkovaltimokatetroinnilla suljettiin pois sydämen vajaatoiminta, ja keuhkokapillaaripaine oli alle 18 mmHg, ja siinä ilmeni merkkejä kohtalaisesta keuhkoverenpainetaudista. Laboratoriokokeet osoittivat disseminoitunutta intravaskulaarista hyytymistä (D-dimeeri yli 20 000 ng/ml, trombosytopenia enintään 47 000/l ja protrombiiniaika enintään 1,58 suhdelukua), akuuttia munuaisten vajaatoimintaa, jossa kreatiniinipitoisuus oli enintään 2,33 mg/dl, ja kohonnutta laktaattidehydrogenaasia (LDH), jonka enimmäisarvot olivat 2355U/l. Antibioottihoito aloitettiin empiirisesti piperasilliinitatsobaktaamilla ja atsitromysiinillä, ja myöhemmin lisättiin kortikosteroideja. Koska kehitys oli huono ja hengitysvajaus jatkui vaikeana ja keuhkoinfiltraatit pahenivat, mikä ei liittynyt toisiinsa, tehtiin rintakehän tietokonetomografia, jossa todettiin hyvin laaja molemminpuolinen parenkyymin vaurioituminen maasälvässä, ja radiologinen kuva viittasi diffuusiin alveolivaurioon tai epätyypilliseen infektioprosessiin. Bronchoalveolaarinen huuhtelu tehtiin, ja sen bakteriologinen viljely oli negatiivinen, Ziehl-Nielsenin viljely negatiivinen ja Pneumocystis jirovecii negatiivinen. Atyyppisen keuhkokuumeen (Legionella, Chlamydia jne.) serologista tutkimusta pyydettiin, ja se oli negatiivinen. Kliinisten ominaisuuksien vuoksi ja influenssa A(H1N1)-viruksen pandemiatilanteessa epäiltiin todennäköistä virusinfektiota, otettiin nenä- ja nielunäytteet, ja reaaliaikainen polymeraasiketjureaktio (RT-PCR) oli positiivinen, minkä vuoksi lisättiin oseltamiviirihoito. Potilaan kliininen kehitys oli hyvä ja radiologiset infiltraatit paranivat nopeasti, ja ventilaatiosta vieroittaminen onnistui ilman vaaratilanteita. Potilas kotiutettiin kuukauden sairaalahoidon jälkeen.
+Kukaan potilasta hoitaneista terveydenhuollon ammattilaisista ei saanut influenssaan viittaavia oireita seuraavien päivien aikana.
+Kliinisesti vastuussa: tohtori [#5 Raul Ferrer Roca]. Sähköposti: [#16 rferrer@tauli.cat]

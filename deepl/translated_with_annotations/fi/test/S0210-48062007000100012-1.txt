@@ -1,0 +1,26 @@
+Etunimi: [#1 Luis Miguel] .
+Sukunimi: [#1 Suárez Castro] .
+NASS: [#19 15 50201565 22].
+Osoite: [#11 Avda. de los Empresarios 15, 1F].
+Paikkakunta/ maakunta: [#12 Cádiz].
+CP: [#12 11319].
+NHC: [#17 76194955].
+Hoitotiedot.
+Syntymäaika: [#6 28/05/1992].
+Maa: [#13 Espanja].
+Ikä: [#2 25 vuotta] Sukupuoli: [#3 Mies].
+Sisäänottopäivä: [#6 03/06/2018].
+Erikoisala: Urologia.
+Lääkäri: [#5 Manuel Soto Delgado] Col Nº: [#20 11 11 26484].
+Anamneesi: Ei henkilökohtaista anamneesia.
+Anamneesi: [#3 Mies], ikä [#2 25 vuotta], hakeutui hoitoon molemmissa kiveksissä olevan kasvaimen vuoksi, joka on kehittynyt kaksi viikkoa sitten.
+Fyysinen tutkimus: Kova kasvain, joka peittää yli puolet vasemmasta kiveksestä. Oikean kiveksen koostumus on lisääntynyt, erityisesti sen takaosassa.
+Yhteenveto täydentävistä tutkimuksista: Kivespussin ultraäänitutkimus: kiinteä kasvain, kooltaan 37x21 mm, hypoekaikuinen oikeassa kiveksessä. Vasemmassa kiveksessä kaksi 32x17 mm:n ja 7 mm:n kokoista kiinteää leesiota, joilla on samanlaiset ultraääniominaisuudet kuin oikeassa kiveksessä. Kaikki sopivat kahdenväliseen monikeskuksiseen kivesten kasvaimeen. Vasen varikoele.
+Kasvainmerkit: AFP: normaali; ß-HCG: 6,15 mIU/ml (normaaliarvo: < 2,5 mIU/ml); LDH: normaali.
+Laajennustutkimus (thoracoabdomino-lantion TT): adenopaattisia kasvaimia retroperitoneaalisella tasolla (N2) ja maksan metastaattisia leesioita (M1).
+Kirurginen hoito: molemminpuolinen radikaali orkiektomia nivusreitin kautta. Potilas hylkäsi mahdollisuuden proteesin asettamiseen.
+Päädiagnoosi: seminooma, jolla on korkea mitoosi-indeksi ja vaskulaarinen invaasio (pT2) molemmissa kiveksissä (anaplastinen seminooma).
+Hoito: systeeminen solunsalpaajahoito etoposidilla ja sisplatiinilla (4 sykliä).
+Kehitys: Tällä hetkellä ja 24 kuukauden seurannan jälkeen kasvainmerkkiaineet ovat negatiivisia, retroperitoneaalisia adenopatioita ja maksametastaaseja ei esiinny (täydellinen remissio).
+Potilas kieltäytyi mahdollisuudesta pakastaa siemenneste ennen radikaalileikkausta.
+Lähettäjä: J: Tohtori [#5 Manuel Soto Delgado]. Urologian osasto. [#8 Hospital Puerto Real]. [#11 Ctra. Nacional IV, Km 665]. [#12 11510] [#12 Puerto Real] - [#12 Cádiz]. Puh.: [#14 956 005 000] Sähköposti: [#16 manuelsotocorreo@yahoo.es]

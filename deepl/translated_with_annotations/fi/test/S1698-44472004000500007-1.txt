@@ -1,0 +1,19 @@
+Potilaan tiedot.
+Etunimi: [#1 Patricia].
+Sukunimi: [#1 Huerta Betanco].
+NHC: [#17 7832694].
+NASS: [#19 48 97342560 23].
+Osoite: [#11 Calle Marquez de Viana, 65, 4, A].
+Paikkakunta/ maakunta: [#12 Valladolid].
+CP: [#12 47851].
+Hoitotiedot.
+Syntymäaika: [#6 19/12/1979].
+Maa: [#13 Espanja].
+Ikä: [#2 38 vuotta] Sukupuoli: [#3 mies].
+Sisäänottopäivä: [#6 25/05/2018].
+Lääkäri: [#5 Fabian del Campo Matías] Col Nº: [#20 47 47 90330].
+Potilaan kliininen raportti: [#3 nainen], ikä [#2 38 vuotta] pyysi hammashoitoa hampaan nro 37 (vasen alaleuan toinen poskihammas) reikiintymisen hoitamiseksi. Tuolloin hänellä ei ollut mitään merkittävää lääketieteellistä tai hammaslääketieteellistä historiaa, hän ei käyttänyt mitään lääkkeitä eikä hänellä ollut suussaan muita paikkauksia. Intraoraalisen tutkimuksen ja kyseisen hampaan periapikaalisen röntgenkuvan analysoinnin jälkeen karieksen vaurioittama kudos poistettiin ja tehtiin musta I-luokan kaviteettipreparaatti, joka täytettiin hopeaamalgaamilla. Leikkauksen jälkeisiä ongelmia ei ilmennyt.
+19 kuukauden kuluttua potilas palasi hammaslääkärin vastaanotolle, koska hän epäili kariesta muissa hampaissa. Intraoraalisessa tutkimuksessa paljastui atrofinen, hieman eryteemaattinen alue vasemman kaulan limakalvolla, nimenomaan limakalvon alueella, joka oli kosketuksissa hopeaamalgaamilla restauroituun molaariin. Oikean juraalin limakalvo oli normaalin näköinen. Kun potilaalta kysyttiin vauriosta, hän kertoi, ettei hän ollut huomannut sitä, vaikka hän oli viime aikoina joskus tuntenut outoa tunnetta kyseisellä alueella syödessään mausteista ruokaa. Hän kertoi myös, ettei hän ollut saanut minkäänlaista hoitoa edellisen käynnin jälkeen, jolloin amalgaamirestauraatio oli tehty. Kun häneltä kysyttiin mahdollisista allergioista, hänellä ei ollut aiemmin ollut allergisia reaktioita. Vaurion huolellinen tutkiminen osoittaa, että se ulottuu hopeaamalgaamirestauraation päälle ja joutuu sen kanssa läheiseen kosketukseen tietyissä suun liikkeissä, minkä vuoksi limakalvot oli erotettava toisistaan peilillä, jotta vaurio voitaisiin nähdä kunnolla.
+Vaurion luonteen varmistamiseksi histologisesti leesiosta otetaan koepala. Vaurion biopsian patologinen tutkimus osoitti levyepiteeliä, jossa oli epäsäännöllistä akantoosia ja parakeratoosipesäkkeitä, sekä merkittävää spongioosia ja lymfosyyttisten elementtien eksosytoosia sarveiskerroksessa. Sen alla olevassa stroomassa näkyi kroonista lymfosyyttien kaltaista tulehdusinfiltraattia, joka oli levinnyt hienojakoisesti kaistaleina ja johon oli osallistunut myös stratum basale. Syvemmällä havaittiin fibrokonstruktiivista ja rasvakudosta sekä joitakin ohutseinäisiä verisuonirakenteita ilman merkittäviä muutoksia. Anatomopatologinen diagnoosi sopi yhteen suun lichen planusin kanssa, sillä limakalvolla havaittu histologinen kuva vastasi iholla akuuttia ja subakuuttia ihottumaa.
+Kun potilaalle oli selitetty leesion luonne ja mahdollisuus sen häviämiseen hopeaamalgaamirestauraation poistamisen avulla, hän päätti olla vaihtamatta restauraatiota, koska hän ei kokenut, että hänellä oli merkittäviä epämukavuutta, eikä hän halunnut tehdä hoitoa uudelleen. Muiden hampaiden restauraatiot tehtiin komposiittihartsilla, eikä limakalvotasolla ilmennyt reaktioita.
+Lähettäjä: tohtori [#5 Fabian del Campo Matías]. [#11 Av. Padre Francisco Suárez, 8-5º dcha]. [#12 47006] [#12 Valladolid].

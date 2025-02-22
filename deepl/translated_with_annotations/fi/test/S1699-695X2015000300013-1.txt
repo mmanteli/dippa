@@ -1,0 +1,20 @@
+Potilastiedot.
+Etunimi: [#1 Emilio].
+Sukunimi: [#1 Salgado Ulloa].
+NHC: [#17 8947356].
+NASS: [#19 78 03465063 30].
+Osoite: [#11 C/ Maspalomas, 13].
+Kaupunki/ maakunta: [#12 Getafe].
+CP: [#12 28905].
+Hoitotiedot.
+Syntymäaika: [#6 11/02/1972].
+Maa: [#13 Espanja].
+Ikä: [#2 46 vuotta] Sukupuoli: [#3 F].
+Saapumispäivä: [#6 21/05/2018].
+Jakso: [#18 7802456].
+Lääkäri: [#5 Sara Gómez Rodríguez] Col Nº: [#20 28 28 98320].
+Anamneesi: potilas [#3 mies], iältään [#2 46 vuotta], jolla ei ole aiempaa sairaushistoriaa ja joka tuli konsultaatioon alaraajojen äkillisen voimanmenetyksen vuoksi. Tämä tila on toistuva ja episodimainen, ja se on itsestään ohimenevä muutamassa tunnissa. Se vaikuttaa yleensä alaraajoihin, vaikka se voi yleistyä. Hän viittaa aiempiin jaksoihin, jotka ovat yleistyneet ja voimistuneet viimeisen vuoden aikana. Suunnatun kuulustelun aikana hän kertoi laihtuneensa 20 kiloa viimeisten neljän kuukauden aikana, eikä syöminen ole vähentynyt, ja hänellä on ajoittaista vapinaa, ärtyneisyyttä ja hermostuneisuutta.
+Fyysinen tutkimus: Fyysisessä tutkimuksessa ei havaittu raajojen voiman heikkenemistä tai muutoksia osteotendinoomisissa reflekseissä. Hänellä oli vakaa, ei-patologinen kävely, eikä hänellä ollut dysmetriaa. Potilaan mukaan hän kertoi lihasvoiman asteittaisesta palautumisesta muutama minuutti sitten. Hieno distaalinen vapina todettiin ilman eksoftalmiaa. Syke oli 120 lyöntiä minuutissa, ja kilpirauhanen oli suurentunut tunnusteltaessa, mutta siinä ei ollut palpoitavia kyhmyjä.
+Täydentävät tutkimukset: Hätäverikokeessa todettiin: (normaali 0,60-1,35), natrium 142 mEq/l (135-145), kalium 2,07 mEq/l (3,5-5), magnesium 1,64 mg/dl (1,7-2,5), kalsium 8,01 mg/dl (8,50-10,50), ionikalsium 3,95 mg/dl (4,1-5,3), kokonaisproteiini 6,47 mg/dl (6,00-8,50). Hypokalemian kanssa samanaikainen voiman menetys johti meidät diagnosoimaan jaksottaisen halvauksen. Koska kilpirauhaspatologialle oli tyypillinen semiologia, pyydettiin hormonaalista tutkimusta, jossa todettiin autoimmuuniperäistä primaarista kilpirauhasen liikatoimintaa, jonka parametrit olivat seuraavat: T4L 4,07 ng/dl (0,9-1,7), TSH < 0,008 mcgU/l (0,4-4,8), T3L 15,58 pg/ml (2,3-4,2), antityyroglobuliinivasta-aineet 62,7 IU/ml (0-60), antiperoksidaasivasta-aineet 1269 IU/ml (0-60), TSI 5,7 IU/l (0-1,75). D-vitamiini ja PTH olivat normaalit (28 ng/ml [20-55] ja 26 pg/ml [11-80]). Ensimmäinen täydentävä testi, joka olisi pyydettävä kilpirauhasen liikatoiminnan yhteydessä, on kilpirauhasen tähystys, joka meidän tapauksessamme osoitti diffuusia kilpirauhasen liikatoimintaa. Kaikki nämä tiedot viittasivat Gravesin tautiin oireiden syynä. Akuuttivaiheessa hoito aloitettiin 40 mEq:n suonensisäisellä kaliumannoksella, jonka avulla saavutettiin lukujen normalisoituminen (4,1 mEq/L), sekä 10 mg:n propranololilla ja 30 mg:n metimatsolilla päivittäin kotona annostusta vähitellen pienentäen.
+Kehitys: Tällä hetkellä hän jatkaa hoitoa 5 mg:lla metimatsolia päivittäin, jolloin oireet ovat osittain lievittyneet ja kilpirauhasen toiminta on normaali, eikä hänellä ole ilmennyt uusia halvauskohtauksia.
+Lähettäjä: [#5 Sara Gómez Rodríguez]. [#8 Hospital Universitario de Getafe]. [#11 Ctra. de Toledo, Km. 12,500]. C.P. [#12 28905]. [#12 Getafe] ([#12 Madrid]) [#13 Espanja]. Sähköposti: [#16 patsara8@hotmail.com].
