@@ -1,0 +1,18 @@
+First name: [#1 Laura].
+Surname: [#1 Pérez Godín].
+NHC: [#17 43561584].
+Address: [#11 Av. Valdes, 51].
+City/ Province: [#12 León].
+CP: [#12 24400].
+Care data.
+Date of birth: [#6 17/05/2005].
+Country: [#13 Spain].
+Age: [#2 13 years] Sex: [#3 M].
+Date of admission: [#6 12/05/2018].
+Department: Paediatrics.
+Doctor: [#5 María Teresa González Martínez] Col Nº: [#20 24 24 58745].
+Present history: Patient aged [#2 thirteen years], presenting with fever for 12 days accompanied by left axillary lymphadenopathy.
+Physical examination: Initial examination was negative except for scratches on the left hand.
+Complementary tests: Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.
+Evolution and comments: Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, serology for Bartonella henselae was performed and treatment with rifampicin was started, and the fever disappeared 3 days after starting treatment. Subsequently, the diagnosis was confirmed when serology was positive for Bartonella henselae.
+Referred by: Dr. [#5 María Teresa González Martínez] Paediatrics Department. [#8 Hospital del Bierzo] [#11 C/ La Dehesa s/n]. [#12 24411] [#12 Ponferrada] [#12 León] e-mail: [#16 teglez@inicia.es]

@@ -1,0 +1,23 @@
+Patient details.
+First name: [#1 Elvira].
+Surname: [#1 Lopez Ramos].
+NHC: [#17 2547916].
+Address: [#11 Calle Pedro Gonu, 28, Bajo A].
+City/ Province: [#12 Madrid].
+CP: [#12 28009].
+Care data.
+Date of birth: [#6 06/01/2016].
+Country: [#13 Spain].
+Age: [#2 5 Months] Sex: [#3 Female].
+Date of Admission: [#6 10/06/2016].
+Doctor: [#5 Alberto Palacios Hernández] Col Nº: [#20 28 28 09867].
+Patient's clinical report: [#17 Infant], Caucasian race, aged [#2 5 months], the [#4 first child] of [#4 young parents] ([#4 mother] aged [#4 28 years] and [#4 father] aged [#4 30 years]) healthy and not consanguineous, with no history of hereditary-familial pathology, renal or known hypertension. Gestation correctly monitored and without alterations. Euthocic birth at 37 weeks without complications, presenting an Apgar test of 9/10. Anthropometry at birth, weight 2,760 grams, with a cephalo-caudal diameter of 48.5 cm and head circumference of 34.7 cm. VDRL, AntHBs, HIV negative, non-immune Toxoplasmosis and immune rubella. Bilateral auricular appendages, low implantation of the pinna, cutaneous granulomas, micrognathism with mandibular hypoplasia, coloboma located in the left eye and solid scrotal tumefaction apparently not painful on palpation. Vaccination schedule up to date.
+Infant [#17] is transferred from another hospital at [#2 19 days] of age with a diagnosis of urosepsis. Initially admitted to the Neonatal Intensive Care Unit to stabilise the condition, using support measures and antibiotic therapy with ampicillin, gentamicin and cefotaxime.
+Reno-pelvic-scrotal ultrasound revealed bilateral uretero-hydronephrosis and thick-walled bladder, right scrotal swelling, with apparent hypo- and hyperechogenic images with septa and apparent testicular destruction.
+Once the parameters were stabilised and with negative uroculture, we performed a serial voiding cystourethrography showing dilatation of the posterior urethra, trabeculated bladder and no presence of vesico-ureteral reflux, suspecting posterior urethral valve disease.
+Whole body bone radiographs did not detect bone alterations or vertebral alterations.
+We performed fulguration of the posterior urethral valves and right inguinal orchidectomy. The postoperative period passed without complications. The catheter was removed on the seventh postoperative day. He was discharged with normal renal function, negative uroculture and correct diuresis.
+At [#2 fourth month] of life he was hospitalised with a diagnosis of respiratory infection in the context of bronchiolitis, with positive urocultures for polymicrobial flora, he was medicated with antibiotherapy and discharged with antibiotic prophylaxis with trimethoprim-sufamethoxazole.
+In the fifth month with aseptic urine, we performed intravenous urography and renal cintilogram with MAG-3 and furosemide test, showing bilateral ureteral dilatation, right renal bifidity, with normal bladder capacity and complete emptying of the bladder, urethra apparently without alterations, bilateral renal function is preserved, responding to the furosemide test. We reached the diagnosis of bilateral non-obstructive ureteral dilatations associated with pyelic bifidity. We decided to carry out check-ups every 6 months.
+At the last check-up, the child aged [#2 15 months] showed normal renal function, good diuresis and urinary sediments without alterations.
+Referred by: [#5 Alberto Palacios Hernández] [#21 5th year resident] of Urology. [#8 Hospital Universitario La Paz].

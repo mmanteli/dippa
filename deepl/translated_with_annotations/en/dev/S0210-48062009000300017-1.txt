@@ -1,0 +1,27 @@
+First name: [#1 Carlos].
+Surname: [#1 Miguel Chamoy].
+CIPA: nhc-[#17 78912364].
+NASS: [#19 12 36715468 65].
+Address: [#11 Av. Cantabria, 11, 1G] .
+City/ Province: [#12 Burgos].
+CP: [#12 09006].
+NHC: [#17 78912364].
+Care data.
+Date of birth: [#6 27/03/1960].
+Country: [#13 Spain].
+Age: [#2 57 years] Sex: [#3 F].
+Date of Admission: [#6 08/05/2017].
+Speciality: UROLOGY.
+Doctor: [#5 Miguel Ángel López Aramburu] Col Nº: [#20 09 09 64234].
+Reason for admission:.
+Background: Personal history: Venous insufficiency with trophic alterations in the lower limbs. He has been a smoker of 40 cigarettes a day for many years and three months ago he was diagnosed in the urology department with benign prostatic hyperplasia requiring medical treatment.
+Current History: Patient [#2 57 years old] was referred to the emergency department of our hospital by his general practitioner for a week of pain in the glans penis, with progressive appearance of a reddened lesion affecting the distal portion, covered with fibrin, necrotic appearance, with a large exudative component and suggestive of a thrombotic process.
+During the diagnostic evaluation of the BPH, the patient underwent a CT scan, determination of PSA, ultrasound scans, etc., but these studies did not reveal any abnormalities worthy of mention.
+Physical examination: On current examination, the anterior two thirds of the glans were found to be swollen, hardened, with a necrotic appearance and abundant exudate and fibrin covering the area.
+Summary of complementary tests: Given the normal urological studies and the total lack of information about the morbid process, a minimal biopsy of the lesion was taken. We were informed of necrosis phenomena, dense acute and chronic inflammatory infiltrate and thrombosis of the dermis. In this situation of ignorance of the morbid process, but in the face of a necrotic process that did not improve with the symptomatic treatments established, partial amputation of the penis was indicated. The glans penis was removed along with a small portion of the corpora cavernosa. The pathological anatomy service informed us of the presence of a tumour thrombosis of the corpora cavernosa compatible with metastasis from an epidermoid carcinoma.
+In view of this unusual situation, we proceeded to locate the primitive tumour and study its extension.
+The abdominal CT scan revealed small subcentimetric para-aortic, interaorto-caval and mesenteric root subcentimetric adenopathies in the retroperitoneum. The rest was within normal limits.
+Complementary studies were continued in search of the primitive neoplasm.
+Evolution and comments: an assessment was requested by the Traumatology Department of a sudden onset of severe pain in the shoulder. The referred pain is explained by the existence of a pathological fracture at the level of the upper third of the right humerus due to a radiological lesion typical of bone metastasis. The bone scan corroborates the diagnosis of bone metastasis at the level of the proximal third of the humerus, with no other distant pathological deposits. Further studies are carried out and the evaluation by the Otorhinolaryngology Department is absolutely normal. The Digestive Service came into play and performed an endoscopic study and discovered a mameloned and ulcerated mass of 3 centimetres in diameter at the level of the cardia, which corresponded to gastric infiltration by a moderately differentiated squamous cell carcinoma of the oesophagus.
+Polychemotherapy treatment was started but the patient's condition progressively worsened and he died a few months later.
+Referred by: Dr. [#5 Miguel Ángel López Aramburu] Urology Department. [#8 Hospital Santiago Apóstol] [#11 Ctra. de Orón, s/n] - [#12 09200] [#12 Miranda de Ebro]. [#12 Burgos] Tel.: [#14 947 349 000] E-mail: [#16 malaramburu@yahoo.es]

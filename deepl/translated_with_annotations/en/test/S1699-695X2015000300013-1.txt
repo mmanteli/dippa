@@ -1,0 +1,20 @@
+Patient data.
+First name: [#1 Emilio].
+Surname: [#1 Salgado Ulloa].
+NHC: [#17 8947356].
+NASS: [#19 78 03465063 30].
+Address: [#11 C/ Maspalomas, 13].
+City/ Province: [#12 Getafe].
+CP: [#12 28905].
+Care data.
+Date of birth: [#6 11/02/1972].
+Country: [#13 Spain].
+Age: [#2 46 years] Sex: [#3 F].
+Date of entry: [#6 21/05/2018].
+Episode: [#18 7802456].
+Doctor: [#5 Sara Gómez Rodríguez] Col Nº: [#20 28 28 98320].
+Present history: patient [#3 male] aged [#2 46 years] with no past history of interest, who came for consultation due to sudden loss of strength in the lower limbs. This condition is recurrent and episodic, self-limiting within a few hours. It generally affects the lower limbs, although it can be generalised. She refers to previous episodes that have increased in frequency and intensity over the last year. During the directed interrogation, she reported a weight loss of 20 kilos in the last four months, with no decrease in intake, occasional trembling, irritability and nervousness.
+Physical examination: In the physical examination, no decrease in strength in the limbs or alterations in the osteotendinous reflexes were detected. He had a stable, non-pathological gait, with no dysmetria. According to the patient, he reported a progressive recovery of muscle strength a few minutes ago. A fine distal tremor was found, without exophthalmos. The heart rate was 120 beats per minute, with an enlarged thyroid on palpation, with no palpable nodules.
+Complementary tests: An emergency blood test was carried out which showed: creatinine 0.59 mg/dl (normal 0.60-1.35), sodium 142 mEq/L (135-145), potassium 2.07 mEq/l (3.5-5), magnesium 1.64 mg/dl (1.7-2.5), calcium 8.01 mg/dl (8.50-10.50), ionic calcium 3.95 mg/dl (4.1-5.3), total protein 6.47 mg/dl (6.00-8.50). A loss of strength coinciding with hypokalaemia led us to diagnose periodic paralysis. Given the presence of characteristic semiology of thyroid pathology, a hormonal study was requested, finding primary hyperthyroidism of autoimmune origin with the following parameters: T4L 4.07 ng/dl (0.9-1.7), TSH < 0.008 mcgU/l (0.4-4.8), T3L 15.58 pg/ml (2.3-4.2), antithyroglobulin antibodies 62.7 IU/ml (0-60), antiperoxidase antibodies 1269 IU/ml (0-60), TSI 5.7 IU/l (0-1.75). Vitamin D and PTH were normal (28 ng/mL [20-55] and 26 pg/mL [11-80], respectively). The first complementary test that should be requested in the presence of hyperthyroidism is a thyroid scan, which in our case showed diffuse hyperthyroidism. All these data suggested Graves' disease as the cause of the symptoms. In the acute phase, treatment was started with 40 mEq of intravenous potassium, achieving normalisation of the figures (4.1 mEq/L), and propranolol 10 mg and methimazole 30 mg daily at home, with a progressive decrease in dose.
+Evolution: At the present time he maintains treatment with methimazole 5 mg daily with partial remission of symptoms and normal thyroid function, without having presented new episodes of paralysis.
+Referred by: [#5 Sara Gómez Rodríguez]. [#8 Hospital Universitario de Getafe]. [#11 Ctra. de Toledo, Km. 12,500]. C.P. [#12 28905]. [#12 Getafe] ([#12 Madrid]) [#13 Spain]. E-mail: [#16 patsara8@hotmail.com].

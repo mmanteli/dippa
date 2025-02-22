@@ -1,0 +1,18 @@
+Patient details.
+First name: [#1 Rocio].
+Surname: [#1 Duque Herrera].
+NHC: [#17 5647049].
+NASS: [#19 85 67945679 30].
+Address: [#11 C/ Altos de Nava, 34, 9, A].
+City/ Province: [#12 Cartagena], [#12 Murcia].
+CP: [#12 30202].
+Care data.
+Date of birth: [#6 10/11/1987].
+Country of birth: [#13 Spain].
+Age: [#2 25 years] Sex: [#3 M].
+Date of admission: [#6 20/01/2013].
+Department: Nephrology.
+Episode: [#18 8567589].
+Doctor: [#5 Gracia Álvarez Fernández] Col Nº: [#20 30 30 57256].
+Clinical report of the patient: [#3 Female] aged [#2 25 years], with no past history of interest, who was studied for a history of abdominal pain predominantly in the right hypochondrium. Physical examination and laboratory tests, including a liver profile, were normal. An abdominal ultrasound was performed, which revealed an 8-centimetre, multiloculated, hypoechoic cystic hepatic lesion with hyperechoic areas and calcium, located in hepatic segments 4-5 and with papillary projections towards the hepatic hilum. Given the impossibility of ruling out malignancy, surgical treatment was recommended. The patient underwent surgery and a cystic lesion of about 10 centimetres in diameter was found on the hepatic hilum, in segments 4 and 5, on the portal bifurcation and the middle hepatic vein. A cystopericystectomy with vascular control was performed without exclusion. The postoperative course was favourable and the patient was discharged after one week. The definitive histological diagnosis showed a ciliated liver cyst.
+Clinically responsible: Dr. [#5 Gracia Álvarez Fernández] Nephrology Department [#8 Hospital General Universitario Santa Lucía] [#11 Mezquita, Paraje Los Arcos] [#12 30202], [#12 Cartagena], [#12 Murcia] E-mail: [#16 alvarez.gracia@gmail.com]

@@ -1,0 +1,20 @@
+First name: [#1 German].
+Surname: [#1 Romero Martin].
+NHC: [#17 45764].
+NASS: [#19 45 78960504 77].
+Address: [#11 Calle de la Mata, 23].
+Locality/ Province: [#12 Cdad. Real].
+CP: [#12 13004].
+Care data.
+Date of birth: [#6 08/09/1980].
+Country: [#13 Spain].
+Age: [#2 37 years] Sex: [#3 F].
+Date of admission: [#6 26/11/2017].
+Department: Ophthalmology.
+Doctor: [#5 Carmen Ispa Callén] Col Nº: [#20 13 13 94179].
+Patient history: [#3 Male] aged [#2 37 years] hypermetropic who, on routine examination, was found to have an intraocular pressure (IOP) of 34 mmHg in the right eye (OD) and 32 mmHg in the left eye (OI). Gonioscopy showed signs of angular closure in both eyes leading to bilateral Nd:YAG laser iridotomies. At two weeks signs of angular closure continued despite the iridotomies being patent and the IOP was 33 mmHg (OD) and 36 mmHg (OI). Ultrasonic biomicroscopy (UBB) was performed and detected an iris-plateau configuration with angular closure secondary to multiple iridociliary cysts. The cysts had thin hyperreflective walls with hyporeflective fluid content, suggesting the diagnosis of primary neuroepithelial cysts.
+It was decided to treat the RO by argon laser iridoplasty (impact size 500 µm, 0.5 seconds exposure and 500 mW power). The same approach was offered for the OD, but the patient preferred conservative treatment with hypotensive medication (timolol 0.5% every 12 hours) until the response to laser treatment could be seen.
+After iridoplasty, BMU was repeated, showing a change in the configuration of the iris root from convex to concave, as well as the disappearance of the cysts. The IOP was reduced to 17 mmHg without treatment.
+At one month IOP remained at 18 mmHg in the OI without medication and 14 mmHg in the OD with Timolol. In the BMU, the cysts reappeared in the laser-treated eye, without producing a secondary angular block. This situation persisted for 6 months, after which the iris plateau configuration of the OI reappeared and the IOP rose to 28 mmHg. At this point, it was decided to treat this eye with hypotensive medication like the right eye, as it maintained an adequate intraocular pressure (14 mmHg). The patient declined any other non-medical treatment, as he tolerated the medication very well and adequate blood pressure control was achieved.
+Currently, after 12 months of follow-up, the patient shows an IOP of 14 mmHg in both eyes with Timolol 0.5% every 12 hours. The BMU still shows multiple neuroepithelial cysts in both eyes, with no increase in size or number, and the patient has no clinical signs of angular closure.
+Referred by: Dr. [#5 Carmen Ispa Callén]. [#8 Complejo Hospitalario La Mancha-Centro] [#11 Avenida de la Constitución] [#12 13600] [#12 Alcázar de San Juan] ([#12 Ciudad Real]) [#13 Spain] E-mail: [#16 flarmed@hotmail.com]

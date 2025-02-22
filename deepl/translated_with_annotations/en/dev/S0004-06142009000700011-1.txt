@@ -1,0 +1,22 @@
+First name: [#1 Clemente].
+Surname: [#1 Massotti Fernandez].
+CIPA: nhc-[#17 786159].
+NASS: [#19 23 79134652 89].
+Address: [#11 Avenida de la Marina nº2A].
+City/ Province: [#12 A Coruña].
+CP: [#12 15001].
+NHC: [#17 786159].
+Care data.
+Date of birth: [#6 23-February-1931].
+Country: [#13 Spain].
+Age: [#2 85] Sex: [#3 M].
+Date of admission: [#6 27-October-2016].
+Specialty: Urology.
+Doctor: [#5 Luis Busto Castañón] Col Nº: [#20 01 15 13642].
+Present History: [#3 male] aged [#2 85 years], with a history of prostate adenocarcinoma treated with LHRH analogues, maintaining adequate biochemical control of the disease, and who consults for a picture of 2 months of evolution consisting of enlargement of the left hemiscrotal, in the absence of pain, fever or other symptoms.
+Physical examination: Physical examination revealed a larger than normal left hemiscrotal, under tension, with a mass that prevented identification of the left testicle.
+Summary of complementary tests: Blood tests were requested, confirming beta-HCG and alpha-fetoprotein within the reference ranges, and scrotal ultrasound, reported as: "large cystic mass at the level of the left scrotum, measuring 10x8.3 cm, compressing and displacing the testicle, compatible with a large cyst dependent on the epididymis, although other possibilities, such as cystadenoma, cannot be ruled out". Based on the clinical data, and assessing the differential diagnoses and the patient's situation, he was offered a bilateral orchiectomy, the right subalbuginea and the left inguinal, which he accepted.
+The surgical specimen weighed 550 g, measured 11x11x9 cm and had a brownish-hemorrhagic colouring; on cutting, a cystic cavity compressing the testicular parenchyma was evident.
+Evolution and comments: Microscopic pathological study, included sections of the cyst wall and the rest of the teste and revealed a cystic lesion lined with flat epithelium, with areas of ulceration, haemorrhage and necrotic tissue; the testicular parenchyma had intense signs of atrophy, fibrosis and vascular congestion, with an almost total absence of germ cells in the seminiferous tubules.
+Diagnosis: The anatomopathological diagnosis was: benign testicular cyst compatible with cystic dilatation of the rete testis.
+Referred by: Dr: [#5 Luis Busto Castañón]. [#8 Hospital San Rafael La Coruña]. Email: [#16 lbman@urologiabusto.com] Telephone: [#14 981 221 822].

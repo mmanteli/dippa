@@ -1,0 +1,17 @@
+Patient details.
+First name: [#1 Laia].
+Surname: [#1 Martinez Rico].
+NHC: [#17 7086454].
+Address: [#11 Calle Sangenjo, 27, 3D].
+City/ Province: [#12 Madrid].
+CP: [#12 28029].
+Care data.
+Date of birth: [#6 13/05/2010].
+Country: [#13 Spain].
+Age: [#2 7 years] Sex: [#3 M].
+Date of admission: [#6 21/11/2017].
+Doctor: [#5 Luz Belén Zambrano Centeno] Col Nº: [#20 28 28 65802].
+Present history: [#3 Girl] aged [#2 7 years] with no past history of interest, referred from her primary care centre for presenting a lesion on the right cheek, somewhat pruritic and painful, which had not improved after oral treatment with amoxicillin/clavulanic acid, prescribed almost from the beginning during the previous two weeks.
+Physical examination: On examination there was an erythematous-violaceous nodule on the right cheek, cold and soft to the touch, well demarcated, 1.5 cm in diameter. No regional adenomegaly was palpable, although there was a slight keratosis pilaris on the skin of the cheeks.
+Evolution: Given the clinical suspicion of FAPF, and having informed the [#4 parents] of the benignity of the process, it was agreed with them not to perform a skin biopsy and to schedule regular follow-up, together with therapy with metronidazole gel at night. Two weeks later there was spontaneous drainage of a bloody-purulent material from the centre of the lesion, with subsequent progressive resolution of the nodule over the course of about 6 weeks. Cultures for bacteria, fungi and mycobacteria from the draining exudate were negative. However, after resolution of the nodular lesion, residual telangiectasias persisted in the affected area, which have slowly attenuated over 10 months of follow-up. We advise the patient to undergo check-ups until complete resolution of the process and warn of the need to consult the doctor if symptoms or clinical signs suggestive of ocular rosacea appear (dryness or redness of the eye, blepharitis, chalazion, photophobia, loss of visual acuity).
+Referred by: Dra. [#5 Luz Belén Zambrano Centeno]. E-mail: [#16 bezamce@yahoo.es].

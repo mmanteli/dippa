@@ -1,0 +1,16 @@
+Patient details.
+First name: [#1 Sebastian].
+Surname: [#1 Perez Garcia].
+NHC: [#17 8264597].
+NASS: [#19 27 67805270 54].
+Address: [#11 Calle Rivera, 23, 1 C].
+Locality/ Province: [#12 Madrid].
+CP: [#12 28004].
+Care data.
+Date of birth: [#6 06/12/1957].
+Country of birth: [#13 Spain].
+Age: [#2 53 years] Sex: [#3 F].
+Date of admission: [#6 15/07/2011].
+Doctor: [#5 Angel García Escudero] Col Nº: [#20 28 28 61394].
+Patient's clinical report: Patient [#3 male] aged [#2 53 years], diagnosed with ankylopoietic spondylitis (HLA B27), secondary amyloidosis and end-stage chronic renal failure on replacement therapy with haemodialysis. He presented with painless haematuria and cystoscopy revealed a bladder mass, excrescent but not papillary and bleeding. Transurethral resection (TUR) was performed and the histological diagnosis was bladder amyloidosis. The patient evolved satisfactorily and after 11 months was readmitted with intense, epigastric and fixed abdominal pain, to which was added after two hours a sudden, abundant and haematic vomiting, which was complicated by cardiorespiratory arrest, leading to exitus ([#6 11/04/1995]). Post-mortem anatomopathological diagnosis revealed ischaemic necrosis of the digestive tract in the territory irrigated by the superior mesenteric artery, amyloid deposits in the submucosal vessels. Organ and system involvement was widespread, including bilateral renal atrophy due to amyloidosis. Bladder amyloidosis (AA), mainly perivascular and amyloidosis in prostatic vessels.
+Clinically responsible: Dr. [#5 Angel García Escudero] E-mail: [#16 agareslo@telefonica.net]

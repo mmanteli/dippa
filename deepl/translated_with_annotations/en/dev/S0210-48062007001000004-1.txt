@@ -1,0 +1,32 @@
+Patient details.
+First name: [#1 David].
+Surname: [#1 Simón García].
+NHC: [#17 7840352].
+NASS: [#19 87 565306 30].
+Address: [#11 Avenida Arroyo de Trofas, 8, 5 D].
+Town/ Province: [#12 Valencia].
+CP: [#12 46017].
+Care data.
+Date of birth: [#6 19/03/1986].
+Country of birth: [#13 Spain].
+Age: [#2 25 years] Sex: [#3 F].
+Date of admission: [#6 18/06/2011].
+Department: Internal Medicine.
+Episode: [#18 7845673].
+Doctor: [#5 Jorge Planelles Gómez] Col Nº: [#20 46 46 87901].
+Present History: Patient aged [#2 25 years] who, during admission to the Internal Medicine (IM) department for afternoon fever of 3 days' evolution, was incidentally found to have a tumour in the right testicle by ultrasound.
+History: As personal history, he reported no drug allergies. Bilateral inguinal herniorrhaphy.
+He reported a painless tumour that had been present for a year and had been progressively increasing.
+Physical examination: Physical examination revealed an enlargement of the right testicle with a painless tumour in the upper pole.
+Complementary tests: Given the suspicion of a testicular tumour, different complementary tests were performed. Testicular ultrasound showed a heterogeneous, solid tumour in the right testicle measuring 78 mm x 57 mm x 61 mm, compatible with a primary testicular tumour. The left testicle was normal. Computerised axial tomography (CAT): right testicular tumour with retrocaval and para-aortic adenopathies > 2 and <5 cm. Lactate dehydrogenase (LDH): 1890 IU/I; alpha-fetoprotein (AFP): 51 ng/ml; beta-chorionic gonadotropin (Beta-HCG): 23 mIU/ml.
+He underwent right inguinal orchiectomy with anatomical pathology report of 7 cm embryonal carcinoma replacing parenchyma and epididymis with implants in the cord and reaching the albuginea. Diagnosed with embryonal carcinoma of the right testicle T3N2M0, stage II with intermediate risk due to elevated LDH, he completed treatment with chemotherapy according to the BEP scheme (bleom<icin, etoposide and cisplatin) of 4 cycles.
+Evolution: At [#2 4 years of age], and being free of disease in the control check-ups, he came to the emergency department for a painful tumour in the left testicle.
+Physical examination revealed a left monorchid, indurated tumour at the level of the lower pole of the left epididymis.
+Complementary examinations included: Lactate dehydrogenase (LDH): 347 IU/I; alpha-fetoprotein (AFP): 2.4 ng/ml; beta-chorionic gonadotropin (Beta-HCG): 0.1 mIU/ml. Chest X-ray: No pathological findings. Testicular ultrasound: Testicular tumour measuring 51x19x22 mm in size, with heterogeneous echostructure and colour Doppler flow, also affecting the body and tail of the epididymis. Calcification in the anteroinferior aspect of the testicle. Computerised axial tomography thoraco-abdominal-pelvic: liver, spleen and pancreas normal. Kidneys of normal morphology and density. No adenopathy or lymph node chains.
+On suspicion of a second germ cell tumour, a radical orchiectomy was performed via the left inguinal route, and the pathological anatomy revealed a classic seminoma of 3.2 cm in diameter infiltrating the testicular parenchyma and extending to the epididymis and spermatic cord.
+The postoperative period was uneventful.
+He was referred to the Oncology Department for assessment of adjuvant treatment and monitoring. Given that the maximum diameter of the tumour was 3.2 cm and that it did not affect the rete testis, conservative control treatment was chosen.
+Three months later, a control CAT scan revealed enlarged left retroperitoneal adenopathy (3.5 cm), with a poor plane of separation with the psoas that trapped the middle third of the ureter, causing grade I hydronephrosis. In the control blood tests: haemogram, biochemistry and haemostasis within normal parameters except for creatinine of 1.2 mg/dl; lactate dehydrogenase = 552 IU/I, alpha-fetoprotein and chorionic beta-gonadotropin within normal parameters.
+He was diagnosed with retroperitoneal recurrence and underwent treatment with chemotherapy (etoposide and cisplatin for 4 cycles).
+Currently the patient has been disease-free for 3 years in the periodic check-ups carried out in the Urology and Oncology Departments.
+Clinical Manager: Dr. [#5 Jorge Planelles Gómez] Urology Department [#8 Hospital Universitario Doctor Peset] [#11 Avda. Gaspar Aguilar, 90] - [#12 46017] [#12 Valencia] Tel.: [#14 963 862 500] E-mail author: [#16 jorge_planelles@yahoo.es]

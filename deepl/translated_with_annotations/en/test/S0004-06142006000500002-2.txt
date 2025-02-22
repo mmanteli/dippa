@@ -1,0 +1,21 @@
+Patient data.
+First name: [#1 Ignacio].
+Surname: [#1 Rico Pedroza].
+NHC: [#17 5467980].
+Address: [#11 Av. Beniarda, 13].
+Town/ Province: [#12 Valencia].
+CP: [#12 46271].
+Care data.
+Date of birth: [#6 11/02/1970].
+Country: [#13 Spain].
+Age: [#2 46 years] Sex: [#3 M].
+Date of admission: [#6 28/05/2016].
+Doctor: [#5 Ignacio Rubio Tortosa] Service No.: [#20 46 28 52938].
+Clinical report of the patient: Patient [#2 46 years old] who consulted for pain in the hypogastrium, painful ejaculation, haemospermia and sensation of weight at testicular level attributed until then to right varicocele already known for a year. His personal history included an episode of acute prostatitis one year prior to consultation.
+On physical examination, the patient was in good general condition, had a right varicocele and no masses were palpable in both testicles. Rectal examination showed an irregular prostate, slightly enlarged with indurated areas and somewhat painful on examination.
+A comprehensive urological ultrasound was requested, which showed a hypoechoic nodular image in the right testicle with surrounding hypervascularisation and a simple cyst in the left testicle.
+The abdominal-pelvic CT scan showed several images in the liver that could correspond to metastases or haemangiomas. Subsequent MRI confirmed that they were haemangiomas. The chest X-ray showed no alterations.
+Tumour markers and PSA values were normal. Alpha-fetoprotein: 6 ng/ml, beta-HCG: 0.1 ng/ml, PSA: 1.5 ng/ml.
+In view of all these findings, it was decided to perform a radical right inguinal orchiectomy. Macroscopically, the specimen showed a nodular formation of identical colour to that of the testicular pulp measuring 2.5 x 1.8 x 1.5 cm in the upper pole of the testicle. The histopathological report was of a diffuse Leydig cell tumour infiltrating perineural spaces, adjacent capsular vascular channels and smooth muscle; moderate atypia and few mitoses.
+After 10 years of evolutionary controls, the patient is asymptomatic, no metastases have been observed and tumour markers have remained negative.
+Referred by: Dr. [#5 Ignacio Rubio Tortosa] Urology Department [#8 Hospital Dr. Peset] [#11 Avda. Gaspar Aguilar, 90] [#12 46017] [#12 Valencia] ([#13 Spain]) e-mail: [#16 nachorutor@hotmail.com]

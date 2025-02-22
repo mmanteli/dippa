@@ -1,0 +1,21 @@
+First name: [#1 Gabriel].
+Surname: [#1 Navarro Cabrera].
+CIPA: nhc-[#17 272226].
+NASS: [#19 14-63504522-08].
+Address: [#11 C/ Sauceda 3. 1A Esquina San Eloy] .
+City/ Province: [#12 Sevilla].
+CP: [#12 41001].
+NHC: [#17 272226].
+Care data.
+Date of birth: [#6 28/05/1991].
+Country: [#13 Spain].
+Age: [#2 26] Sex: [#3 F].
+Date of admission: [#6 31/10/2017].
+Specialty: Urology.
+Doctor: [#5 Rosa María Jiménez Rodríguez] Col Nº: [#20 41 41 98745].
+Reason for admission: preputial skin lesions.
+History: Her family history includes Crohn's disease in a [#4 twin brother]; her personal history includes Crohn's disease diagnosed six years earlier, which has presented with severe flare-ups over the years, requiring treatment with corticosteroids and immunosuppressants. In one of these flare-ups, surgery was necessary, in which a total colectomy and ileostomy were performed according to the Brooke technique. The immediate postoperative course was satisfactory. In the months following the operation, he developed severe granulomatous rectitis, treated with deflazacort and mesalazine rectal enemas. The patient is also under study by the haematology service for persistently elongated activated partial thromboplastin time (aPTT).
+Current History:Patient [#2 26 years old] who was referred from the outpatient department of the gastroenterology department to assess some lesions that had appeared on the preputial skin a year and a half earlier, in the form of an erythematous, ulcerated plaque. She had been treated with topical corticosteroids with the diagnosis of suspected pyoderma gangrenosum, but had not progressed satisfactorily. In addition, the patient reported itching and some suppuration, so a sample was taken for culture, which showed growth of urethral colonising flora with no pathological significance.
+Exploration and complementary tests: It was decided to perform a circumcision, sending the preputial skin to the pathological anatomy service with the following result: non-caseating granuloma, with ulceration, typical of metastatic Crohn's disease.
+Evolution: After removal of the lesion, no recurrence has been observed in one year of follow-up.
+Referred by: Dr [#5 Rosa María Jiménez Rodríguez]. Urology Department. 5th floor. [#8 Hospital Universitario Virgen del Rocío]. [#11 Avda. Manuel Siurot S/N]. [#12 E-41013]. [#12 Seville] ([#13 Spain]) E-mail: [#16 ros_j_r@hotmail.com]

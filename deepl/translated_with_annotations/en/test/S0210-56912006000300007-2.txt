@@ -1,0 +1,16 @@
+First name: [#1 Adrian].
+Surname: [#1 Esposito Lopilato].
+NHC: [#17 15-85622454].
+Address: [#11 Avenida Olivos 4109, Panamericana route km 35,5].
+City/ Province: [#12 Buenos Aires].
+CP: [#12 B1827].
+Health care data.
+Date of birth: [#6 15/06/1968].
+Country: [#13 Argentina].
+Age: [#2 49 years old] Sex: [#3 Male].
+Date of Entry: [#6 13/11/2017].
+Episode: [#18 1583097461454].
+Doctor: [#5 Raymond Karatanasopuloz Pintos].
+Current History: patient [#2 49 years old], sex [#3 male]; 4 months prior to admission to our hospital he underwent vascular surgery with aorto-biliac replacement for infrarenal abdominal aortic aneurysm.
+One week prior to admission to the Intensive Care Unit, he presented episodes of proctorrhagia with increasing volumes. After secondary haemodynamic decompensation, admission to the Intensive Care Unit was indicated. She also reported the presence of severe periumbilical and hypogastric colic pain, haematocrit of 13% and incoercible bleeding, so emergency abdominal surgery was indicated on suspicion of AFE, since the abdominal ultrasound performed hours earlier reported a linear image above the umbilical scar compatible with vascular prosthesis, with a hypoechogenic area of 87 x 67 x 71 mm surrounding it. An exploratory laparotomy was performed, revealing a retroperitoneal haematoma surrounding the previous prosthesis and FAE with jejunum 60 cm from the fixed loop and sigmoid colon. He presented cardiorespiratory arrest and died in the operating theatre.
+Referred by: Dr. [#5 Raymond Karatanasopuloz Pintos]. Intensive Care Unit. [#8 José Ramón Vidal Hospital]. [#11 C/ Necochea, 1050]. [#12 3400] [#12 Corrientes], [#13 Argentina]. E-mail: [#16 rkarata@yahoo.com.ar].

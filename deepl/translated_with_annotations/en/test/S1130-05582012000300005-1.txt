@@ -1,0 +1,29 @@
+First name: [#1 Ramon].
+Surname: [#1 Piqueras Sanchez].
+NHC: [#17 4654365].
+NASS: [#19 23 45703245 20].
+Address: [#11 Calle de las Peñas 23, 5A].
+City/ Province: [#12 Madrid].
+CP: [#12 28030].
+Care data.
+Date of birth: [#6 12/05/1978].
+Country: [#13 Spain].
+Age: [#2 40 years] Sex: [#3 F].
+Date of admission: [#6 06/06/2018].
+Doctor: [#5 Alfredo Mogedas Vergara] Col Nº: [#20 28 45 96985].
+Reason for admission: a large left cervical tumour.
+Current History: The patient explains slow and painless growth of the mass of approximately 10 years of evolution.
+The limits of the tumour include the left greater body of the hyoid bone anteriorly, the mastoid region superiorly, the clavicle inferiorly and the external occipital protuberance posteriorly.
+The consistency of the mass is soft and it is not attached to deep planes.
+No lymph nodes or other masses were palpable and the intraoral examination was normal.
+History:  The patient has a history of surgery for a gill cyst in the same location 18 years ago.
+Physical examination: completely unremarkable.
+Summary of complementary tests: It was decided to carry out a cervico-facial magnetic resonance (MRI) scan, which revealed a homogeneous, well-defined mass that did not invade neighbouring structures and with a fatty density.
+A sample was taken by fine needle puncture aspiration (FNA) which confirmed the initial suspicions of lipoma.
+It was decided to perform surgical excision of the tumour. An approach was made at the level of the posterior hairline, resecting a 5*10cm skin spindle to improve direct closure.
+During the operation, a piece weighing 459.5g and measuring 25*16*4.8cm was obtained.
+Evolution and comments: After the first postoperative day, the patient showed a rapidly growing haematoma at the level of the posterior suture which had to be evacuated urgently and haemostasis of a small vessel at the level of the left trapezius muscle had to be performed.
+After the seventh postoperative day the patient was discharged.
+Pathological studies confirmed the diagnosis of lipoma without atypia.
+He is currently progressing satisfactorily and is being monitored in our outpatient clinic.
+Referred by: [#5 Alfredo Mogedas Vergara] Email: [#16 alfmgvg@hotmail.com]

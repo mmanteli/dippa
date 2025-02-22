@@ -1,0 +1,19 @@
+First name: [#1 Juan José].
+Surname: [#1 Ulloa Origel].
+Address: [#11 Av Montes Pirineos 770, Lomas de Chapultepec V Secc]....
+City/Province: [#12 Mexico City].
+CP: [#12 11010].
+NHC: [#17 5221413].
+Care data.
+Date of birth: [#6 15/06/1962].
+Country: [#13 Mexico].
+Age: [#2 54] Sex: [#3 F].
+Date of admission: 16.
+Doctor: [#5 Antonio García Morúa].
+Reason for admission: Patient [#3 male], aged [#2 54 years], came to our department for symptoms of 1 month's evolution, characterised by the presence of blistering lesions on the glans penis, asymptomatic, which progressed to ulcers a week later; subsequently, he reported intense pain on the glans penis and hypochromia, the reason for which he consulted.
+History: type 2 diabetes mellitus since [#2 30 years] of age, chronic renal insufficiency for 2 years, treated with haemodialysis. He had undergone supracondylar amputation of the right pelvic limb 4 years earlier.
+Physical examination: Physical examination revealed a hypochromic, hypothermic glans penis with a necrotic lesion of approximately 1.5 cm on the ventral side, as well as transurethral purulent discharge and induration of the distal third of the penile shaft.
+Summary of complementary tests: Blood biometry reported: haemoglobin 10.1 g/dl, leucocytes 4,890, platelets 283,000; blood chemistry: glucose 55 mg/dl, creatinine 7.88 mg/dl, BUN 65.5 mg/dl; serum electrolytes: sodium 145.3 mmol/l, potassium 4.81 mmol/l, chlorine 99 mmol/l, calcium 8.3, mmol/l and phosphorus 9.21 mmol/l. Liver function tests reported: TGO 18, TGP 14 and alkaline phosphatase 64.
+A penile Doppler ultrasound was performed with Caverject, showing a total absence of flow in 100% of the penis.
+Surgical management was proposed to the patient and he decided to go to another institution.
+Referred by: Dr. [#5 Antonio García Morúa]. Email: [#16 dr.morua@hotmail.com]

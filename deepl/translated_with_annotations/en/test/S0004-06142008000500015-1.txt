@@ -1,0 +1,21 @@
+First name: [#1 Alejandro] .
+Surname: [#1 Morales Crespo].
+CIPA: nhc-[#17 79324542].
+NASS: [#19 61 65132546 22].
+Address: [#11 Calle de las rosas 86, 13].
+City/ Province: [#12 Almeria].
+CP: [#12 04008].
+NHC: [#17 79324542].
+Care data.
+Date of birth: [#6 28/05/1993].
+Country: [#13 Spain].
+Age: [#2 24] Sex: [#3 M].
+Date of admission: [#6 15/06/2017].
+Specialty: Emergency.
+Doctor: [#5 Francisco Manuel Ramos Pleguezuelos] Col Nº: [#20 04 04 74125].
+Reason for admission: Pain in the right testicle.
+Present history: [#3 male] aged [#2 24 years] presented to the emergency department with a non-painful mass in the right testicle, which the patient noticed by self-palpation. Serum beta-HCG and alpha-FP levels were normal.
+Complementary tests: An ultrasound scan was performed and the images were interpreted as a solid testicular tumour. The patient underwent a right inguinal radical orchiectomy, with a normal postoperative course.
+Evolution and comments: Pathological findings: Macroscopic examination revealed an orchiectomy specimen measuring 5.5 x 4 x 4 cm and weighing 51 g, which, at the upper pole and located in the thickness of the testicular pulp, contained a cystic lesion measuring 1.4 cm, circumscribed by a capsule, with a keratotic content, a crumbly consistency and whitish colouring; the surrounding testicular parenchyma retained a spongy and soft appearance. The only relevant finding in the rest of the specimen was a cystic formation in the spermatic cord, 1.2 cm in diameter, with a smooth, translucent wall and a watery content.
+Microscopically, the intraparenchymatous lesion was represented by a cystic formation covered by a thin stratified squamous epithelium with a granular layer, peripherally delimited by a thin fibrous band, with no evidence of cutaneous appendages, whose lumen was occupied by abundant keratotic material, laminated and compact. The adjacent testicular parenchyma reflected normal characteristics, with an adequate maturational gradient of tubular germ cellularity. The cystic lesion of the spermatic cord corresponded to a spermatocele.
+Clinically responsible: Dr. [#5 Francisco Manuel Ramos Pleguezuelos] [#8 Complejo Hospitalario Torrecárdenas] [#11 Paraje Torrecárdenas s/n]. [#12 04009] [#12 Almería] ([#13 Spain]) [#16 franpleguezuelos@gmail.com].
