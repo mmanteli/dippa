@@ -6,11 +6,12 @@ import copy
 import itertools
 import numpy as np
 import string
+from tqdm import tqdm
 
 
 class PiiDetector:
 
-    def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False):
+    def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=10, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False):
         self.device="cuda:0" if torch.cuda.is_available() else "cpu"
         print(f'Using {self.device}')
         self.model = model.to(self.device)
@@ -22,7 +23,7 @@ class PiiDetector:
                 tokenizer_type="WordPiece"
             elif isinstance(tokenizer, transformers.XLMRobertaTokenizer) or isinstance(tokenizer,transformers.XLMRobertaTokenizerFast):
                 tokenizer_type="BPE"
-        assert tokenizer_type in ["BPE", "WordPiece"], "Tokenizer type not automatically detected. Define as BPE or WordPiece, SentencePiece not implemented, but returns similar values to BPE so it might work."
+        assert tokenizer_type in ["BPE", "WordPiece"], f"Tokenizer type not automatically detected ({type(tokenizer)}). Define as BPE or WordPiece, SentencePiece not implemented, but returns similar values to BPE so it might work."
         self.tokenizer_type = tokenizer_type
         self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type] 
         self.special_tokens = tokenizer.all_special_tokens
@@ -89,7 +90,7 @@ class PiiDetector:
         if context == []:
             context = [[]*len(masked_indices)]
         prints = []
-        for ind, cont in zip(masked_indices, context):
+        for ind, cont in tqdm(zip(masked_indices, context), total=len(masked_indices)):
             final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
             if final_score < self.threshold:
@@ -133,7 +134,7 @@ class PiiDetector:
     def mask(self, text):
         if self.use_context:
             return self.context_aware_mask(text)
-        t = self.tokenizer(text, return_tensors='pt').to(self.device) # prepare normal tokenized input
+        t = self.tokenizer(text, return_tensors='pt')#.to(self.device) # prepare normal tokenized input, to GPU later
         if self.tokenizer_type == "BPE":
             indices = self.get_indices_BPE(t)
         elif self.tokenizer_type == "WordPiece":
@@ -231,7 +232,7 @@ class PiiDetector:
     
     def context_aware_mask(self, text):
         
-        t = self.tokenizer(text, return_tensors='pt').to(self.device) # prepare normal tokenized input
+        t = self.tokenizer(text, return_tensors='pt') #.to(self.device) # prepare normal tokenized input, put it to GPU later
         if self.tokenizer_type == "BPE":
             indices, context = self.get_context_indices_BPE(t)
         elif self.tokenizer_type == "WordPiece":
@@ -242,20 +243,89 @@ class PiiDetector:
 
 #-------------------------------predictions-------------------------------------#
 
-    def predict(self, masked, i, true_token, print_results=False):
+    def batched_prediction(self, masked_input, debug=False):
+        max_length = self.tokenizer.model_max_length
+        overlap = int(max_length/2)-1 # to facilitate adding additional CLS etc
+
+        # get these to a more indexed format
+        input_ids = masked_input["input_ids"].squeeze(0)
+        attention_mask = masked_input["attention_mask"].squeeze(0)
+        sanity_check = []
+
+        # this to make overlappig work
+        #last_handled_index=0
+        batched_result=0
+        indices_upper_limits = [i-1+overlap for i in range(overlap, len(input_ids)+overlap, overlap)]
+        indices_lower_limits = [i for i in range(0, len(input_ids), overlap)]
+    
+        if debug:
+            print(indices_upper_limits)
+            print(indices_lower_limits)
+        
+        for start, end in zip(indices_lower_limits, indices_upper_limits):
+            #print("\nstart and end", start, end)
+            #print("shape of input ", input_ids.size())
+            if start == 0:  # no need to add bos/cls to beginning
+                chunk_input_ids = torch.cat((input_ids[start:end],input_ids[-2:-1]))
+                chunk_attention_mask = torch.cat((attention_mask[start:end],torch.tensor([0]).to(self.device)))
+            else:
+                chunk_input_ids = torch.cat((input_ids[0:1],input_ids[start:end],input_ids[-2:-1]))
+                chunk_attention_mask = torch.cat((torch.tensor([0]).to(self.device), attention_mask[start:end],torch.tensor([0]).to(self.device)))
+            if debug: print(f'\nlen of inputs {len(chunk_input_ids)}, form index {start} to {end}')
+            #if len(chunk_input_ids) < max_length:  # Pad the chunk if it's smaller than max len
+            #    padding_length = max_length - len(chunk_input_ids)
+            #    chunk_input_ids = torch.cat([chunk_input_ids, torch.zeros(padding_length, dtype=torch.long).to(self.device)])
+            chunk_t = {"input_ids": chunk_input_ids.unsqueeze(0), "attention_mask":chunk_attention_mask.unsqueeze(0)}
+            #print("chunked decoded ", self.tokenizer.decode(chunk_t["input_ids"][0]))
+            #print("chunked last 3 tokens ",chunk_t["input_ids"][-3:])
+            with torch.no_grad():
+                model_out = self.model(**chunk_t)
+            if self.tokenizer_type=="WordPiece":
+                logits = model_out["prediction_logits"]
+            elif self.tokenizer_type=="BPE":
+                logits = model_out["logits"]
+            if debug: print(f"output size {logits.size()}")
+            #print("selecting indices", last_handled_index, "...", end )
+            
+            #print("adding result")
+            if torch.is_tensor(batched_result):
+                batch_logits = logits[:,overlap:-1,:] # remove cls etc. bos removal already included in overlap
+                #print("selected size ", batch_logits.size())
+                if debug: print("Should add selected", batch_logits.size(), "to existing ", batched_result.size() )
+                batched_result=torch.cat((batched_result, batch_logits),dim=1)
+                sanity_check = torch.cat((sanity_check, chunk_t["input_ids"][:,overlap:-1]), dim=1)
+                #print("result was", batched_result.size())
+            else:
+                batched_result = logits[:,:-1,:]
+                sanity_check = chunk_t["input_ids"][:,:-1] # select same indices and see if everything matches up
+            if debug: print("size of concatenated logits;", batched_result.size())
+        assert torch.equal(sanity_check, masked_input["input_ids"]), "Batched prediction resulted in error. This is likely BOS/EOS/CLS token error or indexing problem. This has not been tested for models with odd (as op. even) input length"
+        return batched_result
+
+
+    def predict(self, masked, i, true_token, print_results=False, return_predictions=False):
 
         def to_probability(A):
             softmax = torch.nn.Softmax(dim=0)
             return softmax(A)
-            
+
+        # setting this to device only here to save on memory
+        masked.to(self.device)
         # do a prediction
         with torch.no_grad():
-            model_out = self.model(**masked)
-        if self.tokenizer_type=="WordPiece":
-            logits = model_out["prediction_logits"]
-        elif self.tokenizer_type=="BPE":
-            logits = model_out["logits"]
+            # do overlapping batch if too large input
+            if masked.input_ids.size()[1] > self.tokenizer.model_max_length:
+                #if self.debug:
+                #print(f"Text too long ({masked.input_ids.size()[1]}). Batching.")
+                logits = self.batched_prediction(masked)
+            else:
+                model_out = self.model(**masked)
+                if self.tokenizer_type=="WordPiece":
+                    logits = model_out["prediction_logits"]
+                elif self.tokenizer_type=="BPE":
+                    logits = model_out["logits"]
     
+        #print("LOGITS SIZE",logits.size())
         # logits for this word specifically
         logits_i = logits[0,i,:]  # this contains the probabilities for this token
         # change to probability
@@ -263,9 +333,15 @@ class PiiDetector:
         # true token is the index
         word_probability = probs[true_token]
 
-        top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
-        top_tokens = top_tokens[:,:,:self.choose_n]
-        top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
+        # Originally, we did this:
+        #top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
+        #top_tokens = top_tokens[:,:,:self.choose_n]
+        # However it takes too much memory, this is far better:
+        if return_predictions:
+            top_logits, top_tokens = torch.topk(logits, self.choose_n, dim=2, largest=True)
+            top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
+        else:
+            top_guesses = []
         #if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
   
         # Do only in debug mode:

@@ -7,37 +7,26 @@ import itertools
 import numpy as np
 import string
 
-
-
 class PiiFinder:
 
-    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=3, embedding_model=None, tokenizer_type="BPE", return_tokenizer_output=False):
+    def __init__(self, model, tokenizer, threshold, use_context=False, choose_n=100, choose_k=10, tokenizer_type="BPE"):
         self.model = model
-        self.model.eval()   # remove some unneeded functionality
         self.tokenizer = tokenizer
-        assert tokenizer_type in ["BPE", "WordPiece"]
-        self.tokenizer_type = tokenizer_type
-        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type] 
-        self.special_tokens = tokenizer.all_special_tokens
-        self.threshold = threshold    # this is to be optimized
+        self.threshold = threshold
         self.use_context = bool(use_context)
         self.choose_n = int(choose_n)
         self.choose_k = int(choose_k)
-        self.return_tokenizer_output=return_tokenizer_output
-        if embedding_model is not None:
-            self.embedding_model = embedding_model
-        else:
-            self.embedding_model = self.model
+        self.special_tokens = tokenizer.all_special_tokens
+        assert tokenizer_type in ["BPE", "WordPiece"]
+        self.tokenizer_type = tokenizer_type
+        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type]
 
     def find_pii(self, text, debug = False):
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
-        if context == []:
-            context = [[]*len(masked_indices)]
         if debug: print(masked_indices)
         to_be_redacted = []
         to_be_redacted_words = []
         to_redact_with = []
-        to_redact_context = []
         for ind, cont in zip(masked_indices, context):
             final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
@@ -45,20 +34,8 @@ class PiiFinder:
                 to_be_redacted.append(ind)
                 to_redact_with.append(predictions)
                 to_be_redacted_words.append(self.tokenizer.convert_ids_to_tokens(tokenized_text["input_ids"][0][ind]))
-                to_redact_context.append(cont)
-        if self.return_tokenizer_output:
-            return {"decoded_text": decoded_text, 
-                    "tokenizer_output": tokenized_text, 
-                    "to_redact_indices": to_be_redacted, 
-                    "to_redact_words": to_be_redacted_words, 
-                    "predictions": to_redact_with,
-                    "context": to_redact_context}
-        else:
-            return {"decoded_text": decoded_text,
-                    "to_redact_indices": to_be_redacted, 
-                    "to_redact_words": to_be_redacted_words,
-                    "predictions": to_redact_with,
-                    "context": to_redact_context}
+                
+        return {"decoded_text": decoded_text, "tokenizer_output": tokenized_text, "to_redact_indices": to_be_redacted, "to_redact_words": to_be_redacted_words, "predictions": to_redact_with}
 
     def print_pii(self, text, debug=False):
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
@@ -116,7 +93,6 @@ class PiiFinder:
 
 
 #----------------------------CONTEXT AWARE MASKING---------------------------------#
-    
     def find_same_tokens(self, lst, index):
         target_value = lst[index]
         return [i for i, value in enumerate(lst) if value == target_value and i != index]
@@ -210,7 +186,7 @@ class PiiFinder:
         return indices, t, self.tokenizer.decode(t.input_ids[0]), context
 
 
-# -------------------------------predictions-------------------------------------#
+#-------------------------------predictions-------------------------------------#
 
     def predict(self, masked, i, true_token, print_results=False):
 
@@ -219,8 +195,7 @@ class PiiFinder:
             return softmax(A)
             
         # do a prediction
-        with torch.no_grad():
-            model_out = self.model(**masked)
+        model_out = self.model(**masked)
         if self.tokenizer_type=="WordPiece":
             logits = model_out["prediction_logits"]
         elif self.tokenizer_type=="BPE":
@@ -236,9 +211,6 @@ class PiiFinder:
         top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
         top_tokens = top_tokens[:,:,:self.choose_n]
         top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
-        #if print_results: print(f'{self.tokenizer.decode(true_token)} has best guesses {top_guess} and probability {word_probability}')
-
-        
         # Do only in debug mode:
         if print_results:
             print(f'{self.tokenizer.decode(true_token)} has probability {word_probability}')
@@ -248,7 +220,7 @@ class PiiFinder:
             top_tokens = top_tokens[:,:,:self.choose_n]
     
         
-            #print("Guesses:",self.tokenizer.decode(top_tokens[0,i,:]))
+            print("Guesses:",self.tokenizer.decode(top_tokens[0,i,:]))
             #print("Logits: ",top_logits[0,i,:])
             #print("Probs:  ",top_probs[:self.choose_n])
             print("")
