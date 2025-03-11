@@ -7,6 +7,7 @@ import itertools
 import numpy as np
 import string
 from tqdm import tqdm
+import csv
 
 
 class PiiDetector:
@@ -100,6 +101,31 @@ class PiiDetector:
         for p in prints:
             print(p, end=" ")
 
+    def score_pii(self, text, filename, debug=False):
+        """
+        Function for scoring each word in a text. Facilitates calculation of optimal threshold with
+        only one model iteration.
+        Inputs:
+            PiiDetector object
+            text: text to be scored in string format
+            filename: filename to which save the results, .csv appended
+        Returns:
+            None, writes to filename.csv
+        """
+        masked_indices, tokenized_text, decoded_text, context = self.mask(text)
+        if context == []:
+            context = [[]*len(masked_indices)]
+        prints = []
+        for ind, cont in tqdm(zip(masked_indices, context), total=len(masked_indices)):
+            final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
+            word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
+            prints.append(f'{final_score},{word}\n')
+        #print(prints)
+        with open(filename+".csv", "w") as f:
+            for row in prints:
+                f.write(row)
+        
+
 
     
 #---------------------------------MASKING---------------------------------------#
@@ -163,7 +189,10 @@ class PiiDetector:
                     words[-1] += converted[i][2:].lower()
         
         indices_context=[]
-        lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+        if self.lemmatizer:
+            lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+        else:
+            lem_words = words
         assert len(words)==len(indices), "Issues with masking the sentence."
         assert len(lem_words)==len(indices), f'Issues with lemmatizing the sentence.\n{lem_words}\n{words}'
     
@@ -191,25 +220,36 @@ class PiiDetector:
         reminder = False   # for BPE, to separate punct, we need to know if the last token was punct
         for i in range(0, len(t["input_ids"][0])):
             # for BPE, continuation marker is actually a "starting marker"
+            #print(converted[i])
             if converted[i] not in string.punctuation and converted[i][-1]==".":
                 converted[i] = converted[i][0:-1]
-            if (reminder and converted[i] not in self.special_tokens) or (converted[i][0] == self.continuation_marker and converted[i] not in self.special_tokens) or converted[i] in string.punctuation:
+            if (reminder and converted[i] not in self.special_tokens) or (converted[i][0] == self.continuation_marker and converted[i] not in self.special_tokens) or all([j in string.punctuation for j in converted[i]]):
                 reminder=False
-                if converted[i] in string.punctuation:
+                if converted[i] in string.punctuation or (converted[i][0] == self.continuation_marker and converted[i][-1] in string.punctuation):
                     reminder = True
-                indices.append([i])
                 if converted[i][0] == self.continuation_marker:
                     words.append(converted[i][1:].lower())
+                    indices.append([i])
                 else:
-                    words.append(converted[i].lower())
+                    if all([j in string.punctuation for j in converted[i]]):   # BPE sometimes puts multiple punctuation to the same token
+                        for j in converted[i]:
+                            words.append(j)
+                            indices.append([i])
+                    else:
+                        words.append(converted[i].lower())
+                        indices.append([i])
             else:
                 if converted[i] not in self.special_tokens and indices!=[]:   
                     # here we are only skipping the fact that first token is a special token; indices is empty.
                     indices[-1].append(i)
                     words[-1] += converted[i].lower()
+            #print(words)
     
         indices_context=[]
-        lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+        if self.lemmatizer:
+            lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+        else:
+            lem_words=words
         assert len(words)==len(indices), "Issues with masking the sentence."
         assert len(lem_words)==len(indices), f'Issues with lemmatizing the sentence.\n{lem_words}\n{words}'
     
@@ -285,22 +325,23 @@ class PiiDetector:
             elif self.tokenizer_type=="BPE":
                 logits = model_out["logits"]
             if debug: print(f"output size {logits.size()}")
-            #print("selecting indices", last_handled_index, "...", end )
-            
+            #change to cpu: cat is equally fast on cpu and this saves space
+            logits_c = logits.detach().cpu()   # detach maybe not necessary since we do torch.no_grad() but oh well
+            del logits
             #print("adding result")
             if torch.is_tensor(batched_result):
-                batch_logits = logits[:,overlap:-1,:] # remove cls etc. bos removal already included in overlap
+                batch_logits = logits_c[:,overlap:-1,:] # remove cls etc. bos removal already included in overlap
                 #print("selected size ", batch_logits.size())
                 if debug: print("Should add selected", batch_logits.size(), "to existing ", batched_result.size() )
                 batched_result=torch.cat((batched_result, batch_logits),dim=1)
                 sanity_check = torch.cat((sanity_check, chunk_t["input_ids"][:,overlap:-1]), dim=1)
                 #print("result was", batched_result.size())
             else:
-                batched_result = logits[:,:-1,:]
+                batched_result = logits_c[:,:-1,:]
                 sanity_check = chunk_t["input_ids"][:,:-1] # select same indices and see if everything matches up
             if debug: print("size of concatenated logits;", batched_result.size())
         assert torch.equal(sanity_check, masked_input["input_ids"]), "Batched prediction resulted in error. This is likely BOS/EOS/CLS token error or indexing problem. This has not been tested for models with odd (as op. even) input length"
-        return batched_result
+        return batched_result.to(self.device)  # back to gpu
 
 
     def predict(self, masked, i, true_token, print_results=False, return_predictions=False):
@@ -324,7 +365,7 @@ class PiiDetector:
                     logits = model_out["prediction_logits"]
                 elif self.tokenizer_type=="BPE":
                     logits = model_out["logits"]
-    
+        masked.to("cpu") # putting this bach to cpu to save memory
         #print("LOGITS SIZE",logits.size())
         # logits for this word specifically
         logits_i = logits[0,i,:]  # this contains the probabilities for this token
@@ -337,7 +378,7 @@ class PiiDetector:
         #top_logits, top_tokens = torch.sort(logits, dim=2, descending=True)#[:,:,:self.choose_n]
         #top_tokens = top_tokens[:,:,:self.choose_n]
         # However it takes too much memory, this is far better:
-        if return_predictions:
+        if return_predictions or print_results:
             top_logits, top_tokens = torch.topk(logits, self.choose_n, dim=2, largest=True)
             top_guesses = [self.tokenizer.decode(g) for g in top_tokens[0,i,:]]
         else:
