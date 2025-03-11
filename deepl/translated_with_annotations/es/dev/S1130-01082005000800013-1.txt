@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: [#1 Rocio].
+Apellidos: [#1 Duque Herrera].
+NHC: [#17 5647049].
+NASS: [#19 85 67945679 30].
+Domicilio: [#11 C/ Altos de Nava, 34, 9, A].
+Localidad/ Provincia: [#12 Cartagena], [#12 Murcia].
+CP: [#12 30202].
+Datos asistenciales.
+Fecha de nacimiento: [#6 10/11/1987].
+País de nacimiento: [#13 España].
+Edad: [#2 25 años] Sexo: [#3 M].
+Fecha de Ingreso: [#6 20/01/2013].
+Servicio: Nefrología.
+Episodio: [#18 8567589].
+Médico: [#5 Gracia Álvarez Fernández] NºCol: [#20 30 30 57256].
+Informe clínico del paciente: [#3 Mujer] de [#2 25 años], sin antecedentes de interés, que es estudiada por presentar una historia de dolor abdominal de predominio en hipocondrio derecho. Tanto la exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales. Se le realizó una ecografía abdominal, en la que se detectó una lesión quística hepática de 8 centímetros, multiloculada, hipoecoica con áreas hiperecoicas y calcio, localizada en los segmentos 4-5 hepáticos y con proyecciones papilares hacia el hilio hepático. Dada la imposibilidad de descartar malignidad se recomendó tratamiento quirúrgico. La paciente fue intervenida, encontrando una lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático, en los segmentos 4 y 5, sobre la bifurcación portal y la vena suprahepática media. Se realizó una quistoperiquistectomía con control vascular, sin exclusión. El postoperatorio evolucionó favorablemente, siendo la paciente dada de alta al cabo de una semana. El diagnóstico histológico definitivo mostró un quiste hepático ciliado.
+Responsable clínico: Dra. [#5 Gracia Álvarez Fernández] Servicio de Nefrología [#8 Hospital General Universitario Santa Lucía] [#11 Mezquita, Paraje Los Arcos] [#12 30202], [#12 Cartagena], [#12 Murcia] E-mail: [#16 alvarez.gracia@gmail.com]

@@ -1,0 +1,18 @@
+Nombre:  [#1 Laura].
+Apellidos: [#1 Pérez Godín].
+NHC: [#17 43561584].
+Domicilio: [#11 Av. Valdes, 51].
+Localidad/ Provincia: [#12 León].
+CP: [#12 24400].
+Datos asistenciales.
+Fecha de nacimiento: [#6 17/05/2005].
+País: [#13 España].
+Edad: [#2 13 años] Sexo: [#3 M].
+Fecha de Ingreso: [#6 12/05/2018].
+Servicio: Pediatría.
+Médico: [#5 María Teresa González Martínez] NºCol: [#20 24 24 58745].
+Historia Actual: Paciente de [#2 trece años], que presenta un cuadro de fiebre de 12 días de evolución acompañado de adenopatía axilar izquierda.
+Exploración física:  La exploración inicial fue negativa a excepción de arañazos en mano izquierda.
+Pruebas complementarias: Los datos de laboratorio iniciales incluyeron: leucocitos 4.700 (32% linfocitos; 9% monocitos y 51% granulocitos); VSG 14 mm/h; PCR 2,4 mg/dl; hemocultivo negativo. 
+Evolución y comentarios: Ante la persistencia de la fiebre y la presencia de la adenopatía se sospecha Enfermedad por Arañazo de Gato, se realiza serología a Bartonella henselae y se inicia tratamiento con rifampicina, desapareciendo la fiebre después de 3 días de iniciado el tratamiento. Posteriormente se confirma el diagnóstico al resultar positiva la serología a Bartonella henselae.
+Remitido por: Dra. [#5 María Teresa González Martínez] Servicio de Pediatría. [#8 Hospital del Bierzo] [#11 C/ La Dehesa s/n]. [#12 24411] [#12 Ponferrada] [#12 León] e-mail: [#16 teglez@inicia.es]
