@@ -1,10 +1,10 @@
-                                                Etunimi: [#1 Victor].
-                                                Sukunimi: [#1 Herrero Casado].
-                                                NHC: [#17 9521025].
-                                                NASS: [#19 84 526908 56].
-                                                Osoite: [#11 Av. Marcelo Celayeta, 35 10C].
-                                                Kaupunki/ maakunta: [#12 Pamplona].
-                                                CP: [#12 31014].
+Etunimi: [#1 Victor].
+Sukunimi: [#1 Herrero Casado].
+NHC: [#17 9521025].
+NASS: [#19 84 526908 56].
+Osoite: [#11 Av. Marcelo Celayeta, 35 10C].
+Kaupunki/ maakunta: [#12 Pamplona].
+CP: [#12 31014].
 Hoitotiedot.
 Syntymäaika: [#6 27/01/1976].
 Maa: [#13 Espanja].
