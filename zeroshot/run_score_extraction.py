@@ -82,7 +82,7 @@ def extract(options):
     for file in os.scandir(data_path):  
         save_file = save_path+"/"+file.name.replace(".txt","")
         if os.path.isfile(save_file):
-            continue
+            continue   # skip if already done
         with open(file, "r") as f:
             text_with_annotations = f.read()
             text = reverse_annotations(text_with_annotations)

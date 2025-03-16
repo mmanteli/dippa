@@ -1,0 +1,23 @@
+#!/bin/bash
+#SBATCH --job-name=extract
+#SBATCH --account=project_2009498
+#SBATCH --time=00:15:00
+#SBATCH --partition=gputest
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem-per-cpu=10G
+#SBATCH --gres=gpu:a100:1,nvme:6
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH -o logs/%j.out
+#SBATCH -e logs/%j.err
+
+
+export HF_HOME=/scratch/project_2009498/cache
+lang=$1
+model=$2
+
+#module purge
+#module load pytorch/2.4
+source .venv/bin/activate
+python run_score_extraction.py --lang=$1 --model=$2
