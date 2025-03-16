@@ -2,12 +2,13 @@ import os
 os.environ['HF_HOME'] = '/scratch/project_2009498/cache/'
 
 from piidetector import PiiDetector
-import transformers
+from transformers import AutoModelForPreTraining, AutoTokenizer
 import sys
 import json
 import spacy
 import argparse
 import re
+
 
 #def parse_arguments():
 #    parser = ArgumentParser(prog='run_score_extraction')
@@ -66,8 +67,8 @@ def extract(options):
     LEMMATIZER = lemmatizer_map[options.lang]
     use_context=True # should be set to True always, False for testing
 
-    tokenizer = transformers.AutoTokenizer.from_pretrained(TOKENIZER_NAME)
-    model = transformers.AutoModelForPreTraining.from_pretrained(MODEL_NAME)
+    tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_NAME)
+    model = AutoModelForPreTraining.from_pretrained(MODEL_NAME)
     if LEMMATIZER:
         lemmatizer = spacy.load(LEMMATIZER)
     else:

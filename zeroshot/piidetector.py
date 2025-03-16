@@ -190,7 +190,7 @@ class PiiDetector:
         
         indices_context=[]
         if self.lemmatizer:
-            lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+            lem_words = [t.lemma_.lower() for t in self.lemmatizer(" ".join(words))]   # lemmatizer randomly capitalizes
         else:
             lem_words = words
         assert len(words)==len(indices), "Issues with masking the sentence."
@@ -216,43 +216,41 @@ class PiiDetector:
         converted = self.tokenizer.convert_ids_to_tokens(t["input_ids"][0])
         indices=[]
         words = []
-    
-        reminder = False   # for BPE, to separate punct, we need to know if the last token was punct
+
+        to_be_appended = False  # this is flag for continuation of word
+        reminder=False  # this is a reminder to separate a punctuation
         for i in range(0, len(t["input_ids"][0])):
-            # for BPE, continuation marker is actually a "starting marker"
-            #print(converted[i])
-            if converted[i] not in string.punctuation and converted[i][-1]==".":
-                converted[i] = converted[i][0:-1]
-            if (reminder and converted[i] not in self.special_tokens) or (converted[i][0] == self.continuation_marker and converted[i] not in self.special_tokens) or all([j in string.punctuation for j in converted[i]]):
-                reminder=False
-                if converted[i] in string.punctuation or (converted[i][0] == self.continuation_marker and converted[i][-1] in string.punctuation):
-                    reminder = True
-                if converted[i][0] == self.continuation_marker:
-                    words.append(converted[i][1:].lower())
-                    indices.append([i])
+            #print("now in converted", converted[i])
+            if converted[i] in self.special_tokens:
+                continue
+            for j in converted[i]:
+                if j in self.continuation_marker:
+                    to_be_appended=False  # new word
+                    continue
+                if j in string.punctuation and j != self.continuation_marker:
+                    to_be_appended=False
+                    reminder=True
+                if to_be_appended and not reminder:
+                    words[-1]+= j.lower()
+                    if i not in indices[-1]:
+                        indices[-1].append(i) #nothing for indices, same word
                 else:
-                    if all([j in string.punctuation for j in converted[i]]):   # BPE sometimes puts multiple punctuation to the same token
-                        for j in converted[i]:
-                            words.append(j)
-                            indices.append([i])
-                    else:
-                        words.append(converted[i].lower())
-                        indices.append([i])
-            else:
-                if converted[i] not in self.special_tokens and indices!=[]:   
-                    # here we are only skipping the fact that first token is a special token; indices is empty.
-                    indices[-1].append(i)
-                    words[-1] += converted[i].lower()
-            #print(words)
-    
+                    words.append(j.lower())
+                    indices.append([i])
+                    to_be_appended=True
+                if j not in string.punctuation:
+                    reminder=False
+
         indices_context=[]
         if self.lemmatizer:
-            lem_words = [t.lemma_ for t in self.lemmatizer(" ".join(words))]
+            lem_words = [t.lemma_.lower() for t in self.lemmatizer(" ".join(words))]   # lemmatizer sometimes randomly capitalizes
         else:
             lem_words=words
+        #for t,m in zip(words, lem_words):
+        #    print(f"decoded {t}, lemmatized {m}")
         assert len(words)==len(indices), "Issues with masking the sentence."
         assert len(lem_words)==len(indices), f'Issues with lemmatizing the sentence.\n{lem_words}\n{words}'
-    
+
         # then, map same words to same context: eg. "Ville" in indices [2,3] and [13,14]
         # => context for first is [13,14] and [2,3] for second.
         for i in range(len(words)):
