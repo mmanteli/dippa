@@ -10,21 +10,16 @@ import argparse
 import re
 
 
-#def parse_arguments():
-#    parser = ArgumentParser(prog='run_score_extraction')
-#    parser.add_argument('--language, --lang', required=True) 
-#    parser.add_argument('--model_name, --model', required=True)
-#    return parser.parse_args()
+split = "dev"
 
 
-
-path_for_data = {"fi":"/scratch/project_2009498/dippa/deepl/translated_with_annotations/fi/dev",
-                 "en":"/scratch/project_2009498/dippa/deepl/translated_with_annotations/en/dev",
-                 "es":"/scratch/project_2009498/dippa/deepl/translated_with_annotations/es/dev",
+path_for_data = {"fi":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/fi/{split}",
+                 "en":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/en/{split}",
+                 "es":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/es/{split}",
                  }
 lemmatizer_map = {"fi":"fi_core_news_lg",
               "en": False,
-              "es": False}
+              "es": "es_core_news_md"}
 
 # this for models with long names
 model_map = {"cambridgeltl":"cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR",
@@ -44,7 +39,7 @@ def reverse_annotations(text):
     Name: Joseo
     """
 
-    i = re.finditer(r'\[\#[0-9]{1,2}[ ](\w+,?.)+\]', text)
+    i = re.finditer(r'\[\#[0-9]{1,2}[ ].+?\]', text)
     ind = [[m.start(0),m.end(0)] for m in i]
     current_index=0
     parsed_text=""
@@ -63,7 +58,7 @@ def reverse_annotations(text):
 def extract(options):
     data_path = path_for_data[options.lang]
     MODEL_NAME = model_map.get(options.model, options.model)
-    TOKENIZER_NAME = "xlm-roberta-base" #MODEL_NAME if MODEL_NAME!="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" else "xlm-roberta-large"
+    TOKENIZER_NAME = MODEL_NAME if MODEL_NAME!="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" else "xlm-roberta-large"
     LEMMATIZER = lemmatizer_map[options.lang]
     use_context=True # should be set to True always, False for testing
 
@@ -76,10 +71,11 @@ def extract(options):
 
     pd = PiiDetector(model, tokenizer, lemmatizer, 0, use_context=use_context)#, tokenizer_type="WordPiece")#, tokenizer_type="BPE")
 
-    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores/{options.lang}/{options.model}"
+    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores/{options.lang}_test/{options.model}"
     os.makedirs(save_path, exist_ok=True)
 
     for file in os.scandir(data_path):  
+        print(f"In file {file}")
         save_file = save_path+"/"+file.name.replace(".txt","")
         if os.path.isfile(save_file):
             continue   # skip if already done
@@ -87,12 +83,12 @@ def extract(options):
             text_with_annotations = f.read()
             text = reverse_annotations(text_with_annotations)
             print(text)
-            try:
-                pd.score_pii(text, save_file)
-            except Exception as e:
-                print(f'Error with file {file.name}')
-                print(e)
-                print("\n-----------------------------\n")
+        try:
+            pd.score_pii(str(text), save_file)
+        except Exception as e:
+            print(f'Error with file {file.name}')
+            print(e)
+            print("\n-----------------------------\n")
 
 
 def main():
@@ -104,6 +100,7 @@ def main():
 
     # Parse the arguments
     options = parser.parse_args()
+    print(options)
 
     # run
     extract(options)

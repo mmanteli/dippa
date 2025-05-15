@@ -20,7 +20,7 @@ class PiiDetector:
         self.tokenizer = tokenizer
         self.lemmatizer = lemmatizer
         if tokenizer_type is None:
-            if isinstance(tokenizer, transformers.BertTokenizer) or isinstance(tokenizer, transformers.BertTokenizerFast):
+            if isinstance(tokenizer, transformers.BertTokenizer) or isinstance(tokenizer, transformers.BertTokenizerFast) or isinstance(tokenizer, transformers.RobertaTokenizerFast):
                 tokenizer_type="WordPiece"
             elif isinstance(tokenizer, transformers.XLMRobertaTokenizer) or isinstance(tokenizer,transformers.XLMRobertaTokenizerFast):
                 tokenizer_type="BPE"
@@ -112,6 +112,7 @@ class PiiDetector:
         Returns:
             None, writes to filename.csv
         """
+        torch.cuda.empty_cache()
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
         if context == []:
             context = [[]*len(masked_indices)]

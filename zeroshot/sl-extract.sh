@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=extract
-#SBATCH --account=project_2009498
-#SBATCH --time=00:15:00
-#SBATCH --partition=gputest
+#SBATCH --account=project_2002026
+#SBATCH --time=06:15:00
+#SBATCH --partition=gpusmall
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=2
 #SBATCH --mem-per-cpu=10G
