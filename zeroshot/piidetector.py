@@ -12,7 +12,7 @@ import csv
 
 class PiiDetector:
 
-    def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=10, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False):
+    def __init__(self, model, tokenizer, lemmatizer, threshold, use_context=False, choose_n=10, choose_k=3, embedding_model=None, tokenizer_type=None, return_tokenizer_output=False, continuation_marker=None):
         self.device="cuda:0" if torch.cuda.is_available() else "cpu"
         print(f'Using {self.device}')
         self.model = model.to(self.device)
@@ -26,7 +26,7 @@ class PiiDetector:
                 tokenizer_type="BPE"
         assert tokenizer_type in ["BPE", "WordPiece"], f"Tokenizer type not automatically detected ({type(tokenizer)}). Define as BPE or WordPiece, SentencePiece not implemented, but returns similar values to BPE so it might work."
         self.tokenizer_type = tokenizer_type
-        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type] 
+        self.continuation_marker = {"BPE": "▁", "WordPiece": "##"}[tokenizer_type] if continuation_marker is None else continuation_marker
         self.special_tokens = tokenizer.all_special_tokens
         self.threshold = threshold    # this is to be optimized
         self.use_context = bool(use_context)
@@ -92,7 +92,7 @@ class PiiDetector:
             context = [[]*len(masked_indices)]
         prints = []
         for ind, cont in tqdm(zip(masked_indices, context), total=len(masked_indices)):
-            final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
+            final_score, predictions, _ = self.get_scores(ind, tokenized_text, cont, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
             if final_score < self.threshold:
                 prints.append(f'█████')#, preds: {predictions[:4]}')
@@ -100,6 +100,9 @@ class PiiDetector:
                 prints.append(f'{word}')
         for p in prints:
             print(p, end=" ")
+
+    
+
 
     def score_pii(self, text, filename, debug=False):
         """
@@ -112,18 +115,47 @@ class PiiDetector:
         Returns:
             None, writes to filename.csv
         """
+        def flatten(xss):
+            return [x for xs in xss for x in xs]
+
+        def parse_again(m_ind, c_ind):
+            new_m = []
+            new_c = []
+            already_parsed = []
+            for m,c in zip(m_ind, c_ind):
+                if m not in already_parsed:
+                    new_m.append(m)
+                    new_c.append(c)
+                    already_parsed.append(m)
+            return new_m, new_c
         torch.cuda.empty_cache()
         masked_indices, tokenized_text, decoded_text, context = self.mask(text)
         if context == []:
             context = [[]*len(masked_indices)]
         prints = []
+        new_prints = []
+        #print(masked_indices)
+        #print(context)
+
+        if not flatten(masked_indices) == range(masked_indices[0][0], masked_indices[-1][-1]+1):
+            masked_indices, context = parse_again(masked_indices, context)
+        #for i,j in zip(masked_indices, context):
+        #    print(f"{i}, {j}: {self.tokenizer.decode(tokenized_text['input_ids'][0][i])} ")
+        
         for ind, cont in tqdm(zip(masked_indices, context), total=len(masked_indices)):
-            final_score, predictions = self.get_scores(ind, tokenized_text, cont, debug)
+            final_score, predictions, all_scores = self.get_scores(ind, tokenized_text, cont, debug)
             word = self.tokenizer.decode(tokenized_text["input_ids"][0][ind])
-            prints.append(f'{final_score},{word}\n')
+            all_words = [self.tokenizer.decode(tt) for tt in tokenized_text["input_ids"][0][ind]]
+            prints.append(f'{final_score}\t{word}\n')
+            for new_word, new_score in zip(all_words, all_scores):
+                new_prints.append(f'{final_score}\t{new_word}\t{new_score}\n')
+
         #print(prints)
-        with open(filename+".csv", "w") as f:
+        with open(filename+"_by_word.tsv", "w") as f:
             for row in prints:
+                f.write(row)
+        with open(filename+"_by_token.tsv", "w") as f:
+            for row in new_prints:
                 f.write(row)
         
 
@@ -414,6 +446,7 @@ class PiiDetector:
         # initialize the score; we're multiplying, so 1
         final_score = 1
         predictions = []
+        all_scores = []
     
         # loop over the subtokens of a word
         for i in range(len(to_be_masked)):
@@ -430,8 +463,9 @@ class PiiDetector:
             # multiply the final score with the predicted probability => aggregates over to_be_masked==one word
             score, preds = self.predict(t, current[0], tokens.input_ids[0][current[0]], print_results=debug)
             final_score *= score
+            all_scores.append(score)
             predictions.append(preds)
             
-        return final_score, predictions
+        return final_score, predictions, all_scores
 
     
