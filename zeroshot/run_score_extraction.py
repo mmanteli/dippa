@@ -28,7 +28,8 @@ model_map = {"cambridgeltl":"cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR
              "biomed-roberta": "allenai/biomed_roberta_base",
              "bert-en": "google-bert/bert-base-cased",
              "bert-es": "dccuchile/bert-base-spanish-wwm-uncased",
-             "biomed-es":"PlanTL-GOB-ES/roberta-base-biomedical-clinical-es"}
+             "biomed-es":"PlanTL-GOB-ES/roberta-base-biomedical-clinical-es",
+             "bioclin-bert":"emilyalsentzer/Bio_ClinicalBERT"}
 
 
 def reverse_annotations(text):
@@ -71,7 +72,7 @@ def extract(options):
 
     pd = PiiDetector(model, tokenizer, lemmatizer, 0, use_context=use_context)#, tokenizer_type="WordPiece")#, tokenizer_type="BPE")
 
-    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores/{options.lang}_test/{options.model}"
+    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores_by_token/{options.lang}/{split}/{options.model}"
     os.makedirs(save_path, exist_ok=True)
 
     for file in os.scandir(data_path):  
