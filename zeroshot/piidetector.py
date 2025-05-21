@@ -314,8 +314,8 @@ class PiiDetector:
 
 #-------------------------------predictions-------------------------------------#
 
-    def batched_prediction(self, masked_input, debug=False):
-        max_length = self.tokenizer.model_max_length
+    def batched_prediction(self, masked_input, debug=False, max_length=None):
+        max_length = self.tokenizer.model_max_length if max_length is None else max_length
         overlap = int(max_length/2)-1 # to facilitate adding additional CLS etc
 
         # get these to a more indexed format
@@ -352,7 +352,10 @@ class PiiDetector:
             with torch.no_grad():
                 model_out = self.model(**chunk_t)
             if self.tokenizer_type=="WordPiece":
-                logits = model_out["prediction_logits"]
+                try:
+                    logits = model_out["prediction_logits"]
+                except: 
+                    logits = model_out["logits"]
             elif self.tokenizer_type=="BPE":
                 logits = model_out["logits"]
             if debug: print(f"output size {logits.size()}")
@@ -386,14 +389,23 @@ class PiiDetector:
         # do a prediction
         with torch.no_grad():
             # do overlapping batch if too large input
-            if masked.input_ids.size()[1] > self.tokenizer.model_max_length:
+            # bypass dilbert and bioclin-bert's problems: they have not saved the max length correctly in the tokenizer
+            if self.tokenizer.model_max_length > 1e6:
+                max_len = self.model.bert.embeddings.position_embeddings.num_embeddings
+                #print(dir(max_len))
+                #print(max_len)
+                logits = self.batched_prediction(masked, max_length=max_len)
+            elif masked.input_ids.size()[1] > self.tokenizer.model_max_length:
                 #if self.debug:
                 #print(f"Text too long ({masked.input_ids.size()[1]}). Batching.")
                 logits = self.batched_prediction(masked)
             else:
                 model_out = self.model(**masked)
                 if self.tokenizer_type=="WordPiece":
-                    logits = model_out["prediction_logits"]
+                    try:
+                        logits = model_out["prediction_logits"]
+                    except: 
+                        logits = model_out["logits"]
                 elif self.tokenizer_type=="BPE":
                     logits = model_out["logits"]
         masked.to("cpu") # putting this bach to cpu to save memory
