@@ -10,10 +10,8 @@ import argparse
 import re
 
 
-split = "dev"
-
-
-path_for_data = {"fi":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/fi/{split}",
+# "dual key" dictionary
+path_for_data = lambda split: {"fi":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/fi/{split}",
                  "en":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/en/{split}",
                  "es":f"/scratch/project_2009498/dippa/deepl/translated_with_annotations/es/{split}",
                  }
@@ -29,7 +27,8 @@ model_map = {"cambridgeltl":"cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR
              "bert-en": "google-bert/bert-base-cased",
              "bert-es": "dccuchile/bert-base-spanish-wwm-uncased",
              "biomed-es":"PlanTL-GOB-ES/roberta-base-biomedical-clinical-es",
-             "bioclin-bert":"emilyalsentzer/Bio_ClinicalBERT"}
+             "bioclin-bert":"emilyalsentzer/Bio_ClinicalBERT",
+             "pubmed-bert": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"}
 
 
 def reverse_annotations(text):
@@ -57,7 +56,7 @@ def reverse_annotations(text):
     return parsed_text
 
 def extract(options):
-    data_path = path_for_data[options.lang]
+    data_path = path_for_data(options.split)[options.lang]
     MODEL_NAME = model_map.get(options.model, options.model)
     TOKENIZER_NAME = MODEL_NAME if MODEL_NAME!="cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" else "xlm-roberta-large"
     LEMMATIZER = lemmatizer_map[options.lang]
@@ -72,13 +71,14 @@ def extract(options):
 
     pd = PiiDetector(model, tokenizer, lemmatizer, 0, use_context=use_context)#, tokenizer_type="WordPiece")#, tokenizer_type="BPE")
 
-    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores_by_token/{options.lang}/{split}/{options.model}"
+    save_path = f"/scratch/project_2009498/dippa/zeroshot/scores_by_token/{options.lang}/{options.split}/{options.model}"
     os.makedirs(save_path, exist_ok=True)
 
     for file in os.scandir(data_path):  
         print(f"In file {file}")
         save_file = save_path+"/"+file.name.replace(".txt","")
-        if os.path.isfile(save_file):
+        if os.path.isfile(save_path+"/"+file.name.replace(".txt", "_by_token.tsv")):
+            print(f"\tfile {file.name} already done!")
             continue   # skip if already done
         with open(file, "r") as f:
             text_with_annotations = f.read()
@@ -98,6 +98,7 @@ def main():
     # Add required arguments
     parser.add_argument('--lang', required=True, type=str, help='Language code')
     parser.add_argument('--model', required=True, type=str, help='Model name')
+    parser.add_argument('--split', required=True, type=str, help="Data split")
 
     # Parse the arguments
     options = parser.parse_args()
