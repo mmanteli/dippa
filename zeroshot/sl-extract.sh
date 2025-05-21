@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=extract
-#SBATCH --account=project_2002026
+#SBATCH --account=project_2009498
 #SBATCH --time=06:15:00
 #SBATCH --partition=gpusmall
 #SBATCH --ntasks=1
@@ -14,10 +14,11 @@
 
 
 export HF_HOME=/scratch/project_2009498/cache
-lang=$1
-model=$2
+split=$1
+lang=$2
+model=$3
 
 #module purge
 #module load pytorch/2.4
 source .venv/bin/activate
-python run_score_extraction.py --lang=$1 --model=$2
+python run_score_extraction.py --split=$1 --lang=$2 --model=$3
