@@ -49,3 +49,6 @@ venv/
 
 to_be_translated*
 *scores*
+results_old
+!parse_final_scores.ipynb
+!results
